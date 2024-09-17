@@ -4,7 +4,6 @@ import React from 'react';
 export default function HomeScreen() {
     return (
       <View style={styles.container}>
-        {/* Image Sticking to the Top */}
         <Image
           source={require('/Users/ganeshk/Formula1/Components/Ferrari_Drivers.jpeg')}
           style={styles.image}
