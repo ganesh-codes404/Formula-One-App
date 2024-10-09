@@ -6,10 +6,9 @@ export default function Predictions() { {
   const [prediction, setPrediction] = useState(null);
 
   useEffect(() => {
-    // Load the model when the component mounts
     const loadModel = async () => {
       try {
-        const loadedModel = await tf.loadLayersModel('path/to/model.json'); // Path to your model
+        const loadedModel = await tf.loadLayersModel('path/to/model.json');
         setModel(loadedModel);
       } catch (error) {
         console.log('Error loading model:', error);
@@ -20,12 +19,11 @@ export default function Predictions() { {
 
   const handlePredict = async () => {
     if (model) {
-      // Create the input data (format based on your model's input)
       const inputData = tf.tensor2d([[/* Insert race data here */]]);
       
-      // Make a prediction
+
       const predictionOutput = model.predict(inputData);
-      const predictedValue = predictionOutput.dataSync(); // Extract prediction
+      const predictedValue = predictionOutput.dataSync();
       setPrediction(predictedValue);
     }
   };
