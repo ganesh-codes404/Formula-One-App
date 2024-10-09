@@ -5,7 +5,7 @@ export default function HomeScreen() {
     return (
       <View style={styles.container}>
         <Image
-          source={require('/Users/ganeshk/Formula1/Components/Ferrari_Drivers.jpeg')}
+          source={require('../assets/Ferrari_Drivers.jpeg')}
           style={styles.image}
         />
         <View style={styles.content}>

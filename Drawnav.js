@@ -10,7 +10,7 @@ import StandingsScreen from './Screens/Standings';
 import LoginScreen from './Screens/LoginScreen'; // Import the new Login screen
 import Ionicons from '@expo/vector-icons/Ionicons';
 import MaterialCommunityIcons from '@expo/vector-icons/MaterialCommunityIcons';
-
+import Predictions from './Screens/Predictions';
 const Drawer = createDrawerNavigator();
 const Stack = createStackNavigator();
 
@@ -18,7 +18,7 @@ const Stack = createStackNavigator();
 const CustomDrawerContent = (props) => (
   <View style={{ flex: 1 }}>
     {/* Company Logo */}
-    <Image source={require('/Users/ganeshk/Formula1/Components/Logo.jpg')} style={styles.logo} />
+    <Image source={require('./assets/Logo.jpg')} style={styles.logo} />
     {/* Drawer Items */}
     <DrawerItemList {...props} />
   </View>
@@ -51,7 +51,7 @@ const DrawerNavigation = () => (
     />
     <Drawer.Screen
       name="Predictions"
-      component={StandingsScreen}
+      component={Predictions}
       options={{
         title: 'Preditcions',
         drawerIcon: ({ focused, size }) => (
