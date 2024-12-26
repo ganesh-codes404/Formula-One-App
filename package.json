@@ -17,6 +17,7 @@
     "@react-navigation/native": "^7.0.14",
     "@react-navigation/stack": "^7.1.1",
     "@tensorflow/tfjs": "^4.21.0",
+    "axios": "^1.7.9",
     "expo": "^52.0.0",
     "expo-status-bar": "~1.12.1",
     "pip": "^0.0.1",
