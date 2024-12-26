@@ -11,6 +11,7 @@ import LoginScreen from './Screens/LoginScreen'; // Import the new Login screen
 import Ionicons from '@expo/vector-icons/Ionicons';
 import MaterialCommunityIcons from '@expo/vector-icons/MaterialCommunityIcons';
 import Predictions from './Screens/Predictions';
+import whatifScreen from './Screens/what-if';
 const Drawer = createDrawerNavigator();
 const Stack = createStackNavigator();
 
@@ -60,6 +61,16 @@ const DrawerNavigation = () => (
       }}
     />
     <Drawer.Screen
+      name="What-if"
+      component={whatifScreen}
+      options={{
+        title: 'What-if',
+        drawerIcon: ({ focused, size }) => (
+          <Ionicons name={focused ? "settings-sharp" : "settings-outline"} size={24} color="black" />
+        ),
+      }}
+    />
+    <Drawer.Screen
       name="Profile"
       component={ProfileScreen}
       options={{
@@ -69,6 +80,7 @@ const DrawerNavigation = () => (
         ),
       }}
     />
+
     <Drawer.Screen
       name="Settings"
       component={SettingsScreen}
@@ -79,6 +91,7 @@ const DrawerNavigation = () => (
         ),
       }}
     />
+
   </Drawer.Navigator>
 );
 
@@ -111,3 +124,58 @@ const styles = StyleSheet.create({
     marginBottom: 20,
   },
 });
+// import React from 'react';
+// import { GestureHandlerRootView } from 'react-native-gesture-handler';
+// import { NavigationContainer } from '@react-navigation/native';
+// import { createDrawerNavigator } from '@react-navigation/drawer';
+// import { View, Text, StyleSheet } from 'react-native';
+
+// // Placeholder components for your screens
+// function HomeScreen() {
+//   return (
+//     <View style={styles.container}>
+//       <Text>Home Screen</Text>
+//     </View>
+//   );
+// }
+
+// function ProfileScreen() {
+//   return (
+//     <View style={styles.container}>
+//       <Text>Profile Screen</Text>
+//     </View>
+//   );
+// }
+
+// function SettingsScreen() {
+//   return (
+//     <View style={styles.container}>
+//       <Text>Settings Screen</Text>
+//     </View>
+//   );
+// }
+
+// // Create Drawer Navigator
+// const Drawer = createDrawerNavigator();
+
+// export default function App() {
+//   return (
+//     <GestureHandlerRootView style={{ flex: 1 }}>
+//       <NavigationContainer>
+//         <Drawer.Navigator initialRouteName="Home">
+//           <Drawer.Screen name="Home" component={HomeScreen} />
+//           <Drawer.Screen name="Profile" component={ProfileScreen} />
+//           <Drawer.Screen name="Settings" component={SettingsScreen} />
+//         </Drawer.Navigator>
+//       </NavigationContainer>
+//     </GestureHandlerRootView>
+//   );
+// }
+
+// const styles = StyleSheet.create({
+//   container: {
+//     flex: 1,
+//     justifyContent: 'center',
+//     alignItems: 'center',
+//   },
+// });
