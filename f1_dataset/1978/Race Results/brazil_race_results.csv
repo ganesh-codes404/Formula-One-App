@@ -1,0 +1,25 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Laps,Time/Retired,Points
+1,11,Carlos Reutemann,REU,Ferrari,63.0,1:49:59.860,9
+2,14,Emerson Fittipaldi,FIT,Fittipaldi Ford,63.0,+49.130s,6
+3,1,Niki Lauda,LAU,Brabham Alfa Romeo,63.0,+57.020s,4
+4,5,Mario Andretti,AND,Lotus Ford,63.0,+93.120s,3
+5,17,Clay Regazzoni,REG,Shadow Ford,62.0,+1 lap,2
+6,3,Didier Pironi,PIR,Tyrrell Ford,62.0,+1 lap,1
+7,9,Jochen Mass,MAS,ATS Ford,62.0,+1 lap,0
+8,2,John Watson,WAT,Brabham Alfa Romeo,61.0,+2 laps,0
+9,26,Jacques Laffite,LAF,Ligier Matra,61.0,+2 laps,0
+10,36,Riccardo Patrese,PAT,Arrows Ford,59.0,+4 laps,0
+11,27,Alan Jones,JON,Williams Ford,58.0,+5 laps,0
+NC,25,Hector Rebaque,REB,Lotus Ford,40.0,DNF,0
+NC,12,Gilles Villeneuve,VIL,Ferrari,35.0,DNF,0
+NC,8,Patrick Tambay,TAM,McLaren Ford,34.0,DNF,0
+NC,16,Hans-Joachim Stuck,STU,Shadow Ford,25.0,DNF,0
+NC,7,James Hunt,HUN,McLaren Ford,25.0,DNF,0
+NC,20,Jody Scheckter,SCH,Wolf Ford,16.0,DNF,0
+NC,6,Ronnie Peterson,PET,Lotus Ford,15.0,DNF,0
+NC,22,Danny Ongais,ONG,Ensign Ford,13.0,DNF,0
+NC,30,Brett Lunger,LUN,McLaren Ford,11.0,DNF,0
+NC,4,Patrick Depailler,DEP,Tyrrell Ford,8.0,DNF,0
+NC,18,Rupert Keegan,KEE,Surtees Ford,5.0,DNF,0
+NC,23,Lamberto Leoni,LEO,Ensign Ford,0.0,DNF,0
+NC,10,Jean-Pierre Jarier,JAR,ATS Ford,,DNS,0

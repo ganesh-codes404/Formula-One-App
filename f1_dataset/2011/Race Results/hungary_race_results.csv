@@ -1,0 +1,25 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Laps,Time/Retired,Points
+1,4,Jenson Button,BUT,McLaren Mercedes,70,1:46:42.337,25
+2,1,Sebastian Vettel,VET,Red Bull Racing Renault,70,+3.588s,18
+3,5,Fernando Alonso,ALO,Ferrari,70,+19.819s,15
+4,3,Lewis Hamilton,HAM,McLaren Mercedes,70,+48.338s,12
+5,2,Mark Webber,WEB,Red Bull Racing Renault,70,+49.742s,10
+6,6,Felipe Massa,MAS,Ferrari,70,+83.176s,8
+7,15,Paul di Resta,DIR,Force India Mercedes,69,+1 lap,6
+8,18,Sebastien Buemi,BUE,STR Ferrari,69,+1 lap,4
+9,8,Nico Rosberg,ROS,Mercedes,69,+1 lap,2
+10,19,Jaime Alguersuari,ALG,STR Ferrari,69,+1 lap,1
+11,16,Kamui Kobayashi,KOB,Sauber Ferrari,69,+1 lap,0
+12,10,Vitaly Petrov,PET,Renault,69,+1 lap,0
+13,11,Rubens Barrichello,BAR,Williams Cosworth,68,+2 laps,0
+14,14,Adrian Sutil,SUT,Force India Mercedes,68,+2 laps,0
+15,17,Sergio Perez,PER,Sauber Ferrari,68,+2 laps,0
+16,12,Pastor Maldonado,MAL,Williams Cosworth,68,+2 laps,0
+17,24,Timo Glock,GLO,Virgin Cosworth,66,+4 laps,0
+18,22,Daniel Ricciardo,RIC,HRT Cosworth,66,+4 laps,0
+19,25,Jerome d'Ambrosio,DAM,Virgin Cosworth,65,+5 laps,0
+20,23,Vitantonio Liuzzi,LIU,HRT Cosworth,65,+5 laps,0
+NC,20,Heikki Kovalainen,KOV,Lotus Renault,55,DNF,0
+NC,7,Michael Schumacher,MSC,Mercedes,26,DNF,0
+NC,9,Nick Heidfeld,HEI,Renault,23,DNF,0
+NC,21,Jarno Trulli,TRU,Lotus Renault,17,DNF,0

@@ -1,0 +1,23 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Laps,Time/Retired,Points
+1,8,Heinz-Harald Frentzen,FRE,Jordan Mugen Honda,53,1:17:02.923,10
+2,6,Ralf Schumacher,RSC,Williams Supertec,53,+3.272s,6
+3,3,Mika Salo,SAL,Ferrari,53,+11.932s,4
+4,16,Rubens Barrichello,BAR,Stewart Ford,53,+17.630s,3
+5,2,David Coulthard,COU,McLaren Mercedes,53,+18.142s,2
+6,4,Eddie Irvine,IRV,Ferrari,53,+27.402s,1
+7,5,Alessandro Zanardi,ZAN,Williams Supertec,53,+28.047s,0
+8,22,Jacques Villeneuve,VIL,BAR Supertec,53,+41.797s,0
+9,11,Jean Alesi,ALE,Sauber Petronas,53,+42.198s,0
+10,7,Damon Hill,HIL,Jordan Mugen Honda,53,+56.259s,0
+11,18,Olivier Panis,PAN,Prost Peugeot,52,DNF,0
+NC,17,Johnny Herbert,HER,Stewart Ford,40,DNF,0
+NC,15,Toranosuke Takagi,TAK,Arrows,35,DNF,0
+NC,14,Pedro de la Rosa,DLR,Arrows,35,DNF,0
+NC,1,Mika Hakkinen,HAK,McLaren Mercedes,29,DNF,0
+NC,19,Jarno Trulli,TRU,Prost Peugeot,29,DNF,0
+NC,23,Ricardo Zonta,ZON,BAR Supertec,25,DNF,0
+NC,20,Luca Badoer,BAD,Minardi Ford,23,DNF,0
+NC,10,Alexander Wurz,WUR,Benetton Playlife,11,DNF,0
+NC,12,Pedro Diniz,DIN,Sauber Petronas,1,DNF,0
+NC,9,Giancarlo Fisichella,FIS,Benetton Playlife,1,DNF,0
+NC,21,Marc Gene,GEN,Minardi Ford,0,DNF,0

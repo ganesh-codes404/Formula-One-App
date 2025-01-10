@@ -1,0 +1,21 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Q1,Q2,Q3,Laps
+1,5,Sebastian Vettel,VET,Ferrari,1:29.060,1:28.341,1:27.958,13
+2,7,Kimi Räikkönen,RAI,Ferrari,1:28.951,1:28.515,1:28.101,13
+3,77,Valtteri Bottas,BOT,Mercedes,1:29.275,1:28.794,1:28.124,16
+4,44,Lewis Hamilton,HAM,Mercedes,1:29.396,1:28.458,1:28.220,16
+5,3,Daniel Ricciardo,RIC,Red Bull Racing TAG Heuer,1:29.552,1:28.962,1:28.398,12
+6,10,Pierre Gasly,GAS,Scuderia Toro Rosso Honda,1:30.121,1:29.836,1:29.329,18
+7,20,Kevin Magnussen,MAG,Haas Ferrari,1:29.594,1:29.623,1:29.358,16
+8,27,Nico Hulkenberg,HUL,Renault,1:30.260,1:29.187,1:29.570,15
+9,31,Esteban Ocon,OCO,Force India Mercedes,1:30.338,1:30.009,1:29.874,16
+10,55,Carlos Sainz,SAI,Renault,1:29.893,1:29.802,1:29.986,18
+11,28,Brendon Hartley,HAR,Scuderia Toro Rosso Honda,1:30.412,1:30.105,DNQ,15
+12,11,Sergio Perez,PER,Force India Mercedes,1:30.218,1:30.156,DNQ,11
+13,14,Fernando Alonso,ALO,McLaren Renault,1:30.530,1:30.212,DNQ,12
+14,2,Stoffel Vandoorne,VAN,McLaren Renault,1:30.479,1:30.525,DNQ,12
+15,33,Max Verstappen,VER,Red Bull Racing TAG Heuer,1:29.374,DNQ,DNQ,4
+16,8,Romain Grosjean,GRO,Haas Ferrari,1:30.530,DNQ,DNQ,7
+17,9,Marcus Ericsson,ERI,Sauber Ferrari,1:31.063,DNQ,DNQ,9
+18,35,Sergey Sirotkin,SIR,Williams Mercedes,1:31.414,DNQ,DNQ,8
+19,16,Charles Leclerc,LEC,Sauber Ferrari,1:31.420,DNQ,DNQ,8
+20,18,Lance Stroll,STR,Williams Mercedes,1:31.503,DNQ,DNQ,8

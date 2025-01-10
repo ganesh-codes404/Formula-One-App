@@ -1,0 +1,23 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Laps,Time/Retired,Points
+1,5,Michael Schumacher,MSC,Ferrari,62,2:00:05.654,10
+2,22,Rubens Barrichello,BAR,Stewart Ford,62,+53.306s,6
+3,6,Eddie Irvine,IRV,Ferrari,62,+82.108s,4
+4,14,Olivier Panis,PAN,Prost Mugen Honda,62,+104.402s,3
+5,19,Mika Salo,SAL,Tyrrell Ford,61,+1 lap,2
+6,12,Giancarlo Fisichella,FIS,Jordan Peugeot,61,+1 lap,1
+7,23,Jan Magnussen,MAG,Stewart Ford,61,+1 lap,0
+8,18,Jos Verstappen,VER,Tyrrell Ford,60,+2 laps,0
+9,8,Gerhard Berger,BER,Benetton Renault,60,+2 laps,0
+10,20,Ukyo Katayama,KAT,Minardi Hart,60,+2 laps,0
+NC,4,Heinz-Harald Frentzen,FRE,Williams Renault,39,DNF,0
+NC,15,Shinji Nakano,NAK,Prost Mugen Honda,36,DNF,0
+NC,17,Nicola Larini,LAR,Sauber Petronas,24,DNF,0
+NC,7,Jean Alesi,ALE,Benetton Renault,16,DNF,0
+NC,3,Jacques Villeneuve,VIL,Williams Renault,16,DNF,0
+NC,11,Ralf Schumacher,RSC,Jordan Peugeot,10,DNF,0
+NC,16,Johnny Herbert,HER,Sauber Petronas,9,DNF,0
+NC,21,Jarno Trulli,TRU,Minardi Hart,7,DNF,0
+NC,10,David Coulthard,COU,McLaren Mercedes,1,DNF,0
+NC,9,Mika Hakkinen,HAK,McLaren Mercedes,1,DNF,0
+NC,1,Damon Hill,HIL,Arrows Yamaha,1,DNF,0
+NC,2,Pedro Diniz,DIN,Arrows Yamaha,0,DNF,0

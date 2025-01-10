@@ -1,0 +1,22 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Laps,Time/Retired,Points
+1,14,Peter Collins,COL,Ferrari,61.0,2:34:23.400,8
+2,12,Eugenio Castellotti,CAS,Ferrari,61.0,+0.300s,6
+3,4,Jean Behra,BEH,Maserati,61.0,+89.900s,4
+4,10,Juan Manuel Fangio,FAN,Ferrari,61.0,+95.100s,4
+5,6,Cesare Perdisa,PER,Maserati,,SHC,1
+5,6,Stirling Moss,MOS,Maserati,59.0,+2 laps,1
+6,36,Louis Rosier,ROS,Maserati,58.0,+3 laps,0
+7,40,Paco Godia,GOD,Maserati,57.0,+4 laps,0
+8,32,Hermano da Silva Ramos,DAS,Gordini,57.0,+4 laps,0
+9,30,Robert Manzon,MAN,Gordini,56.0,+5 laps,0
+10,24,Mike Hawthorn,HAW,Vanwall,,SHC,0
+10,24,Harry Schell,SCH,Vanwall,56.0,+5 laps,0
+11,34,Andre Pilette,PIL,Gordini,55.0,+6 laps,0
+NC,42,Andre Simon,SIM,Maserati,41.0,DNF,0
+NC,8,Piero Taruffi,TAR,Maserati,40.0,DNF,0
+NC,44,Olivier Gendebien,GEN,Ferrari,38.0,DNF,0
+NC,38,Luigi Villoresi,VIL,Maserati,23.0,DNF,0
+NC,16,Alfonso de Portago,DEP,Ferrari,20.0,DNF,0
+NC,28,Maurice Trintignant,TRI,Bugatti,18.0,DNF,0
+NC,2,Stirling Moss,MOS,Maserati,12.0,DNF,0
+NC,22,Harry Schell,SCH,Vanwall,5.0,DNF,0

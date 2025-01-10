@@ -1,0 +1,23 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Laps,Time/Retired,Points
+1,4,Rubens Barrichello,BAR,Ferrari,45,1:25:34.418,10
+2,1,Mika Hakkinen,HAK,McLaren Mercedes,45,+7.452s,6
+3,2,David Coulthard,COU,McLaren Mercedes,45,+21.168s,4
+4,10,Jenson Button,BUT,Williams BMW,45,+22.685s,3
+5,17,Mika Salo,SAL,Sauber Petronas,45,+27.112s,2
+6,18,Pedro de la Rosa,DLR,Arrows Supertec,45,+29.079s,1
+7,9,Ralf Schumacher,RSC,Williams BMW,45,+30.897s,0
+8,22,Jacques Villeneuve,VIL,BAR Honda,45,+47.537s,0
+9,6,Jarno Trulli,TRU,Jordan Mugen Honda,45,+50.901s,0
+10,7,Eddie Irvine,IRV,Jaguar Cosworth,45,+79.664s,0
+11,21,Gaston Mazzacane,MAZ,Minardi Fondmetal,45,+89.504s,0
+12,15,Nick Heidfeld,HEI,Prost Peugeot,40,DNF,0
+NC,5,Heinz-Harald Frentzen,FRE,Jordan Mugen Honda,39,DNF,0
+NC,19,Jos Verstappen,VER,Arrows Supertec,39,DNF,0
+NC,23,Ricardo Zonta,ZON,BAR Honda,37,DNF,0
+NC,20,Marc Gene,GEN,Minardi Fondmetal,33,DNF,0
+NC,12,Alexander Wurz,WUR,Benetton Playlife,31,DNF,0
+NC,16,Pedro Diniz,DIN,Sauber Petronas,29,DNF,0
+NC,14,Jean Alesi,ALE,Prost Peugeot,29,DNF,0
+NC,8,Johnny Herbert,HER,Jaguar Cosworth,12,DNF,0
+NC,3,Michael Schumacher,MSC,Ferrari,0,DNF,0
+NC,11,Giancarlo Fisichella,FIS,Benetton Playlife,0,DNF,0

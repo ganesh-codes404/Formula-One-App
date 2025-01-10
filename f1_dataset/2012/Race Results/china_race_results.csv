@@ -1,0 +1,25 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Laps,Time/Retired,Points
+1,8,Nico Rosberg,ROS,Mercedes,56,1:36:26.929,25
+2,3,Jenson Button,BUT,McLaren Mercedes,56,+20.626s,18
+3,4,Lewis Hamilton,HAM,McLaren Mercedes,56,+26.012s,15
+4,2,Mark Webber,WEB,Red Bull Racing Renault,56,+27.924s,12
+5,1,Sebastian Vettel,VET,Red Bull Racing Renault,56,+30.483s,10
+6,10,Romain Grosjean,GRO,Lotus Renault,56,+31.491s,8
+7,19,Bruno Senna,SEN,Williams Renault,56,+34.597s,6
+8,18,Pastor Maldonado,MAL,Williams Renault,56,+35.643s,4
+9,5,Fernando Alonso,ALO,Ferrari,56,+37.256s,2
+10,14,Kamui Kobayashi,KOB,Sauber Ferrari,56,+38.720s,1
+11,15,Sergio Perez,PER,Sauber Ferrari,56,+41.066s,0
+12,11,Paul di Resta,DIR,Force India Mercedes,56,+42.273s,0
+13,6,Felipe Massa,MAS,Ferrari,56,+42.779s,0
+14,9,Kimi Räikkönen,RAI,Lotus Renault,56,+50.573s,0
+15,12,Nico Hulkenberg,HUL,Force India Mercedes,56,+51.213s,0
+16,17,Jean-Eric Vergne,VER,STR Ferrari,56,+51.756s,0
+17,16,Daniel Ricciardo,RIC,STR Ferrari,56,+63.156s,0
+18,21,Vitaly Petrov,PET,Caterham Renault,55,+1 lap,0
+19,24,Timo Glock,GLO,Marussia Cosworth,55,+1 lap,0
+20,25,Charles Pic,PIC,Marussia Cosworth,55,+1 lap,0
+21,22,Pedro de la Rosa,DLR,HRT Cosworth,55,+1 lap,0
+22,23,Narain Karthikeyan,KAR,HRT Cosworth,54,+2 laps,0
+23,20,Heikki Kovalainen,KOV,Caterham Renault,53,+3 laps,0
+NC,7,Michael Schumacher,MSC,Mercedes,12,DNF,0

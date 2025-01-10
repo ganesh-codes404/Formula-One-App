@@ -1,0 +1,21 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Q1,Q2,Q3,Laps
+1,16,Charles Leclerc,LEC,Ferrari,1:42.241,1:41.659,1:41.218,19
+2,44,Lewis Hamilton,HAM,Mercedes,1:41.545,1:41.634,1:41.450,21
+3,33,Max Verstappen,VER,Red Bull Racing Honda,1:41.760,1:41.625,1:41.563,19
+4,10,Pierre Gasly,GAS,AlphaTauri Honda,1:42.288,1:41.932,1:41.565,18
+5,55,Carlos Sainz,SAI,Ferrari,1:42.121,1:41.740,1:41.576,18
+6,4,Lando Norris,NOR,McLaren Mercedes,1:42.167,1:41.813,1:41.747,20
+7,11,Sergio Perez,PER,Red Bull Racing Honda,1:41.968,1:41.630,1:41.917,18
+8,22,Yuki Tsunoda,TSU,AlphaTauri Honda,1:42.521,1:41.654,1:42.211,19
+9,14,Fernando Alonso,ALO,Alpine Renault,1:42.934,1:42.195,1:42.327,20
+10,77,Valtteri Bottas,BOT,Mercedes,1:42.701,1:42.106,1:42.659,21
+11,5,Sebastian Vettel,VET,Aston Martin Mercedes,1:42.460,1:42.224,DNQ,15
+12,31,Esteban Ocon,OCO,Alpine Renault,1:42.426,1:42.273,DNQ,11
+13,3,Daniel Ricciardo,RIC,McLaren Mercedes,1:42.304,1:42.558,DNQ,14
+14,7,Kimi Räikkönen,RAI,Alfa Romeo Racing Ferrari,1:42.923,1:42.587,DNQ,15
+15,63,George Russell,RUS,Williams Mercedes,1:42.728,1:42.758,DNQ,12
+16,6,Nicholas Latifi,LAT,Williams Mercedes,1:43.128,DNQ,DNQ,8
+17,47,Mick Schumacher,MSC,Haas Ferrari,1:44.158,DNQ,DNQ,10
+18,9,Nikita Mazepin,MAZ,Haas Ferrari,1:44.238,DNQ,DNQ,9
+RT,18,Lance Stroll,STR,Aston Martin Mercedes,DNF,DNQ,DNQ,2
+RT,99,Antonio Giovinazzi,GIO,Alfa Romeo Racing Ferrari,DNF,DNQ,DNQ,4

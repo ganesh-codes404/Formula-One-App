@@ -1,0 +1,21 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Laps,Time/Retired,Points
+1,3,Daniel Ricciardo,RIC,Red Bull Racing TAG Heuer,78,1:42:54.807,25
+2,5,Sebastian Vettel,VET,Ferrari,78,+7.336s,18
+3,44,Lewis Hamilton,HAM,Mercedes,78,+17.013s,15
+4,7,Kimi Räikkönen,RAI,Ferrari,78,+18.127s,12
+5,77,Valtteri Bottas,BOT,Mercedes,78,+18.822s,10
+6,31,Esteban Ocon,OCO,Force India Mercedes,78,+23.667s,8
+7,10,Pierre Gasly,GAS,Scuderia Toro Rosso Honda,78,+24.331s,6
+8,27,Nico Hulkenberg,HUL,Renault,78,+24.839s,4
+9,33,Max Verstappen,VER,Red Bull Racing TAG Heuer,78,+25.317s,2
+10,55,Carlos Sainz,SAI,Renault,78,+69.013s,1
+11,9,Marcus Ericsson,ERI,Sauber Ferrari,78,+69.864s,0
+12,11,Sergio Perez,PER,Force India Mercedes,78,+70.461s,0
+13,20,Kevin Magnussen,MAG,Haas Ferrari,78,+74.823s,0
+14,2,Stoffel Vandoorne,VAN,McLaren Renault,77,+1 lap,0
+15,8,Romain Grosjean,GRO,Haas Ferrari,77,+1 lap,0
+16,35,Sergey Sirotkin,SIR,Williams Mercedes,77,+1 lap,0
+17,18,Lance Stroll,STR,Williams Mercedes,76,+2 laps,0
+18,16,Charles Leclerc,LEC,Sauber Ferrari,70,DNF,0
+19,28,Brendon Hartley,HAR,Scuderia Toro Rosso Honda,70,DNF,0
+NC,14,Fernando Alonso,ALO,McLaren Renault,52,DNF,0

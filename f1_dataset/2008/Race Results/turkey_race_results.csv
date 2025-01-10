@@ -1,0 +1,21 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Laps,Time/Retired,Points
+1,2,Felipe Massa,MAS,Ferrari,58,1:26:49.451,10
+2,22,Lewis Hamilton,HAM,McLaren Mercedes,58,+3.779s,8
+3,1,Kimi Räikkönen,RAI,Ferrari,58,+4.271s,6
+4,4,Robert Kubica,KUB,Sauber BMW,58,+21.945s,5
+5,3,Nick Heidfeld,HEI,Sauber BMW,58,+38.741s,4
+6,5,Fernando Alonso,ALO,Renault,58,+53.724s,3
+7,10,Mark Webber,WEB,Red Bull Renault,58,+64.229s,2
+8,7,Nico Rosberg,ROS,Williams Toyota,58,+71.406s,1
+9,9,David Coulthard,COU,Red Bull Renault,58,+75.270s,0
+10,11,Jarno Trulli,TRU,Toyota,58,+76.344s,0
+11,16,Jenson Button,BUT,Honda,57,+1 lap,0
+12,23,Heikki Kovalainen,KOV,McLaren Mercedes,57,+1 lap,0
+13,12,Timo Glock,GLO,Toyota,57,+1 lap,0
+14,17,Rubens Barrichello,BAR,Honda,57,+1 lap,0
+15,6,Nelson Piquet,PIQ,Renault,57,+1 lap,0
+16,20,Adrian Sutil,SUT,Force India Ferrari,57,+1 lap,0
+17,15,Sebastian Vettel,VET,STR Ferrari,57,+1 lap,0
+NC,14,Sebastien Bourdais,BOU,STR Ferrari,24,DNF,0
+NC,8,Kazuki Nakajima,NAK,Williams Toyota,1,DNF,0
+NC,21,Giancarlo Fisichella,FIS,Force India Ferrari,0,DNF,0

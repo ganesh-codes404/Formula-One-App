@@ -1,0 +1,25 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Q1,Q2,Q3,Laps
+1,1,Sebastian Vettel,VET,Red Bull Racing Renault,1:27.039,1:25.610,1:25.049,12
+2,2,Mark Webber,WEB,Red Bull Racing Renault,1:27.090,1:26.075,1:25.454,10
+3,8,Nico Rosberg,ROS,Mercedes,1:27.514,1:25.801,1:25.574,15
+4,3,Lewis Hamilton,HAM,McLaren Mercedes,1:27.091,1:26.066,1:25.595,13
+5,5,Fernando Alonso,ALO,Ferrari,1:27.349,1:26.152,1:25.851,16
+6,4,Jenson Button,BUT,McLaren Mercedes,1:27.374,1:26.485,1:25.982,14
+7,10,Vitaly Petrov,PET,Renault,1:27.475,1:26.654,1:26.296,15
+8,7,Michael Schumacher,MSC,Mercedes,1:27.697,1:26.121,1:26.646,13
+9,9,Nick Heidfeld,HEI,Renault,1:27.901,1:26.740,1:26.659,13
+10,6,Felipe Massa,MAS,Ferrari,1:27.013,1:26.395,DNF,16
+11,11,Rubens Barrichello,BAR,Williams Cosworth,1:28.246,1:26.764,DNQ,10
+12,14,Adrian Sutil,SUT,Force India Mercedes,1:27.392,1:27.027,DNQ,14
+13,15,Paul di Resta,DIR,Force India Mercedes,1:27.625,1:27.145,DNQ,11
+14,12,Pastor Maldonado,MAL,Williams Cosworth,1:27.396,1:27.236,DNQ,14
+15,17,Sergio Perez,PER,Sauber Ferrari,1:27.778,1:27.244,DNQ,11
+16,18,Sebastien Buemi,BUE,STR Ferrari,1:27.620,1:27.255,DNQ,9
+17,19,Jaime Alguersuari,ALG,STR Ferrari,1:28.055,1:27.572,DNQ,7
+18,20,Heikki Kovalainen,KOV,Lotus Renault,1:28.780,DNQ,DNQ,8
+19,21,Jarno Trulli,TRU,Lotus Renault,1:29.673,DNQ,DNQ,8
+20,25,Jerome d'Ambrosio,DAM,Virgin Cosworth,1:30.445,DNQ,DNQ,8
+21,23,Vitantonio Liuzzi,LIU,HRT Cosworth,1:30.692,DNQ,DNQ,7
+22,24,Timo Glock,GLO,Virgin Cosworth,1:30.813,DNQ,DNQ,8
+23,22,Narain Karthikeyan,KAR,HRT Cosworth,1:31.564,DNQ,DNQ,8
+NC,16,Kamui Kobayashi,KOB,Sauber Ferrari,DNF,DNQ,DNQ,2

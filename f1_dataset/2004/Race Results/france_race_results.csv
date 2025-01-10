@@ -1,0 +1,21 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Laps,Time/Retired,Points
+1,1,Michael Schumacher,MSC,Ferrari,70,1:30:18.133,10
+2,8,Fernando Alonso,ALO,Renault,70,+8.329s,8
+3,2,Rubens Barrichello,BAR,Ferrari,70,+31.622s,6
+4,7,Jarno Trulli,TRU,Renault,70,+32.082s,5
+5,9,Jenson Button,BUT,BAR Honda,70,+32.484s,4
+6,5,David Coulthard,COU,McLaren Mercedes,70,+35.520s,3
+7,6,Kimi Räikkönen,RAI,McLaren Mercedes,70,+36.230s,2
+8,3,Juan Pablo Montoya,MOY,Williams BMW,70,+43.419s,1
+9,14,Mark Webber,WEB,Jaguar Cosworth,70,+52.394s,0
+10,4,Marc Gene,GEN,Williams BMW,70,+58.166s,0
+11,15,Christian Klien,KLI,Jaguar Cosworth,69,+1 lap,0
+12,11,Giancarlo Fisichella,FIS,Sauber Petronas,69,+1 lap,0
+13,12,Felipe Massa,MAS,Sauber Petronas,69,+1 lap,0
+14,16,Cristiano da Matta,DAM,Toyota,69,+1 lap,0
+15,17,Olivier Panis,PAN,Toyota,68,+2 laps,0
+16,18,Nick Heidfeld,HEI,Jordan Ford,68,+2 laps,0
+17,19,Giorgio Pantano,PAN,Jordan Ford,67,+3 laps,0
+18,20,Gianmaria Bruni,BRU,Minardi Cosworth,65,DNF,0
+NC,21,Zsolt Baumgartner,BAU,Minardi Cosworth,31,DNF,0
+NC,10,Takuma Sato,SAT,BAR Honda,15,DNF,0

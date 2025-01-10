@@ -1,0 +1,23 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Q1,Q2,Q3,Laps
+1,10,Lewis Hamilton,HAM,Mercedes,2:00.368,1:49.067,2:01.012,22
+2,1,Sebastian Vettel,VET,Red Bull Racing Renault,2:01.863,1:48.646,2:01.200,19
+3,2,Mark Webber,WEB,Red Bull Racing Renault,2:01.597,1:48.641,2:01.325,20
+4,9,Nico Rosberg,ROS,Mercedes,2:01.099,1:48.552,2:02.251,20
+5,14,Paul di Resta,DIR,Force India Mercedes,2:02.338,1:48.925,2:02.332,22
+6,5,Jenson Button,BUT,McLaren Mercedes,2:01.301,1:48.641,2:03.075,21
+7,8,Romain Grosjean,GRO,Lotus Renault,2:02.476,1:48.649,2:03.081,22
+8,7,Kimi Räikkönen,RAI,Lotus Renault,2:01.151,1:48.296,2:03.390,22
+9,3,Fernando Alonso,ALO,Ferrari,2:00.190,1:48.309,2:03.482,21
+10,4,Felipe Massa,MAS,Ferrari,2:01.462,1:49.020,2:04.059,21
+11,11,Nico Hulkenberg,HUL,Sauber Ferrari,2:01.712,1:49.088,DNQ,17
+12,15,Adrian Sutil,SUT,Force India Mercedes,2:02.749,1:49.103,DNQ,17
+13,6,Sergio Perez,PER,McLaren Mercedes,2:02.425,1:49.304,DNQ,16
+14,21,Giedo van der Garde,VDG,Caterham Renault,2:00.564,1:52.036,DNQ,15
+15,22,Jules Bianchi,BIA,Marussia Cosworth,2:02.110,1:52.563,DNQ,16
+16,23,Max Chilton,CHI,Marussia Cosworth,2:02.948,1:52.762,DNQ,17
+17,16,Pastor Maldonado,MAL,Williams Renault,2:03.072,DNQ,DNQ,10
+18,18,Jean-Eric Vergne,VER,STR Ferrari,2:03.300,DNQ,DNQ,10
+19,19,Daniel Ricciardo,RIC,STR Ferrari,2:03.317,DNQ,DNQ,10
+20,17,Valtteri Bottas,BOT,Williams Renault,2:03.432,DNQ,DNQ,10
+21,12,Esteban Gutierrez,GUT,Sauber Ferrari,2:04.324,DNQ,DNQ,10
+22,20,Charles Pic,PIC,Caterham Renault,2:07.384,DNQ,DNQ,8

@@ -1,0 +1,23 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Laps,Time/Retired,Points
+1,5,Mario Andretti,AND,Lotus Ford,80,1:51:35.470,9
+2,11,Niki Lauda,LAU,Ferrari,80,+0.773s,6
+3,20,Jody Scheckter,SCH,Wolf Ford,80,+4.857s,4
+4,4,Patrick Depailler,DEP,Tyrrell Ford,80,+74.487s,3
+5,28,Emerson Fittipaldi,FIT,Fittipaldi Ford,80,+80.908s,2
+6,34,Jean-Pierre Jarier,JAR,Penske Ford,79,+1 lap,1
+7,1,James Hunt,HUN,McLaren Ford,79,+1 lap,0
+8,6,Gunnar Nilsson,NIL,Lotus Ford,79,+1 lap,0
+9,26,Jacques Laffite,LAF,Ligier Matra,78,DNF,0
+10,10,Brian Henton,HEN,March Ford,77,+3 laps,0
+11,18,Hans Binder,BIN,Surtees Ford,77,+3 laps,0
+NC,3,Ronnie Peterson,PET,Tyrrell Ford,62,DNF,0
+NC,22,Clay Regazzoni,REG,Ensign Ford,57,DNF,0
+NC,8,Hans-Joachim Stuck,STU,Brabham Alfa Romeo,53,DNF,0
+NC,17,Alan Jones,JON,Shadow Ford,40,DNF,0
+NC,2,Jochen Mass,MAS,McLaren Ford,39,DNF,0
+DQ,7,John Watson,WAT,Brabham Alfa Romeo,33,DSQ,0
+NC,16,Renzo Zorzi,ZOR,Shadow Ford,27,DNF,0
+NC,9,Alex Ribeiro,RIB,March Ford,15,DNF,0
+NC,12,Carlos Reutemann,REU,Ferrari,5,DNF,0
+NC,30,Brett Lunger,LUN,March Ford,4,DNF,0
+NC,19,Vittorio Brambilla,BRA,Surtees Ford,0,DNF,0

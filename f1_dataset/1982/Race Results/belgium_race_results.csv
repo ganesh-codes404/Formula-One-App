@@ -1,0 +1,27 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Laps,Time/Retired,Points
+1,7,John Watson,WAT,McLaren Ford,70,1:35:41.995,9
+2,6,Keke Rosberg,ROS,Williams Ford,70,+7.268s,6
+DQ,8,Niki Lauda,LAU,McLaren Ford,70,DSQ,0
+3,25,Eddie Cheever,CHE,Ligier Matra,69,+1 lap,4
+4,11,Elio de Angelis,DEA,Lotus Ford,68,+2 laps,3
+5,1,Nelson Piquet,PIQ,Brabham BMW,67,+3 laps,2
+6,20,Chico Serra,SER,Fittipaldi Ford,67,+3 laps,1
+7,29,Marc Surer,SUR,Arrows Ford,66,+4 laps,0
+8,18,Raul Boesel,BOE,March Ford,66,+4 laps,0
+9,26,Jacques Laffite,LAF,Ligier Matra,66,+4 laps,0
+NC,5,Derek Daly,DAL,Williams Ford,60,DNF,0
+NC,17,Jochen Mass,MAS,March Ford,60,DNF,0
+NC,15,Alain Prost,PRO,Renault,59,DNF,0
+NC,2,Riccardo Patrese,PAT,Brabham BMW,52,DNF,0
+NC,30,Mauro Baldi,BAL,Arrows Ford,51,DNF,0
+NC,31,Jean-Pierre Jarier,JAR,Osella Ford,37,DNF,0
+NC,22,Andrea de Cesaris,DEC,Alfa Romeo,34,DNF,0
+NC,4,Brian Henton,HEN,Tyrrell Ford,33,DNF,0
+NC,3,Michele Alboreto,ALB,Tyrrell Ford,29,DNF,0
+NC,35,Derek Warwick,WAR,Toleman Hart,29,DNF,0
+NC,36,Teo Fabi,FAB,Toleman Hart,13,DNF,0
+NC,12,Nigel Mansell,MAN,Lotus Ford,9,DNF,0
+NC,16,Rene Arnoux,ARN,Renault,7,DNF,0
+NC,9,Manfred Winkelhock,WIN,ATS Ford,0,DNF,0
+NC,10,Eliseo Salazar,SAL,ATS Ford,0,DNF,0
+NC,23,Bruno Giacomelli,GIA,Alfa Romeo,0,DNF,0

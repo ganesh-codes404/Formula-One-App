@@ -1,0 +1,26 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Laps,Time/Retired,Points
+1,1,Ayrton Senna,SEN,McLaren Honda,44,1:27:17.669,10
+2,2,Gerhard Berger,BER,McLaren Honda,44,+1.901s,6
+3,20,Nelson Piquet,PIQ,Benetton Ford,44,+32.176s,4
+4,19,Roberto Moreno,MOR,Benetton Ford,44,+37.310s,3
+5,6,Riccardo Patrese,PAT,Williams Renault,44,+57.187s,2
+6,8,Mark Blundell,BLU,Brabham Yamaha,44,+100.035s,1
+7,12,Johnny Herbert,HER,Lotus Judd,44,+104.599s,0
+8,21,Emanuele Pirro,PIR,Dallara Judd,43,+1 lap,0
+9,7,Martin Brundle,BRU,Brabham Yamaha,43,+1 lap,0
+10,14,Olivier Grouillard,GRO,Fondmetal Ford,43,+1 lap,0
+11,25,Thierry Boutsen,BOU,Ligier Lamborghini,43,+1 lap,0
+12,23,Pierluigi Martini,MAR,Minardi Ferrari,42,DNF,0
+13,33,Andrea de Cesaris,DEC,Jordan Ford,41,DNF,0
+NC,4,Stefano Modena,MOD,Tyrrell Honda,33,DNF,0
+NC,22,Jyrki Jarvilehto,JAR,Dallara Judd,33,DNF,0
+NC,28,Jean Alesi,ALE,Ferrari,30,DNF,0
+NC,24,Gianni Morbidelli,MOR,Minardi Ferrari,29,DNF,0
+NC,11,Mika Hakkinen,HAK,Lotus Judd,25,DNF,0
+NC,26,Erik Comas,COM,Ligier Lamborghini,25,DNF,0
+NC,5,Nigel Mansell,MAN,Williams Renault,22,DNF,0
+NC,29,Eric Bernard,BER,Lola Ford,21,DNF,0
+NC,16,Ivan Capelli,CAP,Leyton House Ilmor,13,DNF,0
+NC,3,Satoru Nakajima,NAK,Tyrrell Honda,7,DNF,0
+NC,27,Alain Prost,PRO,Ferrari,2,DNF,0
+NC,15,Mauricio Gugelmin,GUG,Leyton House Ilmor,1,DNF,0

@@ -1,0 +1,26 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Laps,Time/Retired,Points
+1,2,Alain Prost,PRO,Williams Renault,72,1:38:35.241,10
+2,0,Damon Hill,HIL,Williams Renault,72,+0.342s,6
+3,5,Michael Schumacher,MSC,Benetton Ford,72,+21.209s,4
+4,8,Ayrton Senna,SEN,McLaren Ford,72,+32.405s,3
+5,25,Martin Brundle,BRU,Ligier Renault,72,+33.795s,2
+6,7,Michael Andretti,AND,McLaren Ford,71,+1 lap,1
+7,14,Rubens Barrichello,BAR,Jordan Hart,71,+1 lap,0
+8,23,Christian Fittipaldi,FIT,Minardi Ford,71,+1 lap,0
+9,19,Philippe Alliot,ALL,Larrousse Lamborghini,70,+2 laps,0
+10,6,Riccardo Patrese,PAT,Benetton Ford,70,+2 laps,0
+11,15,Thierry Boutsen,BOU,Jordan Hart,70,+2 laps,0
+12,10,Aguri Suzuki,SUZ,Footwork Mugen Honda,70,+2 laps,0
+13,9,Derek Warwick,WAR,Footwork Mugen Honda,70,+2 laps,0
+14,28,Gerhard Berger,BER,Ferrari,70,+2 laps,0
+15,4,Andrea de Cesaris,DEC,Tyrrell Yamaha,68,+4 laps,0
+16,20,Erik Comas,COM,Larrousse Lamborghini,66,DNF,0
+NC,27,Jean Alesi,ALE,Ferrari,47,DNF,0
+NC,22,Luca Badoer,BAD,Lola Ferrari,28,DNF,0
+NC,29,Karl Wendlinger,WEN,Sauber,25,DNF,0
+NC,30,Jyrki Jarvilehto,JAR,Sauber,22,DNF,0
+NC,26,Mark Blundell,BLU,Ligier Renault,20,DNF,0
+NC,12,Johnny Herbert,HER,Lotus Ford,16,DNF,0
+NC,24,Fabrizio Barbazza,BAR,Minardi Ford,16,DNF,0
+NC,3,Ukyo Katayama,KAT,Tyrrell Yamaha,9,DNF,0
+NC,11,Alessandro Zanardi,ZAN,Lotus Ford,3,DNF,0

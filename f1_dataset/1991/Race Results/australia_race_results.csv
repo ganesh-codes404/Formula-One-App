@@ -1,0 +1,27 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Laps,Time/Retired,Points
+1,1,Ayrton Senna,SEN,McLaren Honda,14,24:34.899,5.0
+2,5,Nigel Mansell,MAN,Williams Renault,14,+1.259s,3.0
+3,2,Gerhard Berger,BER,McLaren Honda,14,+5.120s,2.0
+4,20,Nelson Piquet,PIQ,Benetton Ford,14,+30.103s,1.5
+5,6,Riccardo Patrese,PAT,Williams Renault,14,+50.537s,1.0
+6,27,Gianni Morbidelli,MOR,Ferrari,14,+51.069s,0.5
+7,21,Emanuele Pirro,PIR,Dallara Judd,14,+52.361s,0.0
+8,33,Andrea de Cesaris,DEC,Jordan Ford,14,+60.431s,0.0
+9,32,Alessandro Zanardi,ZAN,Jordan Ford,14,+75.567s,0.0
+10,4,Stefano Modena,MOD,Tyrrell Honda,14,+80.370s,0.0
+11,12,Johnny Herbert,HER,Lotus Judd,14,+82.073s,0.0
+12,22,Jyrki Jarvilehto,JAR,Dallara Judd,14,+98.519s,0.0
+13,9,Michele Alboreto,ALB,Footwork Porsche,14,+99.303s,0.0
+14,15,Mauricio Gugelmin,GUG,Leyton House Ilmor,13,DNF,0.0
+15,10,Alex Caffi,CAF,Footwork Porsche,13,+1 lap,0.0
+16,24,Roberto Moreno,MOR,Minardi Ferrari,13,+1 lap,0.0
+17,8,Mark Blundell,BLU,Brabham Yamaha,13,+1 lap,0.0
+18,26,Erik Comas,COM,Ligier Lamborghini,13,+1 lap,0.0
+19,11,Mika Hakkinen,HAK,Lotus Judd,13,+1 lap,0.0
+20,16,Karl Wendlinger,WEN,Leyton House Ilmor,12,+2 laps,0.0
+NC,23,Pierluigi Martini,MAR,Minardi Ferrari,8,DNF,0.0
+NC,19,Michael Schumacher,MSC,Benetton Ford,5,DNF,0.0
+NC,28,Jean Alesi,ALE,Ferrari,5,DNF,0.0
+NC,34,Nicola Larini,LAR,Lambo Lamborghini,5,DNF,0.0
+NC,25,Thierry Boutsen,BOU,Ligier Lamborghini,5,DNF,0.0
+NC,3,Satoru Nakajima,NAK,Tyrrell Honda,4,DNF,0.0

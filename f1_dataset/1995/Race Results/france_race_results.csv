@@ -1,0 +1,25 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Laps,Time/Retired,Points
+1,1,Michael Schumacher,MSC,Benetton Renault,72,1:38:28.429,10
+2,5,Damon Hill,HIL,Williams Renault,72,+31.309s,6
+3,6,David Coulthard,COU,Williams Renault,72,+62.826s,4
+4,25,Martin Brundle,BRU,Ligier Mugen Honda,72,+63.293s,3
+5,27,Jean Alesi,ALE,Ferrari,72,+77.869s,2
+6,14,Rubens Barrichello,BAR,Jordan Peugeot,71,+1 lap,1
+7,8,Mika Hakkinen,HAK,McLaren Mercedes,71,+1 lap,0
+8,26,Olivier Panis,PAN,Ligier Mugen Honda,71,+1 lap,0
+9,15,Eddie Irvine,IRV,Jordan Peugeot,71,+1 lap,0
+10,30,Heinz-Harald Frentzen,FRE,Sauber Ford,71,+1 lap,0
+11,7,Mark Blundell,BLU,McLaren Mercedes,70,+2 laps,0
+12,28,Gerhard Berger,BER,Ferrari,70,+2 laps,0
+13,24,Luca Badoer,BAD,Minardi Ford,69,+3 laps,0
+14,9,Gianni Morbidelli,MOR,Footwork Hart,69,+3 laps,0
+15,4,Mika Salo,SAL,Tyrrell Yamaha,69,+3 laps,0
+16,22,Roberto Moreno,MOR,Forti Ford,66,+6 laps,0
+NC,17,Andrea Montermini,MON,Pacific Ilmor,62,DNC,0
+NC,29,Jean-Christophe Boullion,BOU,Sauber Ford,48,DNF,0
+NC,16,Bertrand Gachot,GAC,Pacific Ilmor,24,DNF,0
+NC,23,Pierluigi Martini,MAR,Minardi Ford,23,DNF,0
+NC,2,Johnny Herbert,HER,Benetton Renault,2,DNF,0
+NC,3,Ukyo Katayama,KAT,Tyrrell Yamaha,0,DNF,0
+NC,10,Taki Inoue,INO,Footwork Hart,0,DNF,0
+NC,21,Pedro Diniz,DIN,Forti Ford,0,DNF,0

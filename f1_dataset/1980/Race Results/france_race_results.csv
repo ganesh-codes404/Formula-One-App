@@ -1,0 +1,28 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Laps,Time/Retired,Points
+1,27,Alan Jones,JON,Williams Ford,54.0,1:32:43.420,9
+2,25,Didier Pironi,PIR,Ligier Ford,54.0,+4.520s,6
+3,26,Jacques Laffite,LAF,Ligier Ford,54.0,+30.260s,4
+4,5,Nelson Piquet,PIQ,Brabham Ford,54.0,+74.880s,3
+5,16,Rene Arnoux,ARN,Renault,54.0,+76.150s,2
+6,28,Carlos Reutemann,REU,Williams Ford,54.0,+76.740s,1
+7,7,John Watson,WAT,McLaren Ford,53.0,+1 lap,0
+8,2,Gilles Villeneuve,VIL,Ferrari,53.0,+1 lap,0
+9,29,Riccardo Patrese,PAT,Arrows Ford,53.0,+1 lap,0
+10,30,Jochen Mass,MAS,Arrows Ford,53.0,+1 lap,0
+11,4,Derek Daly,DAL,Tyrrell Ford,52.0,+2 laps,0
+12,1,Jody Scheckter,SCH,Ferrari,52.0,+2 laps,0
+13,20,Emerson Fittipaldi,FIT,Fittipaldi Ford,50.0,DNF,0
+14,3,Jean-Pierre Jarier,JAR,Tyrrell Ford,50.0,+4 laps,0
+NC,31,Eddie Cheever,CHE,Osella Ford,43.0,DNF,0
+NC,9,Marc Surer,SUR,ATS Ford,26.0,DNF,0
+NC,22,Patrick Depailler,DEP,Alfa Romeo,25.0,DNF,0
+NC,11,Mario Andretti,AND,Lotus Ford,18.0,DNF,0
+NC,21,Keke Rosberg,ROS,Fittipaldi Ford,8.0,DNF,0
+NC,23,Bruno Giacomelli,GIA,Alfa Romeo,8.0,DNF,0
+NC,8,Alain Prost,PRO,McLaren Ford,6.0,DNF,0
+NC,12,Elio de Angelis,DEA,Lotus Ford,3.0,DNF,0
+NC,6,Ricardo Zunino,ZUN,Brabham Ford,0.0,DNF,0
+NC,15,Jean-Pierre Jabouille,JAB,Renault,0.0,DNF,0
+NC,17,Geoff Lees,LEE,Shadow Ford,,DNS,0
+NC,14,Jan Lammers,LAM,Ensign Ford,,DNS,0
+NC,18,Dave Kennedy,KEN,Shadow Ford,,DNS,0

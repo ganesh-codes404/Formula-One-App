@@ -1,0 +1,27 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Laps,Time/Retired,Points
+1,16,Rene Arnoux,ARN,Renault,54,1:33:33.217,9
+2,15,Alain Prost,PRO,Renault,54,+17.310s,6
+3,28,Didier Pironi,PIR,Ferrari,54,+42.130s,4
+4,27,Patrick Tambay,TAM,Ferrari,54,+76.240s,3
+5,6,Keke Rosberg,ROS,Williams Ford,54,+90.990s,2
+6,3,Michele Alboreto,ALB,Tyrrell Ford,54,+92.340s,1
+7,5,Derek Daly,DAL,Williams Ford,53,+1 lap,0
+8,8,Niki Lauda,LAU,McLaren Ford,53,+1 lap,0
+9,23,Bruno Giacomelli,GIA,Alfa Romeo,53,+1 lap,0
+10,4,Brian Henton,HEN,Tyrrell Ford,53,+1 lap,0
+11,9,Manfred Winkelhock,WIN,ATS Ford,52,+2 laps,0
+12,12,Geoff Lees,LEE,Lotus Ford,52,+2 laps,0
+13,29,Marc Surer,SUR,Arrows Ford,52,+2 laps,0
+14,26,Jacques Laffite,LAF,Ligier Matra,51,+3 laps,0
+15,35,Derek Warwick,WAR,Toleman Hart,50,+4 laps,0
+16,25,Eddie Cheever,CHE,Ligier Matra,49,+5 laps,0
+NC,22,Andrea de Cesaris,DEC,Alfa Romeo,25,DNF,0
+NC,1,Nelson Piquet,PIQ,Brabham BMW,23,DNF,0
+NC,11,Elio de Angelis,DEA,Lotus Ford,17,DNF,0
+NC,7,John Watson,WAT,McLaren Ford,13,DNF,0
+NC,17,Jochen Mass,MAS,March Ford,10,DNF,0
+NC,30,Mauro Baldi,BAL,Arrows Ford,10,DNF,0
+NC,2,Riccardo Patrese,PAT,Brabham BMW,8,DNF,0
+NC,10,Eliseo Salazar,SAL,ATS Ford,2,DNF,0
+NC,36,Teo Fabi,FAB,Toleman Hart,0,DNF,0
+NC,31,Jean-Pierre Jarier,JAR,Osella Ford,0,DNF,0

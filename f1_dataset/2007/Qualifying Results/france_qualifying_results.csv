@@ -1,0 +1,23 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Q1,Q2,Q3,Laps
+1,5,Felipe Massa,MAS,Ferrari,1:15.303,1:14.822,1:15.034,18
+2,2,Lewis Hamilton,HAM,McLaren Mercedes,1:14.805,1:14.795,1:15.104,18
+3,6,Kimi Räikkönen,RAI,Ferrari,1:14.872,1:14.828,1:15.257,19
+4,10,Robert Kubica,KUB,Sauber BMW,1:15.778,1:15.066,1:15.493,22
+5,3,Giancarlo Fisichella,FIS,Renault,1:16.047,1:15.227,1:15.674,25
+6,4,Heikki Kovalainen,KOV,Renault,1:15.524,1:15.272,1:15.826,25
+7,9,Nick Heidfeld,HEI,Sauber BMW,1:15.783,1:15.149,1:15.900,23
+8,12,Jarno Trulli,TRU,Toyota,1:16.118,1:15.379,1:15.935,23
+9,16,Nico Rosberg,ROS,Williams Toyota,1:16.092,1:15.331,1:16.328,25
+10,1,Fernando Alonso,ALO,McLaren Mercedes,1:15.322,1:15.084,DNS,7
+11,11,Ralf Schumacher,RSC,Toyota,1:15.760,1:15.534,DNQ,12
+12,7,Jenson Button,BUT,Honda,1:16.113,1:15.584,DNQ,12
+13,8,Rubens Barrichello,BAR,Honda,1:16.140,1:15.761,DNQ,12
+14,15,Mark Webber,WEB,Red Bull Renault,1:15.746,1:15.806,DNQ,11
+15,19,Scott Speed,SPE,STR Ferrari,1:15.980,1:16.049,DNQ,12
+16,14,David Coulthard,COU,Red Bull Renault,1:15.915,DNF,DNQ,9
+17,18,Vitantonio Liuzzi,LIU,STR Ferrari,1:16.142,DNQ,DNQ,6
+18,17,Alexander Wurz,WUR,Williams Toyota,1:16.241,DNQ,DNQ,7
+19,22,Takuma Sato,SAT,Super Aguri Honda,1:16.244,DNQ,DNQ,6
+20,23,Anthony Davidson,DAV,Super Aguri Honda,1:16.366,DNQ,DNQ,5
+21,21,Christijan Albers,ALB,Spyker Ferrari,1:17.826,DNQ,DNQ,6
+22,20,Adrian Sutil,SUT,Spyker Ferrari,1:17.915,DNQ,DNQ,5

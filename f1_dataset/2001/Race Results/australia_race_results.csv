@@ -1,0 +1,23 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Laps,Time/Retired,Points
+1,1,Michael Schumacher,MSC,Ferrari,58,1:38:26.533,10
+2,4,David Coulthard,COU,McLaren Mercedes,58,+1.718s,6
+3,2,Rubens Barrichello,BAR,Ferrari,58,+33.491s,4
+4,16,Nick Heidfeld,HEI,Sauber Petronas,58,+71.479s,3
+5,11,Heinz-Harald Frentzen,FRE,Jordan Honda,58,+72.807s,2
+6,17,Kimi Räikkönen,RAI,Sauber Petronas,58,+84.143s,1
+7,9,Olivier Panis,PAN,BAR Honda,58,+87.050s,0
+8,19,Luciano Burti,BUR,Jaguar Cosworth,57,+1 lap,0
+9,22,Jean Alesi,ALE,Prost Acer,57,+1 lap,0
+10,14,Jos Verstappen,VER,Arrows Asiatech,57,+1 lap,0
+11,18,Eddie Irvine,IRV,Jaguar Cosworth,57,+1 lap,0
+12,21,Fernando Alonso,ALO,Minardi European,56,+2 laps,0
+13,7,Giancarlo Fisichella,FIS,Benetton Renault,55,+3 laps,0
+14,8,Jenson Button,BUT,Benetton Renault,52,DNF,0
+NC,6,Juan Pablo Montoya,MOY,Williams BMW,40,DNF,0
+NC,12,Jarno Trulli,TRU,Jordan Honda,38,DNF,0
+NC,3,Mika Hakkinen,HAK,McLaren Mercedes,25,DNF,0
+NC,5,Ralf Schumacher,RSC,Williams BMW,4,DNF,0
+NC,10,Jacques Villeneuve,VIL,BAR Honda,4,DNF,0
+NC,20,Tarso Marques,MAR,Minardi European,3,DNF,0
+NC,15,Enrique Bernoldi,BER,Arrows Asiatech,2,DNF,0
+NC,23,Gaston Mazzacane,MAZ,Prost Acer,0,DNF,0

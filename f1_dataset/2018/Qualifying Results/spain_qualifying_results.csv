@@ -1,0 +1,20 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Q1,Q2,Q3,Laps
+1,44,Lewis Hamilton,HAM,Mercedes,1:17.633,1:17.166,1:16.173,17
+2,77,Valtteri Bottas,BOT,Mercedes,1:17.674,1:17.111,1:16.213,14
+3,5,Sebastian Vettel,VET,Ferrari,1:17.031,1:16.802,1:16.305,16
+4,7,Kimi Räikkönen,RAI,Ferrari,1:17.483,1:17.071,1:16.612,15
+5,33,Max Verstappen,VER,Red Bull Racing TAG Heuer,1:17.411,1:17.266,1:16.816,15
+6,3,Daniel Ricciardo,RIC,Red Bull Racing TAG Heuer,1:17.623,1:17.638,1:16.818,19
+7,20,Kevin Magnussen,MAG,Haas Ferrari,1:18.169,1:17.618,1:17.676,27
+8,14,Fernando Alonso,ALO,McLaren Renault,1:18.276,1:18.100,1:17.721,21
+9,55,Carlos Sainz,SAI,Renault,1:18.480,1:17.803,1:17.790,19
+10,8,Romain Grosjean,GRO,Haas Ferrari,1:18.305,1:17.699,1:17.835,26
+11,2,Stoffel Vandoorne,VAN,McLaren Renault,1:18.885,1:18.323,DNQ,18
+12,10,Pierre Gasly,GAS,Scuderia Toro Rosso Honda,1:18.550,1:18.463,DNQ,16
+13,31,Esteban Ocon,OCO,Force India Mercedes,1:18.813,1:18.696,DNQ,18
+14,16,Charles Leclerc,LEC,Sauber Ferrari,1:18.661,1:18.910,DNQ,15
+15,11,Sergio Perez,PER,Force India Mercedes,1:18.740,1:19.098,DNQ,18
+16,27,Nico Hulkenberg,HUL,Renault,1:18.923,DNQ,DNQ,6
+17,9,Marcus Ericsson,ERI,Sauber Ferrari,1:19.493,DNQ,DNQ,9
+18,35,Sergey Sirotkin,SIR,Williams Mercedes,1:19.695,DNQ,DNQ,10
+19,18,Lance Stroll,STR,Williams Mercedes,1:20.225,DNQ,DNQ,9

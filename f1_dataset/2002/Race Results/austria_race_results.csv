@@ -1,0 +1,23 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Laps,Time/Retired,Points
+1,1,Michael Schumacher,MSC,Ferrari,71,1:33:51.562,10
+2,2,Rubens Barrichello,BAR,Ferrari,71,+0.182s,6
+3,6,Juan Pablo Montoya,MOY,Williams BMW,71,+17.730s,4
+4,5,Ralf Schumacher,RSC,Williams BMW,71,+18.448s,3
+5,9,Giancarlo Fisichella,FIS,Jordan Honda,71,+49.965s,2
+6,3,David Coulthard,COU,McLaren Mercedes,71,+50.672s,1
+7,15,Jenson Button,BUT,Renault,71,+51.229s,0
+8,24,Mika Salo,SAL,Toyota,71,+69.425s,0
+9,25,Allan McNish,MCN,Toyota,71,+69.718s,0
+10,11,Jacques Villeneuve,VIL,BAR Honda,70,DNF,0
+11,20,Heinz-Harald Frentzen,FRE,Arrows Cosworth,69,+2 laps,0
+12,23,Mark Webber,WEB,Minardi Asiatech,69,+2 laps,0
+NC,14,Jarno Trulli,TRU,Renault,44,DNF,0
+NC,22,Alex Yoong,YOO,Minardi Asiatech,42,DNF,0
+NC,16,Eddie Irvine,IRV,Jaguar Cosworth,38,DNF,0
+NC,7,Nick Heidfeld,HEI,Sauber Petronas,27,DNF,0
+NC,10,Takuma Sato,SAT,Jordan Honda,26,DNF,0
+NC,12,Olivier Panis,PAN,BAR Honda,22,DNF,0
+NC,8,Felipe Massa,MAS,Sauber Petronas,7,DNF,0
+NC,4,Kimi Räikkönen,RAI,McLaren Mercedes,5,DNF,0
+NC,21,Enrique Bernoldi,BER,Arrows Cosworth,2,DNF,0
+NC,17,Pedro de la Rosa,DLR,Jaguar Cosworth,0,DNF,0

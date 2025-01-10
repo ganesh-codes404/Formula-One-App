@@ -1,0 +1,23 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Laps,Time/Retired,Points
+1,44,Lewis Hamilton,HAM,Mercedes,60.0,2:00:04.795,25
+2,1,Sebastian Vettel,VET,Red Bull Racing Renault,60.0,+13.534s,18
+3,3,Daniel Ricciardo,RIC,Red Bull Racing Renault,60.0,+14.273s,15
+4,14,Fernando Alonso,ALO,Ferrari,60.0,+15.389s,12
+5,19,Felipe Massa,MAS,Williams Mercedes,60.0,+42.161s,10
+6,25,Jean-Eric Vergne,VER,STR Renault,60.0,+56.801s,8
+7,11,Sergio Perez,PER,Force India Mercedes,60.0,+59.038s,6
+8,7,Kimi Räikkönen,RAI,Ferrari,60.0,+60.641s,4
+9,27,Nico Hulkenberg,HUL,Force India Mercedes,60.0,+61.661s,2
+10,20,Kevin Magnussen,MAG,McLaren Mercedes,60.0,+62.230s,1
+11,77,Valtteri Bottas,BOT,Williams Mercedes,60.0,+65.065s,0
+12,13,Pastor Maldonado,MAL,Lotus Renault,60.0,+66.915s,0
+13,8,Romain Grosjean,GRO,Lotus Renault,60.0,+68.029s,0
+14,26,Daniil Kvyat,KVY,STR Renault,60.0,+72.008s,0
+15,9,Marcus Ericsson,ERI,Caterham Renault,60.0,+94.188s,0
+16,17,Jules Bianchi,BIA,Marussia Ferrari,60.0,+94.543s,0
+17,4,Max Chilton,CHI,Marussia Ferrari,59.0,+1 lap,0
+NC,22,Jenson Button,BUT,McLaren Mercedes,52.0,DNF,0
+NC,99,Adrian Sutil,SUT,Sauber Ferrari,40.0,DNF,0
+NC,21,Esteban Gutierrez,GUT,Sauber Ferrari,17.0,DNF,0
+NC,6,Nico Rosberg,ROS,Mercedes,13.0,DNF,0
+NC,10,Kamui Kobayashi,KOB,Caterham Renault,,DNS,0

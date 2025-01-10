@@ -1,0 +1,26 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Laps,Time/Retired,Points
+1,0,Damon Hill,HIL,Williams Renault,60,1:30:03.640,10
+2,27,Jean Alesi,ALE,Ferrari,60,+86.906s,6
+3,7,Mika Hakkinen,HAK,McLaren Peugeot,60,+100.659s,4
+4,14,Rubens Barrichello,BAR,Jordan Hart,60,+101.751s,3
+5,2,David Coulthard,COU,Williams Renault,59,+1 lap,2
+6,3,Ukyo Katayama,KAT,Tyrrell Yamaha,59,+1 lap,1
+7,30,Heinz-Harald Frentzen,FRE,Sauber Mercedes,59,+1 lap,0
+8,6,Jos Verstappen,VER,Benetton Ford,59,+1 lap,0
+9,9,Christian Fittipaldi,FIT,Footwork Ford,58,+2 laps,0
+10,23,Pierluigi Martini,MAR,Minardi Ford,58,+2 laps,0
+11,12,Johnny Herbert,HER,Lotus Mugen Honda,58,+2 laps,0
+12,26,Olivier Panis,PAN,Ligier Renault,58,+2 laps,0
+13,25,Eric Bernard,BER,Ligier Renault,58,+2 laps,0
+14,19,Olivier Beretta,BER,Larrousse Ford,58,+2 laps,0
+15,31,David Brabham,BRA,Simtek Ford,57,+3 laps,0
+16,32,Jean-Marc Gounon,GOU,Simtek Ford,57,+3 laps,0
+NC,24,Michele Alboreto,ALB,Minardi Ford,48,DNF,0
+NC,28,Gerhard Berger,BER,Ferrari,32,DNF,0
+NC,4,Mark Blundell,BLU,Tyrrell Yamaha,20,DNF,0
+NC,20,Erik Comas,COM,Larrousse Ford,12,DNF,0
+NC,29,Andrea de Cesaris,DEC,Sauber Mercedes,11,DNF,0
+NC,10,Gianni Morbidelli,MOR,Footwork Ford,5,DNF,0
+NC,11,Alessandro Zanardi,ZAN,Lotus Mugen Honda,4,DNF,0
+NC,8,Martin Brundle,BRU,McLaren Peugeot,0,DNF,0
+NC,15,Eddie Irvine,IRV,Jordan Hart,0,DNF,0

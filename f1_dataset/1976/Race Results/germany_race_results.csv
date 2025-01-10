@@ -1,0 +1,27 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Laps,Time/Retired,Points
+1,11,James Hunt,HUN,McLaren Ford,14,1:41:42.700,9
+2,3,Jody Scheckter,SCH,Tyrrell Ford,14,+27.700s,6
+3,12,Jochen Mass,MAS,McLaren Ford,14,+52.400s,4
+4,8,Carlos Pace,PAC,Brabham Alfa Romeo,14,+54.200s,3
+5,6,Gunnar Nilsson,NIL,Lotus Ford,14,+117.300s,2
+6,77,Rolf Stommelen,STO,Brabham Alfa Romeo,14,+150.300s,1
+7,28,John Watson,WAT,Penske Ford,14,+153.900s,0
+8,16,Tom Pryce,PRY,Shadow Ford,14,+168.200s,0
+9,2,Clay Regazzoni,REG,Ferrari,14,+226.000s,0
+10,19,Alan Jones,JON,Surtees Ford,14,+227.300s,0
+11,17,Jean-Pierre Jarier,JAR,Shadow Ford,14,+291.700s,0
+12,5,Mario Andretti,AND,Lotus Ford,14,+298.100s,0
+13,30,Emerson Fittipaldi,FIT,Fittipaldi Ford,14,+325.200s,0
+14,40,Alessandro Pesenti-Rossi,PES,Tyrrell Ford,13,+1 lap,0
+15,25,Guy Edwards,EDW,Hesketh Ford,13,+1 lap,0
+NC,20,Arturo Merzario,MER,Wolf-Williams,3,DNF,0
+NC,9,Vittorio Brambilla,BRA,March Ford,1,DNF,0
+NC,4,Patrick Depailler,DEP,Tyrrell Ford,0,DNF,0
+NC,7,Carlos Reutemann,REU,Brabham Alfa Romeo,0,DNF,0
+NC,10,Ronnie Peterson,PET,March Ford,0,DNF,0
+NC,34,Hans-Joachim Stuck,STU,March Ford,0,DNF,0
+NC,26,Jacques Laffite,LAF,Ligier Matra,0,DNF,0
+NC,22,Chris Amon,AMO,Ensign Ford,0,DNF,0
+NC,1,Niki Lauda,LAU,Ferrari,0,DNF,0
+NC,18,Brett Lunger,LUN,Surtees Ford,0,DNF,0
+NC,24,Harald Ertl,ERT,Hesketh Ford,0,DNF,0

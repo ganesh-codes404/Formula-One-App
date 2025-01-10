@@ -1,0 +1,23 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Laps,Time/Retired,Points
+1,44,Lewis Hamilton,HAM,Mercedes,56,1:40:25.974,25
+2,6,Nico Rosberg,ROS,Mercedes,56,+17.313s,18
+3,1,Sebastian Vettel,VET,Red Bull Racing Renault,56,+24.534s,15
+4,14,Fernando Alonso,ALO,Ferrari,56,+35.992s,12
+5,27,Nico Hulkenberg,HUL,Force India Mercedes,56,+47.199s,10
+6,22,Jenson Button,BUT,McLaren Mercedes,56,+83.691s,8
+7,19,Felipe Massa,MAS,Williams Mercedes,56,+85.076s,6
+8,77,Valtteri Bottas,BOT,Williams Mercedes,56,+85.537s,4
+9,20,Kevin Magnussen,MAG,McLaren Mercedes,55,+1 lap,2
+10,26,Daniil Kvyat,KVY,STR Renault,55,+1 lap,1
+11,8,Romain Grosjean,GRO,Lotus Renault,55,+1 lap,0
+12,7,Kimi Räikkönen,RAI,Ferrari,55,+1 lap,0
+13,10,Kamui Kobayashi,KOB,Caterham Renault,55,+1 lap,0
+14,9,Marcus Ericsson,ERI,Caterham Renault,54,+2 laps,0
+15,4,Max Chilton,CHI,Marussia Ferrari,54,+2 laps,0
+NC,3,Daniel Ricciardo,RIC,Red Bull Racing Renault,49,DNF,0
+NC,21,Esteban Gutierrez,GUT,Sauber Ferrari,35,DNF,0
+NC,99,Adrian Sutil,SUT,Sauber Ferrari,32,DNF,0
+NC,25,Jean-Eric Vergne,VER,STR Renault,18,DNF,0
+NC,17,Jules Bianchi,BIA,Marussia Ferrari,8,DNF,0
+NC,13,Pastor Maldonado,MAL,Lotus Renault,7,DNF,0
+NC,11,Sergio Perez,PER,Force India Mercedes,0,DNS,0

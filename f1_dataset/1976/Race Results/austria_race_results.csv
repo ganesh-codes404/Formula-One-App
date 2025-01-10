@@ -1,0 +1,26 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Laps,Time/Retired,Points
+1,28,John Watson,WAT,Penske Ford,54,1:30:07.860,9
+2,26,Jacques Laffite,LAF,Ligier Matra,54,+10.790s,6
+3,6,Gunnar Nilsson,NIL,Lotus Ford,54,+11.980s,4
+4,11,James Hunt,HUN,McLaren Ford,54,+12.440s,3
+5,5,Mario Andretti,AND,Lotus Ford,54,+21.490s,2
+6,10,Ronnie Peterson,PET,March Ford,54,+34.340s,1
+7,12,Jochen Mass,MAS,McLaren Ford,54,+59.450s,0
+8,24,Harald Ertl,ERT,Hesketh Ford,53,+1 lap,0
+9,38,Henri Pescarolo,PES,Surtees Ford,52,+2 laps,0
+10,18,Brett Lunger,LUN,Surtees Ford,51,DNF,0
+11,39,Alessandro Pesenti-Rossi,PES,Tyrrell Ford,51,+3 laps,0
+12,33,Lella Lombardi,LOM,,50,+4 laps,0
+NC,22,Hans Binder,BIN,Ensign Ford,47,DNF,0
+NC,32,Loris Kessel,KES,,44,+10 laps,0
+NC,9,Vittorio Brambilla,BRA,March Ford,43,DNF,0
+NC,30,Emerson Fittipaldi,FIT,Fittipaldi Ford,43,DNF,0
+NC,17,Jean-Pierre Jarier,JAR,Shadow Ford,40,DNF,0
+NC,8,Carlos Pace,PAC,Brabham Alfa Romeo,40,DNF,0
+NC,19,Alan Jones,JON,Surtees Ford,40,DNF,0
+NC,34,Hans-Joachim Stuck,STU,March Ford,26,DNF,0
+NC,4,Patrick Depailler,DEP,Tyrrell Ford,24,DNF,0
+NC,20,Arturo Merzario,MER,Wolf-Williams,17,DNF,0
+NC,16,Tom Pryce,PRY,Shadow Ford,14,DNF,0
+NC,3,Jody Scheckter,SCH,Tyrrell Ford,14,DNF,0
+NC,7,Carlos Reutemann,REU,Brabham Alfa Romeo,0,DNF,0

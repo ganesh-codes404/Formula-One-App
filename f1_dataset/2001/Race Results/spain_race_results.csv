@@ -1,0 +1,23 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Laps,Time/Retired,Points
+1,1,Michael Schumacher,MSC,Ferrari,65,1:31:03.305,10
+2,6,Juan Pablo Montoya,MOY,Williams BMW,65,+40.738s,6
+3,10,Jacques Villeneuve,VIL,BAR Honda,65,+49.626s,4
+4,12,Jarno Trulli,TRU,Jordan Honda,65,+51.253s,3
+5,4,David Coulthard,COU,McLaren Mercedes,65,+51.616s,2
+6,16,Nick Heidfeld,HEI,Sauber Petronas,65,+61.893s,1
+7,9,Olivier Panis,PAN,BAR Honda,65,+64.977s,0
+8,17,Kimi Räikkönen,RAI,Sauber Petronas,65,+79.808s,0
+9,3,Mika Hakkinen,HAK,McLaren Mercedes,64,DNF,0
+10,22,Jean Alesi,ALE,Prost Acer,64,+1 lap,0
+11,23,Luciano Burti,BUR,Prost Acer,64,+1 lap,0
+12,14,Jos Verstappen,VER,Arrows Asiatech,63,+2 laps,0
+13,21,Fernando Alonso,ALO,Minardi European,63,+2 laps,0
+14,7,Giancarlo Fisichella,FIS,Benetton Renault,63,+2 laps,0
+15,8,Jenson Button,BUT,Benetton Renault,62,+3 laps,0
+16,20,Tarso Marques,MAR,Minardi European,62,+3 laps,0
+NC,2,Rubens Barrichello,BAR,Ferrari,49,DNF,0
+NC,18,Eddie Irvine,IRV,Jaguar Cosworth,48,DNF,0
+NC,5,Ralf Schumacher,RSC,Williams BMW,20,DNF,0
+NC,15,Enrique Bernoldi,BER,Arrows Asiatech,8,DNF,0
+NC,19,Pedro de la Rosa,DLR,Jaguar Cosworth,5,DNF,0
+NC,11,Heinz-Harald Frentzen,FRE,Jordan Honda,5,DNF,0

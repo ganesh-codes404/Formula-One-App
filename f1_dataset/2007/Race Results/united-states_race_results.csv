@@ -1,0 +1,23 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Laps,Time/Retired,Points
+1,2,Lewis Hamilton,HAM,McLaren Mercedes,73,1:31:09.965,10
+2,1,Fernando Alonso,ALO,McLaren Mercedes,73,+1.518s,8
+3,5,Felipe Massa,MAS,Ferrari,73,+12.842s,6
+4,6,Kimi Räikkönen,RAI,Ferrari,73,+15.422s,5
+5,4,Heikki Kovalainen,KOV,Renault,73,+41.402s,4
+6,12,Jarno Trulli,TRU,Toyota,73,+66.703s,3
+7,15,Mark Webber,WEB,Red Bull Renault,73,+67.331s,2
+8,10,Sebastian Vettel,VET,Sauber BMW,73,+67.783s,1
+9,3,Giancarlo Fisichella,FIS,Renault,72,+1 lap,0
+10,17,Alexander Wurz,WUR,Williams Toyota,72,+1 lap,0
+11,23,Anthony Davidson,DAV,Super Aguri Honda,72,+1 lap,0
+12,7,Jenson Button,BUT,Honda,72,+1 lap,0
+13,19,Scott Speed,SPE,STR Ferrari,71,+2 laps,0
+14,20,Adrian Sutil,SUT,Spyker Ferrari,71,+2 laps,0
+15,21,Christijan Albers,ALB,Spyker Ferrari,70,+3 laps,0
+16,16,Nico Rosberg,ROS,Williams Toyota,68,DNF,0
+17,18,Vitantonio Liuzzi,LIU,STR Ferrari,68,DNF,0
+NC,9,Nick Heidfeld,HEI,Sauber BMW,55,DNF,0
+NC,22,Takuma Sato,SAT,Super Aguri Honda,13,DNF,0
+NC,14,David Coulthard,COU,Red Bull Renault,0,DNF,0
+NC,11,Ralf Schumacher,RSC,Toyota,0,DNF,0
+NC,8,Rubens Barrichello,BAR,Honda,0,DNF,0

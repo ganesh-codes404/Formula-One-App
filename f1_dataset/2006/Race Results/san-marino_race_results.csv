@@ -1,0 +1,23 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Laps,Time/Retired,Points
+1,5,Michael Schumacher,MSC,Ferrari,62,1:31:06.486,10
+2,1,Fernando Alonso,ALO,Renault,62,+2.096s,8
+3,4,Juan Pablo Montoya,MOY,McLaren Mercedes,62,+15.868s,6
+4,6,Felipe Massa,MAS,Ferrari,62,+17.096s,5
+5,3,Kimi Räikkönen,RAI,McLaren Mercedes,62,+17.524s,4
+6,9,Mark Webber,WEB,Williams Cosworth,62,+37.739s,3
+7,12,Jenson Button,BUT,Honda,62,+39.635s,2
+8,2,Giancarlo Fisichella,FIS,Renault,62,+40.200s,1
+9,7,Ralf Schumacher,RSC,Toyota,62,+45.511s,0
+10,11,Rubens Barrichello,BAR,Honda,62,+77.851s,0
+11,10,Nico Rosberg,ROS,Williams Cosworth,62,+79.675s,0
+12,17,Jacques Villeneuve,VIL,Sauber BMW,62,+82.370s,0
+13,16,Nick Heidfeld,HEI,Sauber BMW,61,+1 lap,0
+14,20,Vitantonio Liuzzi,LIU,STR Cosworth,61,+1 lap,0
+15,21,Scott Speed,SPE,STR Cosworth,61,+1 lap,0
+16,18,Tiago Monteiro,MON,MF1 Toyota,60,+2 laps,0
+NC,14,David Coulthard,COU,RBR Ferrari,47,DNF,0
+NC,22,Takuma Sato,SAT,Super Aguri Honda,44,DNF,0
+NC,15,Christian Klien,KLI,RBR Ferrari,40,DNF,0
+NC,23,Yuji Ide,IDE,Super Aguri Honda,23,DNF,0
+NC,8,Jarno Trulli,TRU,Toyota,5,DNF,0
+NC,19,Christijan Albers,ALB,MF1 Toyota,0,DNF,0

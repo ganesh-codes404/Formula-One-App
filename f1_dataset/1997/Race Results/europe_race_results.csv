@@ -1,0 +1,23 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Laps,Time/Retired,Points
+1,9,Mika Hakkinen,HAK,McLaren Mercedes,69,1:38:57.771,10
+2,10,David Coulthard,COU,McLaren Mercedes,69,+1.654s,6
+3,3,Jacques Villeneuve,VIL,Williams Renault,69,+1.803s,4
+4,8,Gerhard Berger,BER,Benetton Renault,69,+1.919s,3
+5,6,Eddie Irvine,IRV,Ferrari,69,+3.789s,2
+6,4,Heinz-Harald Frentzen,FRE,Williams Renault,69,+4.537s,1
+7,14,Olivier Panis,PAN,Prost Mugen Honda,69,+67.145s,0
+8,16,Johnny Herbert,HER,Sauber Petronas,69,+72.961s,0
+9,23,Jan Magnussen,MAG,Stewart Ford,69,+77.487s,0
+10,15,Shinji Nakano,NAK,Prost Mugen Honda,69,+78.215s,0
+11,12,Giancarlo Fisichella,FIS,Jordan Peugeot,68,+1 lap,0
+12,19,Mika Salo,SAL,Tyrrell Ford,68,+1 lap,0
+13,7,Jean Alesi,ALE,Benetton Renault,68,+1 lap,0
+14,17,Norberto Fontana,FON,Sauber Petronas,68,+1 lap,0
+15,21,Tarso Marques,MAR,Minardi Hart,68,+1 lap,0
+16,18,Jos Verstappen,VER,Tyrrell Ford,68,+1 lap,0
+17,20,Ukyo Katayama,KAT,Minardi Hart,68,+1 lap,0
+NC,5,Michael Schumacher,MSC,Ferrari,47,DNF,0
+NC,1,Damon Hill,HIL,Arrows Yamaha,47,DNF,0
+NC,11,Ralf Schumacher,RSC,Jordan Peugeot,44,DNF,0
+NC,22,Rubens Barrichello,BAR,Stewart Ford,30,DNF,0
+NC,2,Pedro Diniz,DIN,Arrows Yamaha,11,DNF,0

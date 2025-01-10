@@ -1,0 +1,21 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Q1,Q2,Q3,Laps
+1,77,Valtteri Bottas,BOT,Mercedes,1:09.452,1:08.638,1:08.322,22
+2,5,Sebastian Vettel,VET,Ferrari,1:09.643,1:08.494,1:08.360,21
+3,7,Kimi Räikkönen,RAI,Ferrari,1:09.405,1:09.116,1:08.538,18
+4,33,Max Verstappen,VER,Red Bull Racing TAG Heuer,1:09.820,1:09.050,1:08.925,18
+5,3,Daniel Ricciardo,RIC,Red Bull Racing TAG Heuer,1:09.828,1:09.533,1:09.330,19
+6,11,Sergio Perez,PER,Force India Mercedes,1:10.145,1:09.760,1:09.598,21
+7,14,Fernando Alonso,ALO,McLaren Honda,1:10.172,1:09.593,1:09.617,17
+8,27,Nico Hulkenberg,HUL,Renault,1:10.078,1:09.726,1:09.703,21
+9,55,Carlos Sainz,SAI,Renault,1:10.227,1:09.768,1:09.805,17
+10,19,Felipe Massa,MAS,Williams Mercedes,1:09.789,1:09.612,1:09.841,16
+11,31,Esteban Ocon,OCO,Force India Mercedes,1:10.168,1:09.830,DNQ,17
+12,8,Romain Grosjean,GRO,Haas Ferrari,1:10.148,1:09.879,DNQ,16
+13,2,Stoffel Vandoorne,VAN,McLaren Honda,1:10.286,1:10.116,DNQ,15
+14,20,Kevin Magnussen,MAG,Haas Ferrari,1:10.521,1:10.154,DNQ,18
+15,28,Brendon Hartley,HAR,Toro Rosso,1:10.625,DNS,DNQ,15
+16,94,Pascal Wehrlein,WEH,Sauber Ferrari,1:10.678,DNQ,DNQ,12
+17,10,Pierre Gasly,GAS,Toro Rosso,1:10.686,DNQ,DNQ,10
+18,18,Lance Stroll,STR,Williams Mercedes,1:10.776,DNQ,DNQ,8
+19,9,Marcus Ericsson,ERI,Sauber Ferrari,1:10.875,DNQ,DNQ,12
+NC,44,Lewis Hamilton,HAM,Mercedes,DNF,DNQ,DNQ,2

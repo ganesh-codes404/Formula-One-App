@@ -1,0 +1,21 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Q1,Q2,Q3,Laps
+1,33,Max Verstappen,VER,Red Bull Racing Honda,1:08.242,1:07.503,1:07.508,12
+2,5,Sebastian Vettel,VET,Ferrari,1:08.556,1:08.050,1:07.631,15
+3,44,Lewis Hamilton,HAM,Mercedes,1:08.614,1:08.088,1:07.699,16
+4,16,Charles Leclerc,LEC,Ferrari,1:08.496,1:07.888,1:07.728,20
+5,77,Valtteri Bottas,BOT,Mercedes,1:08.545,1:08.232,1:07.874,17
+6,23,Alexander Albon,ALB,Red Bull Racing Honda,1:08.503,1:08.117,1:07.935,14
+7,10,Pierre Gasly,GAS,Scuderia Toro Rosso Honda,1:08.909,1:08.770,1:08.837,22
+8,8,Romain Grosjean,GRO,Haas Ferrari,1:09.197,1:08.705,1:08.854,16
+9,7,Kimi Räikkönen,RAI,Alfa Romeo Racing Ferrari,1:09.276,1:08.858,1:08.984,20
+10,20,Kevin Magnussen,MAG,Haas Ferrari,1:08.875,1:08.803,1:09.037,15
+11,4,Lando Norris,NOR,McLaren Renault,1:08.891,1:08.868,DNQ,13
+12,3,Daniel Ricciardo,RIC,Renault,1:09.086,1:08.903,DNQ,12
+13,99,Antonio Giovinazzi,GIO,Alfa Romeo Racing Ferrari,1:09.175,1:08.919,DNQ,14
+14,27,Nico Hulkenberg,HUL,Renault,1:09.050,1:08.921,DNQ,12
+15,11,Sergio Perez,PER,Racing Point BWT Mercedes,1:09.288,1:09.035,DNQ,14
+16,26,Daniil Kvyat,KVY,Scuderia Toro Rosso Honda,1:09.320,DNQ,DNQ,10
+17,18,Lance Stroll,STR,Racing Point BWT Mercedes,1:09.536,DNQ,DNQ,9
+18,63,George Russell,RUS,Williams Mercedes,1:10.126,DNQ,DNQ,9
+19,88,Robert Kubica,KUB,Williams Mercedes,1:10.614,DNQ,DNQ,9
+NC,55,Carlos Sainz,SAI,McLaren Renault,DNF,DNQ,DNQ,2

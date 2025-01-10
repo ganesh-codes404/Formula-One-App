@@ -1,0 +1,21 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Laps,Time/Retired,Points
+1,5,Fernando Alonso,ALO,Renault,61,1:57:16.304,10
+2,7,Nico Rosberg,ROS,Williams Toyota,61,+2.957s,8
+3,22,Lewis Hamilton,HAM,McLaren Mercedes,61,+5.917s,6
+4,12,Timo Glock,GLO,Toyota,61,+8.155s,5
+5,15,Sebastian Vettel,VET,STR Ferrari,61,+10.268s,4
+6,3,Nick Heidfeld,HEI,Sauber BMW,61,+11.101s,3
+7,9,David Coulthard,COU,Red Bull Renault,61,+16.387s,2
+8,8,Kazuki Nakajima,NAK,Williams Toyota,61,+18.489s,1
+9,16,Jenson Button,BUT,Honda,61,+19.885s,0
+10,23,Heikki Kovalainen,KOV,McLaren Mercedes,61,+26.902s,0
+11,4,Robert Kubica,KUB,Sauber BMW,61,+27.975s,0
+12,14,Sebastien Bourdais,BOU,STR Ferrari,61,+29.432s,0
+13,2,Felipe Massa,MAS,Ferrari,61,+35.170s,0
+14,21,Giancarlo Fisichella,FIS,Force India Ferrari,61,+43.571s,0
+15,1,Kimi Räikkönen,RAI,Ferrari,57,DNF,0
+NC,11,Jarno Trulli,TRU,Toyota,50,DNF,0
+NC,20,Adrian Sutil,SUT,Force India Ferrari,49,DNF,0
+NC,10,Mark Webber,WEB,Red Bull Renault,29,DNF,0
+NC,17,Rubens Barrichello,BAR,Honda,14,DNF,0
+NC,6,Nelson Piquet,PIQ,Renault,13,DNF,0

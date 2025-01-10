@@ -1,0 +1,29 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Laps,Time/Retired,Points
+1,16,Rene Arnoux,ARN,Renault,40.0,1:40:01.330,9
+2,12,Elio de Angelis,DEA,Lotus Ford,40.0,+21.860s,6
+3,27,Alan Jones,JON,Williams Ford,40.0,+66.110s,4
+4,25,Didier Pironi,PIR,Ligier Ford,40.0,+100.130s,3
+5,8,Alain Prost,PRO,McLaren Ford,40.0,+145.410s,2
+6,29,Riccardo Patrese,PAT,Arrows Ford,39.0,+1 lap,1
+7,9,Marc Surer,SUR,ATS Ford,39.0,+1 lap,0
+8,6,Ricardo Zunino,ZUN,Brabham Ford,39.0,+1 lap,0
+9,21,Keke Rosberg,ROS,Fittipaldi Ford,39.0,+1 lap,0
+10,30,Jochen Mass,MAS,Arrows Ford,39.0,+1 lap,0
+11,7,John Watson,WAT,McLaren Ford,39.0,+1 lap,0
+12,3,Jean-Pierre Jarier,JAR,Tyrrell Ford,39.0,+1 lap,0
+13,23,Bruno Giacomelli,GIA,Alfa Romeo,39.0,+1 lap,0
+14,4,Derek Daly,DAL,Tyrrell Ford,38.0,+2 laps,0
+15,20,Emerson Fittipaldi,FIT,Fittipaldi Ford,38.0,+2 laps,0
+16,2,Gilles Villeneuve,VIL,Ferrari,36.0,DNF,0
+NC,22,Patrick Depailler,DEP,Alfa Romeo,33.0,DNF,0
+NC,15,Jean-Pierre Jabouille,JAB,Renault,25.0,DNF,0
+NC,5,Nelson Piquet,PIQ,Brabham Ford,14.0,DNF,0
+NC,14,Clay Regazzoni,REG,Ensign Ford,13.0,DNF,0
+NC,26,Jacques Laffite,LAF,Ligier Ford,13.0,DNF,0
+NC,1,Jody Scheckter,SCH,Ferrari,10.0,DNF,0
+NC,28,Carlos Reutemann,REU,Williams Ford,1.0,DNF,0
+NC,11,Mario Andretti,AND,Lotus Ford,1.0,DNF,0
+NC,10,Jan Lammers,LAM,ATS Ford,,DNS,0
+NC,18,Dave Kennedy,KEN,Shadow Ford,,DNS,0
+NC,17,Stefan Johansson,JOH,Shadow Ford,,DNS,0
+NC,31,Eddie Cheever,CHE,Osella Ford,,DNS,0

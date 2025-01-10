@@ -1,0 +1,23 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Laps,Time/Retired,Points
+1,44,Lewis Hamilton,HAM,Mercedes,66,1:41:05.155,25
+2,6,Nico Rosberg,ROS,Mercedes,66,+0.636s,18
+3,3,Daniel Ricciardo,RIC,Red Bull Racing Renault,66,+49.014s,15
+4,1,Sebastian Vettel,VET,Red Bull Racing Renault,66,+76.702s,12
+5,77,Valtteri Bottas,BOT,Williams Mercedes,66,+79.293s,10
+6,14,Fernando Alonso,ALO,Ferrari,66,+87.743s,8
+7,7,Kimi Räikkönen,RAI,Ferrari,65,+1 lap,6
+8,8,Romain Grosjean,GRO,Lotus Renault,65,+1 lap,4
+9,11,Sergio Perez,PER,Force India Mercedes,65,+1 lap,2
+10,27,Nico Hulkenberg,HUL,Force India Mercedes,65,+1 lap,1
+11,22,Jenson Button,BUT,McLaren Mercedes,65,+1 lap,0
+12,20,Kevin Magnussen,MAG,McLaren Mercedes,65,+1 lap,0
+13,19,Felipe Massa,MAS,Williams Mercedes,65,+1 lap,0
+14,26,Daniil Kvyat,KVY,STR Renault,65,+1 lap,0
+15,13,Pastor Maldonado,MAL,Lotus Renault,65,+1 lap,0
+16,21,Esteban Gutierrez,GUT,Sauber Ferrari,65,+1 lap,0
+17,99,Adrian Sutil,SUT,Sauber Ferrari,65,+1 lap,0
+18,17,Jules Bianchi,BIA,Marussia Ferrari,64,+2 laps,0
+19,4,Max Chilton,CHI,Marussia Ferrari,64,+2 laps,0
+20,9,Marcus Ericsson,ERI,Caterham Renault,64,+2 laps,0
+NC,10,Kamui Kobayashi,KOB,Caterham Renault,34,DNF,0
+NC,25,Jean-Eric Vergne,VER,STR Renault,24,DNF,0

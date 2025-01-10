@@ -1,0 +1,25 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Laps,Time/Retired,Points
+1,12,Gilles Villeneuve,VIL,Ferrari,78,1:41:49.960,9
+2,11,Jody Scheckter,SCH,Ferrari,78,+3.420s,6
+3,4,Jean-Pierre Jarier,JAR,Tyrrell Ford,78,+22.110s,4
+4,1,Mario Andretti,AND,Lotus Ford,78,+27.880s,3
+5,2,Carlos Reutemann,REU,Lotus Ford,78,+66.970s,2
+6,5,Niki Lauda,LAU,Brabham Alfa Romeo,77,+1 lap,1
+7,6,Nelson Piquet,PIQ,Brabham Alfa Romeo,77,+1 lap,0
+8,20,James Hunt,HUN,Wolf Ford,77,+1 lap,0
+9,28,Clay Regazzoni,REG,Williams Ford,76,+2 laps,0
+10,8,Patrick Tambay,TAM,McLaren Ford,75,+3 laps,0
+11,29,Riccardo Patrese,PAT,Arrows Ford,75,+3 laps,0
+12,30,Jochen Mass,MAS,Arrows Ford,74,+4 laps,0
+13,14,Emerson Fittipaldi,FIT,Fittipaldi Ford,74,+4 laps,0
+14,31,Hector Rebaque,REB,Lotus Ford,71,DNF,0
+NC,16,Rene Arnoux,ARN,Renault,67,DNF,0
+NC,27,Alan Jones,JON,Williams Ford,63,DNF,0
+NC,7,John Watson,WAT,McLaren Ford,61,DNF,0
+NC,9,Hans-Joachim Stuck,STU,ATS Ford,57,DNF,0
+NC,15,Jean-Pierre Jabouille,JAB,Renault,47,DNF,0
+NC,26,Jacques Laffite,LAF,Ligier Ford,45,DNF,0
+NC,3,Didier Pironi,PIR,Tyrrell Ford,25,DNF,0
+NC,18,Elio de Angelis,DEA,Shadow Ford,16,DNF,0
+NC,25,Patrick Depailler,DEP,Ligier Ford,4,DNF,0
+NC,17,Jan Lammers,LAM,Shadow Ford,2,DNF,0

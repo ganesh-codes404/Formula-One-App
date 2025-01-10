@@ -1,0 +1,25 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Q1,Q2,Q3,Laps
+1,1,Sebastian Vettel,VET,Red Bull Racing Renault,2:03.029,2:03.317,1:48.298,22
+2,3,Lewis Hamilton,HAM,McLaren Mercedes,2:03.008,2:02.823,1:48.730,21
+3,2,Mark Webber,WEB,Red Bull Racing Renault,2:02.827,2:03.302,1:49.376,23
+4,6,Felipe Massa,MAS,Ferrari,2:05.834,2:04.507,1:50.256,21
+5,8,Nico Rosberg,ROS,Mercedes,2:05.091,2:03.723,1:50.552,23
+6,19,Jaime Alguersuari,ALG,STR Ferrari,2:05.419,2:04.561,1:50.773,24
+7,9,Bruno Senna,SEN,Renault,2:05.047,2:04.452,1:51.121,24
+8,5,Fernando Alonso,ALO,Ferrari,2:04.450,2:02.768,1:51.251,22
+9,17,Sergio Perez,PER,Sauber Ferrari,2:06.284,2:04.625,1:51.374,24
+10,10,Vitaly Petrov,PET,Renault,2:05.292,2:03.466,1:52.303,23
+11,18,Sebastien Buemi,BUE,STR Ferrari,2:04.744,2:04.692,DNQ,18
+12,16,Kamui Kobayashi,KOB,Sauber Ferrari,2:07.194,2:04.757,DNQ,18
+13,4,Jenson Button,BUT,McLaren Mercedes,2:01.813,2:05.150,DNQ,15
+14,11,Rubens Barrichello,BAR,Williams Cosworth,2:05.720,2:07.349,DNQ,17
+15,14,Adrian Sutil,SUT,Force India Mercedes,2:06.000,2:07.777,DNQ,12
+16,12,Pastor Maldonado,MAL,Williams Cosworth,2:05.621,2:08.106,DNQ,17
+17,20,Heikki Kovalainen,KOV,Lotus Renault,2:06.780,2:08.354,DNQ,15
+18,15,Paul di Resta,DIR,Force India Mercedes,2:07.758,DNQ,DNQ,8
+19,21,Jarno Trulli,TRU,Lotus Renault,2:08.773,DNQ,DNQ,8
+20,24,Timo Glock,GLO,Virgin Cosworth,2:09.566,DNQ,DNQ,9
+NC,25,Jerome d'Ambrosio,DAM,Virgin Cosworth,2:11.601,DNQ,DNQ,9
+NC,23,Vitantonio Liuzzi,LIU,HRT Cosworth,2:11.616,DNQ,DNQ,9
+NC,22,Daniel Ricciardo,RIC,HRT Cosworth,2:13.077,DNQ,DNQ,9
+NC,7,Michael Schumacher,MSC,Mercedes,DNS,DNQ,DNQ,1

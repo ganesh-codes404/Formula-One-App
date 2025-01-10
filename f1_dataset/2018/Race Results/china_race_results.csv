@@ -1,0 +1,21 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Laps,Time/Retired,Points
+1,3,Daniel Ricciardo,RIC,Red Bull Racing TAG Heuer,56,1:35:36.380,25
+2,77,Valtteri Bottas,BOT,Mercedes,56,+8.894s,18
+3,7,Kimi Räikkönen,RAI,Ferrari,56,+9.637s,15
+4,44,Lewis Hamilton,HAM,Mercedes,56,+16.985s,12
+5,33,Max Verstappen,VER,Red Bull Racing TAG Heuer,56,+20.436s,10
+6,27,Nico Hulkenberg,HUL,Renault,56,+21.052s,8
+7,14,Fernando Alonso,ALO,McLaren Renault,56,+30.639s,6
+8,5,Sebastian Vettel,VET,Ferrari,56,+35.286s,4
+9,55,Carlos Sainz,SAI,Renault,56,+35.763s,2
+10,20,Kevin Magnussen,MAG,Haas Ferrari,56,+39.594s,1
+11,31,Esteban Ocon,OCO,Force India Mercedes,56,+44.050s,0
+12,11,Sergio Perez,PER,Force India Mercedes,56,+44.725s,0
+13,2,Stoffel Vandoorne,VAN,McLaren Renault,56,+49.373s,0
+14,18,Lance Stroll,STR,Williams Mercedes,56,+55.490s,0
+15,35,Sergey Sirotkin,SIR,Williams Mercedes,56,+58.241s,0
+16,9,Marcus Ericsson,ERI,Sauber Ferrari,56,+62.604s,0
+17,8,Romain Grosjean,GRO,Haas Ferrari,56,+65.296s,0
+18,10,Pierre Gasly,GAS,Scuderia Toro Rosso Honda,56,+66.330s,0
+19,16,Charles Leclerc,LEC,Sauber Ferrari,56,+82.575s,0
+20,28,Brendon Hartley,HAR,Scuderia Toro Rosso Honda,51,DNF,0

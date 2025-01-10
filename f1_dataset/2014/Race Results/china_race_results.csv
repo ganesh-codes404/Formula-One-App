@@ -1,0 +1,23 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Laps,Time/Retired,Points
+1,44,Lewis Hamilton,HAM,Mercedes,54,1:33:28.338,25
+2,6,Nico Rosberg,ROS,Mercedes,54,+18.062s,18
+3,14,Fernando Alonso,ALO,Ferrari,54,+23.604s,15
+4,3,Daniel Ricciardo,RIC,Red Bull Racing Renault,54,+27.136s,12
+5,1,Sebastian Vettel,VET,Red Bull Racing Renault,54,+47.778s,10
+6,27,Nico Hulkenberg,HUL,Force India Mercedes,54,+54.295s,8
+7,77,Valtteri Bottas,BOT,Williams Mercedes,54,+55.697s,6
+8,7,Kimi Räikkönen,RAI,Ferrari,54,+76.335s,4
+9,11,Sergio Perez,PER,Force India Mercedes,54,+82.647s,2
+10,26,Daniil Kvyat,KVY,STR Renault,53,+1 lap,1
+11,22,Jenson Button,BUT,McLaren Mercedes,53,+1 lap,0
+12,25,Jean-Eric Vergne,VER,STR Renault,53,+1 lap,0
+13,20,Kevin Magnussen,MAG,McLaren Mercedes,53,+1 lap,0
+14,13,Pastor Maldonado,MAL,Lotus Renault,53,+1 lap,0
+15,19,Felipe Massa,MAS,Williams Mercedes,53,+1 lap,0
+16,21,Esteban Gutierrez,GUT,Sauber Ferrari,53,+1 lap,0
+17,17,Jules Bianchi,BIA,Marussia Ferrari,53,+1 lap,0
+18,10,Kamui Kobayashi,KOB,Caterham Renault,53,+1 lap,0
+19,4,Max Chilton,CHI,Marussia Ferrari,52,+2 laps,0
+20,9,Marcus Ericsson,ERI,Caterham Renault,52,+2 laps,0
+NC,8,Romain Grosjean,GRO,Lotus Renault,28,DNF,0
+NC,99,Adrian Sutil,SUT,Sauber Ferrari,5,DNF,0

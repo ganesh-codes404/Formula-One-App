@@ -1,0 +1,27 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Laps,Time/Retired,Points
+1,5,Nigel Mansell,MAN,Williams Honda,72,1:49:12.692,9
+2,1,Alain Prost,PRO,McLaren TAG,72,+22.225s,6
+3,2,Stefan Johansson,JOH,McLaren TAG,72,+30.818s,4
+4,6,Nelson Piquet,PIQ,Williams Honda,72,+31.450s,3
+5,12,Ayrton Senna,SEN,Lotus Honda,72,+73.507s,2
+6,30,Philippe Alliot,ALL,Lola Ford,71,+1 lap,1
+7,4,Philippe Streiff,STR,Tyrrell Ford,71,+1 lap,0
+8,18,Eddie Cheever,CHE,Arrows Megatron,70,DNF,0
+9,11,Satoru Nakajima,NAK,Lotus Honda,70,+2 laps,0
+10,17,Derek Warwick,WAR,Arrows Megatron,70,+2 laps,0
+11,9,Martin Brundle,BRU,Zakspeed,70,+2 laps,0
+12,16,Ivan Capelli,CAP,March Ford,70,+2 laps,0
+13,7,Riccardo Patrese,PAT,Brabham BMW,68,+4 laps,0
+14,23,Adrian Campos,CAM,Minardi Motori Moderni,68,+4 laps,0
+15,27,Michele Alboreto,ALB,Ferrari,67,DNF,0
+16,20,Thierry Boutsen,BOU,Benetton Ford,66,DNF,0
+NC,28,Gerhard Berger,BER,Ferrari,62,DNF,0
+NC,3,Jonathan Palmer,PAL,Tyrrell Ford,55,DNF,0
+NC,25,Rene Arnoux,ARN,Ligier Megatron,55,DNF,0
+NC,10,Christian Danner,DAN,Zakspeed,50,DNF,0
+NC,24,Alessandro Nannini,NAN,Minardi Motori Moderni,45,DNF,0
+NC,19,Teo Fabi,FAB,Benetton Ford,40,DNF,0
+NC,8,Andrea de Cesaris,DEC,Brabham BMW,26,DNF,0
+NC,26,Piercarlo Ghinzani,GHI,Ligier Megatron,24,DNF,0
+NC,14,Pascal Fabre,FAB,AGS Ford,10,DNF,0
+NC,32,Nicola Larini,LAR,Coloni Ford,8,DNF,0

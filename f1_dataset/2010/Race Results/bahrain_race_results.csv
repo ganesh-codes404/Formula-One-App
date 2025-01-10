@@ -1,0 +1,25 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Laps,Time/Retired,Points
+1,8,Fernando Alonso,ALO,Ferrari,49,1:39:20.396,25
+2,7,Felipe Massa,MAS,Ferrari,49,+16.099s,18
+3,2,Lewis Hamilton,HAM,McLaren Mercedes,49,+23.182s,15
+4,5,Sebastian Vettel,VET,RBR Renault,49,+38.799s,12
+5,4,Nico Rosberg,ROS,Mercedes,49,+40.213s,10
+6,3,Michael Schumacher,MSC,Mercedes,49,+44.163s,8
+7,1,Jenson Button,BUT,McLaren Mercedes,49,+45.280s,6
+8,6,Mark Webber,WEB,RBR Renault,49,+46.360s,4
+9,15,Vitantonio Liuzzi,LIU,Force India Mercedes,49,+53.008s,2
+10,9,Rubens Barrichello,BAR,Williams Cosworth,49,+62.489s,1
+11,11,Robert Kubica,KUB,Renault,49,+69.093s,0
+12,14,Adrian Sutil,SUT,Force India Mercedes,49,+82.958s,0
+13,17,Jaime Alguersuari,ALG,STR Ferrari,49,+92.656s,0
+14,10,Nico Hulkenberg,HUL,Williams Cosworth,48,+1 lap,0
+15,19,Heikki Kovalainen,KOV,Lotus Cosworth,47,+2 laps,0
+16,16,Sebastien Buemi,BUE,STR Ferrari,46,+3 laps,0
+17,18,Jarno Trulli,TRU,Lotus Cosworth,46,DNF,0
+NC,22,Pedro de la Rosa,DLR,Sauber Ferrari,28,DNF,0
+NC,21,Bruno Senna,SEN,HRT Cosworth,17,DNF,0
+NC,24,Timo Glock,GLO,Virgin Cosworth,16,DNF,0
+NC,12,Vitaly Petrov,PET,Renault,13,DNF,0
+NC,23,Kamui Kobayashi,KOB,Sauber Ferrari,11,DNF,0
+NC,25,Lucas di Grassi,DIG,Virgin Cosworth,2,DNF,0
+NC,20,Karun Chandhok,CHD,HRT Cosworth,1,DNF,0

@@ -1,0 +1,23 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Laps,Time/Retired,Points
+1,6,Nico Rosberg,ROS,Mercedes,57,1:48:15.565,25
+2,44,Lewis Hamilton,HAM,Mercedes,57,+8.060s,18
+3,5,Sebastian Vettel,VET,Ferrari,57,+9.643s,15
+4,3,Daniel Ricciardo,RIC,Red Bull Racing TAG Heuer,57,+24.330s,12
+5,19,Felipe Massa,MAS,Williams Mercedes,57,+58.979s,10
+6,8,Romain Grosjean,GRO,Haas Ferrari,57,+72.081s,8
+7,27,Nico Hulkenberg,HUL,Force India Mercedes,57,+74.199s,6
+8,77,Valtteri Bottas,BOT,Williams Mercedes,57,+75.153s,4
+9,55,Carlos Sainz,SAI,Toro Rosso Ferrari,57,+75.680s,2
+10,33,Max Verstappen,VER,Toro Rosso Ferrari,57,+76.833s,1
+11,30,Jolyon Palmer,PAL,Renault,57,+83.399s,0
+12,20,Kevin Magnussen,MAG,Renault,57,+85.606s,0
+13,11,Sergio Perez,PER,Force India Mercedes,57,+91.699s,0
+14,22,Jenson Button,BUT,McLaren Honda,56,+1 lap,0
+15,12,Felipe Nasr,NAS,Sauber Ferrari,56,+1 lap,0
+16,94,Pascal Wehrlein,WEH,MRT Mercedes,56,+1 lap,0
+NC,9,Marcus Ericsson,ERI,Sauber Ferrari,38,DNF,0
+NC,7,Kimi Räikkönen,RAI,Ferrari,21,DNF,0
+NC,88,Rio Haryanto,HAR,MRT Mercedes,17,DNF,0
+NC,21,Esteban Gutierrez,GUT,Haas Ferrari,16,DNF,0
+NC,14,Fernando Alonso,ALO,McLaren Honda,16,DNF,0
+NC,26,Daniil Kvyat,KVY,Red Bull Racing TAG Heuer,0,DNS,0

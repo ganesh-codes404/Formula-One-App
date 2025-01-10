@@ -1,0 +1,23 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Laps,Time/Retired,Points
+1,5,Felipe Massa,MAS,Ferrari,65,1:31:36.230,10
+2,2,Lewis Hamilton,HAM,McLaren Mercedes,65,+6.790s,8
+3,1,Fernando Alonso,ALO,McLaren Mercedes,65,+17.456s,6
+4,10,Robert Kubica,KUB,Sauber BMW,65,+31.615s,5
+5,14,David Coulthard,COU,Red Bull Renault,65,+58.331s,4
+6,16,Nico Rosberg,ROS,Williams Toyota,65,+59.538s,3
+7,4,Heikki Kovalainen,KOV,Renault,65,+62.128s,2
+8,22,Takuma Sato,SAT,Super Aguri Honda,64,+1 lap,1
+9,3,Giancarlo Fisichella,FIS,Renault,64,+1 lap,0
+10,8,Rubens Barrichello,BAR,Honda,64,+1 lap,0
+11,23,Anthony Davidson,DAV,Super Aguri Honda,64,+1 lap,0
+12,7,Jenson Button,BUT,Honda,64,+1 lap,0
+13,20,Adrian Sutil,SUT,Spyker Ferrari,63,+2 laps,0
+14,21,Christijan Albers,ALB,Spyker Ferrari,63,+2 laps,0
+NC,9,Nick Heidfeld,HEI,Sauber BMW,46,DNF,0
+NC,11,Ralf Schumacher,RSC,Toyota,44,DNF,0
+NC,18,Vitantonio Liuzzi,LIU,STR Ferrari,19,DNF,0
+NC,19,Scott Speed,SPE,STR Ferrari,9,DNF,0
+NC,6,Kimi Räikkönen,RAI,Ferrari,9,DNF,0
+NC,12,Jarno Trulli,TRU,Toyota,8,DNF,0
+NC,15,Mark Webber,WEB,Red Bull Renault,7,DNF,0
+NC,17,Alexander Wurz,WUR,Williams Toyota,1,DNF,0

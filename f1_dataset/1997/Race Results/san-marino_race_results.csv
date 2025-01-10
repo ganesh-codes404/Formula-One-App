@@ -1,0 +1,23 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Laps,Time/Retired,Points
+1,4,Heinz-Harald Frentzen,FRE,Williams Renault,62,1:31:00.673,10
+2,5,Michael Schumacher,MSC,Ferrari,62,+1.237s,6
+3,6,Eddie Irvine,IRV,Ferrari,62,+78.343s,4
+4,12,Giancarlo Fisichella,FIS,Jordan Peugeot,62,+83.388s,3
+5,7,Jean Alesi,ALE,Benetton Renault,61,+1 lap,2
+6,9,Mika Hakkinen,HAK,McLaren Mercedes,61,+1 lap,1
+7,17,Nicola Larini,LAR,Sauber Petronas,61,+1 lap,0
+8,14,Olivier Panis,PAN,Prost Mugen Honda,61,+1 lap,0
+9,19,Mika Salo,SAL,Tyrrell Ford,60,+2 laps,0
+10,18,Jos Verstappen,VER,Tyrrell Ford,60,+2 laps,0
+11,20,Ukyo Katayama,KAT,Minardi Hart,59,+3 laps,0
+NC,2,Pedro Diniz,DIN,Arrows Yamaha,53,DNF,0
+NC,3,Jacques Villeneuve,VIL,Williams Renault,40,DNF,0
+NC,10,David Coulthard,COU,McLaren Mercedes,38,DNF,0
+NC,22,Rubens Barrichello,BAR,Stewart Ford,32,DNF,0
+NC,16,Johnny Herbert,HER,Sauber Petronas,18,DNF,0
+NC,11,Ralf Schumacher,RSC,Jordan Peugeot,17,DNF,0
+NC,15,Shinji Nakano,NAK,Prost Mugen Honda,11,DNF,0
+NC,1,Damon Hill,HIL,Arrows Yamaha,11,DNF,0
+NC,8,Gerhard Berger,BER,Benetton Renault,4,DNF,0
+NC,23,Jan Magnussen,MAG,Stewart Ford,2,DNF,0
+NC,21,Jarno Trulli,TRU,Minardi Hart,0,DNF,0

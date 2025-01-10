@@ -1,0 +1,21 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Q1,Q2,Q3,Laps
+1,44,Lewis Hamilton,HAM,Mercedes,1:14.823,1:14.817,1:14.411,23
+2,11,Sergio Perez,PER,Red Bull Racing Honda,1:15.395,1:14.716,1:14.446,18
+3,33,Max Verstappen,VER,Red Bull Racing Honda,1:15.109,1:14.884,1:14.498,20
+4,16,Charles Leclerc,LEC,Ferrari,1:15.413,1:14.808,1:14.740,19
+5,10,Pierre Gasly,GAS,AlphaTauri Honda,1:15.548,1:14.927,1:14.790,21
+6,3,Daniel Ricciardo,RIC,McLaren Mercedes,1:15.669,1:15.033,1:14.826,21
+7,4,Lando Norris,NOR,McLaren Mercedes,1:15.009,1:14.718,1:14.875,15
+8,77,Valtteri Bottas,BOT,Mercedes,1:14.672,1:14.905,1:14.898,22
+9,31,Esteban Ocon,OCO,Alpine Renault,1:15.385,1:15.117,1:15.210,20
+10,18,Lance Stroll,STR,Aston Martin Mercedes,1:15.522,1:15.138,DNF,20
+11,55,Carlos Sainz,SAI,Ferrari,1:15.406,1:15.199,DNQ,16
+12,63,George Russell,RUS,Williams Mercedes,1:15.826,1:15.261,DNQ,16
+13,5,Sebastian Vettel,VET,Aston Martin Mercedes,1:15.459,1:15.394,DNQ,14
+14,6,Nicholas Latifi,LAT,Williams Mercedes,1:15.653,1:15.593,DNQ,14
+15,14,Fernando Alonso,ALO,Alpine Renault,1:15.832,1:15.593,DNQ,14
+16,7,Kimi Räikkönen,RAI,Alfa Romeo Racing Ferrari,1:15.974,DNQ,DNQ,10
+17,99,Antonio Giovinazzi,GIO,Alfa Romeo Racing Ferrari,1:16.122,DNQ,DNQ,9
+18,47,Mick Schumacher,MSC,Haas Ferrari,1:16.279,DNQ,DNQ,12
+19,9,Nikita Mazepin,MAZ,Haas Ferrari,1:16.797,DNQ,DNQ,12
+RT,22,Yuki Tsunoda,TSU,AlphaTauri Honda,DNF,DNQ,DNQ,2

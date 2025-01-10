@@ -1,0 +1,27 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Laps,Time/Retired,Points
+1,5,Nigel Mansell,MAN,Williams Renault,45,1:18:22.032,10
+2,1,Ayrton Senna,SEN,McLaren Honda,45,+4.500s,6
+3,19,Michael Schumacher,MSC,Benetton Ford,45,+34.462s,4
+4,20,Martin Brundle,BRU,Benetton Ford,45,+36.959s,3
+5,27,Jean Alesi,ALE,Ferrari,45,+72.607s,2
+6,26,Erik Comas,COM,Ligier Renault,45,+96.498s,1
+7,25,Thierry Boutsen,BOU,Ligier Renault,45,+97.180s,0
+8,6,Riccardo Patrese,PAT,Williams Renault,44,+1 lap,0
+9,9,Michele Alboreto,ALB,Footwork Mugen Honda,44,+1 lap,0
+10,21,Jyrki Jarvilehto,JAR,Dallara Ferrari,44,+1 lap,0
+11,22,Pierluigi Martini,MAR,Dallara Ferrari,44,+1 lap,0
+12,24,Gianni Morbidelli,MOR,Minardi Lamborghini,44,+1 lap,0
+13,17,Paul Belmondo,BEL,March Ilmor,44,+1 lap,0
+14,29,Bertrand Gachot,GAC,Venturi Lamborghini,44,+1 lap,0
+15,33,Mauricio Gugelmin,GUG,Jordan Yamaha,43,+2 laps,0
+16,16,Karl Wendlinger,WEN,March Ilmor,42,+3 laps,0
+NC,15,Gabriele Tarquini,TAR,Fondmetal Ford,33,DNF,0
+NC,4,Andrea de Cesaris,DEC,Tyrrell Ilmor,25,DNF,0
+NC,12,Johnny Herbert,HER,Lotus Ford,23,DNF,0
+NC,28,Ivan Capelli,CAP,Ferrari,21,DNF,0
+NC,11,Mika Hakkinen,HAK,Lotus Ford,21,DNF,0
+NC,2,Gerhard Berger,BER,McLaren Honda,16,DNF,0
+NC,3,Olivier Grouillard,GRO,Tyrrell Ilmor,8,DNF,0
+NC,30,Ukyo Katayama,KAT,Venturi Lamborghini,8,DNF,0
+NC,10,Aguri Suzuki,SUZ,Footwork Mugen Honda,1,DNF,0
+NC,23,Alessandro Zanardi,ZAN,Minardi Lamborghini,1,DNF,0

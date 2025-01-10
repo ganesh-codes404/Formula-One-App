@@ -1,0 +1,27 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Laps,Time/Retired,Points
+1,3,Jody Scheckter,SCH,Tyrrell Ford,80,1:58:31.391,9
+2,4,Patrick Depailler,DEP,Tyrrell Ford,80,+0.380s,6
+3,24,James Hunt,HUN,Hesketh Ford,80,+3.325s,4
+4,5,Emerson Fittipaldi,FIT,McLaren Ford,80,+53.507s,3
+5,17,Jean-Pierre Jarier,JAR,Shadow Ford,80,+76.403s,2
+6,26,Graham Hill,HIL,Lola Ford,79,+1 lap,1
+7,27,Guy Edwards,EDW,Lola Ford,79,+1 lap,0
+8,21,Tom Belso,BEL,Iso Marlboro Ford,79,+1 lap,0
+9,8,Rikky von Opel,VON,Brabham Ford,79,+1 lap,0
+10,10,Vittorio Brambilla,BRA,March Ford,79,DNF,0
+11,28,John Watson,WAT,Brabham Ford,77,+3 laps,0
+DQ,22,Vern Schuppan,SCH,Ensign Ford,77,DSQ,0
+NC,12,Niki Lauda,LAU,Ferrari,70,DNF,0
+NC,9,Reine Wisell,WIS,March Ford,59,DNF,0
+NC,6,Denny Hulme,HUL,McLaren Ford,56,DNF,0
+NC,19,Jochen Mass,MAS,Surtees Ford,53,DNF,0
+NC,7,Carlos Reutemann,REU,Brabham Ford,30,DNF,0
+NC,2,Jacky Ickx,ICK,Lotus Ford,27,DNF,0
+NC,11,Clay Regazzoni,REG,Ferrari,24,DNF,0
+NC,18,Carlos Pace,PAC,Surtees Ford,15,DNF,0
+NC,23,Leo Kinnunen,KIN,Surtees Ford,8,DNF,0
+NC,1,Ronnie Peterson,PET,Lotus Ford,8,DNF,0
+NC,33,Mike Hailwood,HAI,McLaren Ford,5,DNF,0
+NC,14,Jean-Pierre Beltoise,BEL,BRM,3,DNF,0
+NC,16,Bertil Roos,ROO,Shadow Ford,2,DNF,0
+NC,15,Henri Pescarolo,PES,BRM,0,DNF,0

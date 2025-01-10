@@ -1,0 +1,21 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Laps,Time/Retired,Points
+1,44,Lewis Hamilton,HAM,Mercedes,63,1:28:32.430,26
+2,77,Valtteri Bottas,BOT,Mercedes,63,+5.783s,18
+3,3,Daniel Ricciardo,RIC,Renault,63,+14.320s,15
+4,26,Daniil Kvyat,KVY,AlphaTauri Honda,63,+15.141s,12
+5,16,Charles Leclerc,LEC,Ferrari,63,+19.111s,10
+6,11,Sergio Perez,PER,Racing Point BWT Mercedes,63,+19.652s,8
+7,55,Carlos Sainz,SAI,McLaren Renault,63,+20.230s,6
+8,4,Lando Norris,NOR,McLaren Renault,63,+21.131s,4
+9,7,Kimi Räikkönen,RAI,Alfa Romeo Racing Ferrari,63,+22.224s,2
+10,99,Antonio Giovinazzi,GIO,Alfa Romeo Racing Ferrari,63,+26.398s,1
+11,6,Nicholas Latifi,LAT,Williams Mercedes,63,+27.135s,0
+12,5,Sebastian Vettel,VET,Ferrari,63,+28.453s,0
+13,18,Lance Stroll,STR,Racing Point BWT Mercedes,63,+29.163s,0
+14,8,Romain Grosjean,GRO,Haas Ferrari,63,+32.935s,0
+15,23,Alexander Albon,ALB,Red Bull Racing Honda,63,+57.284s,0
+NC,63,George Russell,RUS,Williams Mercedes,51,DNF,0
+NC,33,Max Verstappen,VER,Red Bull Racing Honda,50,DNF,0
+NC,20,Kevin Magnussen,MAG,Haas Ferrari,47,DNF,0
+NC,31,Esteban Ocon,OCO,Renault,27,DNF,0
+NC,10,Pierre Gasly,GAS,AlphaTauri Honda,8,DNF,0

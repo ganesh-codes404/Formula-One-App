@@ -1,0 +1,21 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Laps,Time/Retired,Points
+1,15,Sebastian Vettel,VET,RBR Renault,55,1:34:03.414,10
+2,14,Mark Webber,WEB,RBR Renault,55,+17.857s,8
+3,22,Jenson Button,BUT,Brawn Mercedes,55,+18.467s,6
+4,23,Rubens Barrichello,BAR,Brawn Mercedes,55,+22.735s,5
+5,6,Nick Heidfeld,HEI,Sauber BMW,55,+26.253s,4
+6,10,Kamui Kobayashi,KOB,Toyota,55,+28.343s,3
+7,9,Jarno Trulli,TRU,Toyota,55,+34.366s,2
+8,12,Sebastien Buemi,BUE,STR Ferrari,55,+41.294s,1
+9,16,Nico Rosberg,ROS,Williams Toyota,55,+45.941s,0
+10,5,Robert Kubica,KUB,Sauber BMW,55,+48.180s,0
+11,2,Heikki Kovalainen,KOV,McLaren Mercedes,55,+52.798s,0
+12,4,Kimi Räikkönen,RAI,Ferrari,55,+54.317s,0
+13,17,Kazuki Nakajima,NAK,Williams Toyota,55,+59.839s,0
+14,7,Fernando Alonso,ALO,Renault,55,+69.687s,0
+15,21,Vitantonio Liuzzi,LIU,Force India Mercedes,55,+94.450s,0
+16,3,Giancarlo Fisichella,FIS,Ferrari,54,+1 lap,0
+17,20,Adrian Sutil,SUT,Force India Mercedes,54,+1 lap,0
+18,8,Romain Grosjean,GRO,Renault,54,+1 lap,0
+NC,1,Lewis Hamilton,HAM,McLaren Mercedes,20,DNF,0
+NC,11,Jaime Alguersuari,ALG,STR Ferrari,18,DNF,0

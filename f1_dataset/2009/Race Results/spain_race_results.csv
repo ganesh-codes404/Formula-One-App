@@ -1,0 +1,21 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Laps,Time/Retired,Points
+1,22,Jenson Button,BUT,Brawn Mercedes,66,1:37:19.202,10
+2,23,Rubens Barrichello,BAR,Brawn Mercedes,66,+13.056s,8
+3,14,Mark Webber,WEB,RBR Renault,66,+13.924s,6
+4,15,Sebastian Vettel,VET,RBR Renault,66,+18.941s,5
+5,7,Fernando Alonso,ALO,Renault,66,+43.166s,4
+6,3,Felipe Massa,MAS,Ferrari,66,+50.827s,3
+7,6,Nick Heidfeld,HEI,Sauber BMW,66,+52.312s,2
+8,16,Nico Rosberg,ROS,Williams Toyota,66,+65.211s,1
+9,1,Lewis Hamilton,HAM,McLaren Mercedes,65,+1 lap,0
+10,10,Timo Glock,GLO,Toyota,65,+1 lap,0
+11,5,Robert Kubica,KUB,Sauber BMW,65,+1 lap,0
+12,8,Nelson Piquet,PIQ,Renault,65,+1 lap,0
+13,17,Kazuki Nakajima,NAK,Williams Toyota,65,+1 lap,0
+14,21,Giancarlo Fisichella,FIS,Force India Mercedes,65,+1 lap,0
+NC,4,Kimi Räikkönen,RAI,Ferrari,17,DNF,0
+NC,2,Heikki Kovalainen,KOV,McLaren Mercedes,7,DNF,0
+NC,9,Jarno Trulli,TRU,Toyota,0,DNF,0
+NC,12,Sebastien Buemi,BUE,STR Ferrari,0,DNF,0
+NC,11,Sebastien Bourdais,BOU,STR Ferrari,0,DNF,0
+NC,20,Adrian Sutil,SUT,Force India Mercedes,0,DNF,0

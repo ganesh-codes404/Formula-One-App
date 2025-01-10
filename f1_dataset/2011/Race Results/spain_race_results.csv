@@ -1,0 +1,25 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Laps,Time/Retired,Points
+1,1,Sebastian Vettel,VET,Red Bull Racing Renault,66,1:39:03.301,25
+2,3,Lewis Hamilton,HAM,McLaren Mercedes,66,+0.630s,18
+3,4,Jenson Button,BUT,McLaren Mercedes,66,+35.697s,15
+4,2,Mark Webber,WEB,Red Bull Racing Renault,66,+47.966s,12
+5,5,Fernando Alonso,ALO,Ferrari,65,+1 lap,10
+6,7,Michael Schumacher,MSC,Mercedes,65,+1 lap,8
+7,8,Nico Rosberg,ROS,Mercedes,65,+1 lap,6
+8,9,Nick Heidfeld,HEI,Renault,65,+1 lap,4
+9,17,Sergio Perez,PER,Sauber Ferrari,65,+1 lap,2
+10,16,Kamui Kobayashi,KOB,Sauber Ferrari,65,+1 lap,1
+11,10,Vitaly Petrov,PET,Renault,65,+1 lap,0
+12,15,Paul di Resta,DIR,Force India Mercedes,65,+1 lap,0
+13,14,Adrian Sutil,SUT,Force India Mercedes,65,+1 lap,0
+14,18,Sebastien Buemi,BUE,STR Ferrari,65,+1 lap,0
+15,12,Pastor Maldonado,MAL,Williams Cosworth,65,+1 lap,0
+16,19,Jaime Alguersuari,ALG,STR Ferrari,64,+2 laps,0
+17,11,Rubens Barrichello,BAR,Williams Cosworth,64,+2 laps,0
+18,21,Jarno Trulli,TRU,Lotus Renault,64,+2 laps,0
+19,24,Timo Glock,GLO,Virgin Cosworth,63,+3 laps,0
+20,25,Jerome d'Ambrosio,DAM,Virgin Cosworth,62,+4 laps,0
+21,22,Narain Karthikeyan,KAR,HRT Cosworth,61,+5 laps,0
+NC,6,Felipe Massa,MAS,Ferrari,58,DNF,0
+NC,20,Heikki Kovalainen,KOV,Lotus Renault,48,DNF,0
+NC,23,Vitantonio Liuzzi,LIU,HRT Cosworth,28,DNF,0

@@ -1,0 +1,22 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Laps,Time/Retired,Points
+1,8,Mika Hakkinen,HAK,McLaren Mercedes,72,1:37:11.747,10
+2,7,David Coulthard,COU,McLaren Mercedes,72,+1.102s,6
+3,3,Michael Schumacher,MSC,Ferrari,72,+60.550s,4
+4,6,Alexander Wurz,WUR,Benetton Playlife,72,+67.453s,3
+5,2,Heinz-Harald Frentzen,FRE,Williams Mecachrome,71,+1 lap,2
+6,5,Giancarlo Fisichella,FIS,Benetton Playlife,71,+1 lap,1
+7,1,Jacques Villeneuve,VIL,Williams Mecachrome,71,+1 lap,0
+8,4,Eddie Irvine,IRV,Ferrari,71,+1 lap,0
+9,14,Jean Alesi,ALE,Sauber Petronas,71,+1 lap,0
+10,19,Jan Magnussen,MAG,Stewart Ford,70,+2 laps,0
+11,15,Johnny Herbert,HER,Sauber Petronas,67,DNF,0
+NC,11,Olivier Panis,PAN,Prost Peugeot,63,DNF,0
+NC,18,Rubens Barrichello,BAR,Stewart Ford,56,DNF,0
+NC,20,Ricardo Rosset,ROS,Tyrrell Ford,52,DNF,0
+NC,23,Esteban Tuero,TUE,Minardi Ford,44,DNF,0
+NC,16,Pedro Diniz,DIN,Arrows,26,DNF,0
+NC,21,Toranosuke Takagi,TAK,Tyrrell Ford,19,DNF,0
+NC,17,Mika Salo,SAL,Arrows,18,DNF,0
+NC,12,Jarno Trulli,TRU,Prost Peugeot,17,DNF,0
+NC,22,Shinji Nakano,NAK,Minardi Ford,3,DNF,0
+NC,10,Ralf Schumacher,RSC,Jordan Mugen Honda,0,DNF,0

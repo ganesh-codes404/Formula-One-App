@@ -1,0 +1,15 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Laps,Time/Retired,Points
+1,10,Juan Manuel Fangio,FAN,Alfa Romeo,35,2:47:26.000,8
+2,12,Luigi Fagioli,FAG,Alfa Romeo,35,+14.000s,6
+3,14,Louis Rosier,ROS,Talbot-Lago,35,+139.000s,4
+4,8,Nino Farina,FAR,Alfa Romeo,35,+245.000s,4
+5,4,Alberto Ascari,ASC,Ferrari,34,+1 lap,2
+6,2,Luigi Villoresi,VIL,Ferrari,33,+2 laps,0
+7,22,Pierre Levegh,LEV,Talbot-Lago,33,+2 laps,0
+8,24,Johnny Claes,CLA,Talbot-Lago,32,+3 laps,0
+9,26,Geoff Crossley,CRO,Alta,30,+5 laps,0
+10,30,Toni Branca,BRA,Maserati,29,+6 laps,0
+NC,20,Eugene Chaboud,CHA,Talbot-Lago,22,DNF,0
+NC,6,Raymond Sommer,SOM,Talbot-Lago,20,DNF,0
+NC,16,Philippe Etancelin,ETA,Talbot-Lago,15,DNF,0
+NC,18,Yves Giraud Cabantous,CAB,Talbot-Lago,2,DNF,0

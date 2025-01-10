@@ -1,0 +1,23 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Laps,Time/Retired,Points
+1,44,Lewis Hamilton,HAM,Mercedes,71,3:01:01.335,25
+2,6,Nico Rosberg,ROS,Mercedes,71,+11.455s,18
+3,33,Max Verstappen,VER,Red Bull Racing TAG Heuer,71,+21.481s,15
+4,11,Sergio Perez,PER,Force India Mercedes,71,+25.346s,12
+5,5,Sebastian Vettel,VET,Ferrari,71,+26.334s,10
+6,55,Carlos Sainz,SAI,Toro Rosso Ferrari,71,+29.160s,8
+7,27,Nico Hulkenberg,HUL,Force India Mercedes,71,+29.827s,6
+8,3,Daniel Ricciardo,RIC,Red Bull Racing TAG Heuer,71,+30.486s,4
+9,12,Felipe Nasr,NAS,Sauber Ferrari,71,+42.620s,2
+10,14,Fernando Alonso,ALO,McLaren Honda,71,+44.432s,1
+11,77,Valtteri Bottas,BOT,Williams Mercedes,71,+45.292s,0
+12,31,Esteban Ocon,OCO,MRT Mercedes,71,+45.809s,0
+13,26,Daniil Kvyat,KVY,Toro Rosso Ferrari,71,+51.192s,0
+14,20,Kevin Magnussen,MAG,Renault,71,+51.555s,0
+15,94,Pascal Wehrlein,WEH,MRT Mercedes,71,+60.498s,0
+16,22,Jenson Button,BUT,McLaren Honda,71,+81.994s,0
+NC,21,Esteban Gutierrez,GUT,Haas Ferrari,60,DNF,0
+NC,19,Felipe Massa,MAS,Williams Mercedes,46,DNF,0
+NC,30,Jolyon Palmer,PAL,Renault,20,DNF,0
+NC,7,Kimi Räikkönen,RAI,Ferrari,19,DNF,0
+NC,9,Marcus Ericsson,ERI,Sauber Ferrari,11,DNF,0
+NC,8,Romain Grosjean,GRO,Haas Ferrari,0,DNS,0

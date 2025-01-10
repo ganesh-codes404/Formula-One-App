@@ -1,0 +1,25 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Q1,Q2,Q3,Laps
+1,2,Mark Webber,WEB,Red Bull Racing Renault,1:32.670,1:31.673,1:30.399,19
+2,1,Sebastian Vettel,VET,Red Bull Racing Renault,1:32.977,1:32.379,1:30.431,19
+3,5,Fernando Alonso,ALO,Ferrari,1:32.986,1:31.727,1:30.516,20
+4,6,Felipe Massa,MAS,Ferrari,1:32.760,1:31.640,1:31.124,16
+5,4,Jenson Button,BUT,McLaren Mercedes,1:34.230,1:32.273,1:31.898,21
+6,15,Paul di Resta,DIR,Force India Mercedes,1:34.472,1:32.569,1:31.929,14
+7,12,Pastor Maldonado,MAL,Williams Cosworth,1:32.702,1:32.588,1:31.933,16
+8,16,Kamui Kobayashi,KOB,Sauber Ferrari,1:34.324,1:32.399,1:32.128,16
+9,8,Nico Rosberg,ROS,Mercedes,1:34.186,1:32.295,1:32.209,18
+10,3,Lewis Hamilton,HAM,McLaren Mercedes,1:33.581,1:32.505,1:32.376,20
+11,14,Adrian Sutil,SUT,Force India Mercedes,1:34.454,1:32.617,DNQ,14
+12,17,Sergio Perez,PER,Sauber Ferrari,1:34.145,1:32.624,DNQ,14
+13,7,Michael Schumacher,MSC,Mercedes,1:34.160,1:32.656,DNQ,15
+14,10,Vitaly Petrov,PET,Renault,1:34.428,1:32.734,DNQ,14
+15,11,Rubens Barrichello,BAR,Williams Cosworth,1:33.532,1:33.119,DNQ,12
+16,9,Nick Heidfeld,HEI,Renault,1:35.132,1:33.805,DNQ,15
+17,20,Heikki Kovalainen,KOV,Lotus Renault,1:34.923,1:34.821,DNQ,9
+18,19,Jaime Alguersuari,ALG,STR Ferrari,1:35.245,DNQ,DNQ,7
+19,18,Sebastien Buemi,BUE,STR Ferrari,1:35.749,DNQ,DNQ,7
+20,24,Timo Glock,GLO,Virgin Cosworth,1:36.203,DNQ,DNQ,7
+21,21,Jarno Trulli,TRU,Lotus Renault,1:36.456,DNQ,DNQ,4
+22,25,Jerome d'Ambrosio,DAM,Virgin Cosworth,1:37.154,DNQ,DNQ,6
+23,23,Vitantonio Liuzzi,LIU,HRT Cosworth,1:37.484,DNQ,DNQ,7
+24,22,Daniel Ricciardo,RIC,HRT Cosworth,1:38.059,DNQ,DNQ,6

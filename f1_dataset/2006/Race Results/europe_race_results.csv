@@ -1,0 +1,23 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Laps,Time/Retired,Points
+1,5,Michael Schumacher,MSC,Ferrari,60,1:35:58.765,10
+2,1,Fernando Alonso,ALO,Renault,60,+3.751s,8
+3,6,Felipe Massa,MAS,Ferrari,60,+4.447s,6
+4,3,Kimi Räikkönen,RAI,McLaren Mercedes,60,+4.879s,5
+5,11,Rubens Barrichello,BAR,Honda,60,+72.586s,4
+6,2,Giancarlo Fisichella,FIS,Renault,60,+74.116s,3
+7,10,Nico Rosberg,ROS,Williams Cosworth,60,+74.565s,2
+8,17,Jacques Villeneuve,VIL,Sauber BMW,60,+89.364s,1
+9,8,Jarno Trulli,TRU,Toyota,59,+1 lap,0
+10,16,Nick Heidfeld,HEI,Sauber BMW,59,+1 lap,0
+11,21,Scott Speed,SPE,STR Cosworth,59,+1 lap,0
+12,18,Tiago Monteiro,MON,MF1 Toyota,59,+1 lap,0
+13,19,Christijan Albers,ALB,MF1 Toyota,59,+1 lap,0
+NC,7,Ralf Schumacher,RSC,Toyota,52,DNF,0
+NC,4,Juan Pablo Montoya,MOY,McLaren Mercedes,52,DNF,0
+NC,22,Takuma Sato,SAT,Super Aguri Honda,45,DNF,0
+NC,23,Franck Montagny,MON,Super Aguri Honda,29,DNF,0
+NC,12,Jenson Button,BUT,Honda,28,DNF,0
+NC,15,Christian Klien,KLI,RBR Ferrari,28,DNF,0
+NC,9,Mark Webber,WEB,Williams Cosworth,12,DNF,0
+NC,14,David Coulthard,COU,RBR Ferrari,2,DNF,0
+NC,20,Vitantonio Liuzzi,LIU,STR Cosworth,0,DNF,0

@@ -1,0 +1,23 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Laps,Time/Retired,Points
+1,44,Lewis Hamilton,HAM,Mercedes,52,2:26:52.094,25
+2,77,Valtteri Bottas,BOT,Williams Mercedes,52,+30.135s,18
+3,3,Daniel Ricciardo,RIC,Red Bull Racing Renault,52,+46.495s,15
+4,22,Jenson Button,BUT,McLaren Mercedes,52,+47.390s,12
+5,1,Sebastian Vettel,VET,Red Bull Racing Renault,52,+53.864s,10
+6,14,Fernando Alonso,ALO,Ferrari,52,+59.946s,8
+7,20,Kevin Magnussen,MAG,McLaren Mercedes,52,+62.563s,6
+8,27,Nico Hulkenberg,HUL,Force India Mercedes,52,+88.692s,4
+9,26,Daniil Kvyat,KVY,STR Renault,52,+89.340s,2
+10,25,Jean-Eric Vergne,VER,STR Renault,51,+1 lap,1
+11,11,Sergio Perez,PER,Force India Mercedes,51,+1 lap,0
+12,8,Romain Grosjean,GRO,Lotus Renault,51,+1 lap,0
+13,99,Adrian Sutil,SUT,Sauber Ferrari,51,+1 lap,0
+14,17,Jules Bianchi,BIA,Marussia Ferrari,51,+1 lap,0
+15,10,Kamui Kobayashi,KOB,Caterham Renault,50,+2 laps,0
+16,4,Max Chilton,CHI,Marussia Ferrari,50,+2 laps,0
+17,13,Pastor Maldonado,MAL,Lotus Renault,49,DNF,0
+NC,6,Nico Rosberg,ROS,Mercedes,28,DNF,0
+NC,9,Marcus Ericsson,ERI,Caterham Renault,11,DNF,0
+NC,21,Esteban Gutierrez,GUT,Sauber Ferrari,9,DNF,0
+NC,19,Felipe Massa,MAS,Williams Mercedes,0,DNF,0
+NC,7,Kimi Räikkönen,RAI,Ferrari,0,DNF,0

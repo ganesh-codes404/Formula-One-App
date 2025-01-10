@@ -1,0 +1,31 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Laps,Time/Retired,Points
+1,6,Ronnie Peterson,PET,Lotus Ford,78.0,1:42:15.767,9
+2,4,Patrick Depailler,DEP,Tyrrell Ford,78.0,+0.466s,6
+3,2,John Watson,WAT,Brabham Alfa Romeo,78.0,+4.442s,4
+4,27,Alan Jones,JON,Williams Ford,78.0,+38.990s,3
+5,26,Jacques Laffite,LAF,Ligier Matra,78.0,+69.220s,2
+6,3,Didier Pironi,PIR,Tyrrell Ford,77.0,+1 lap,1
+7,5,Mario Andretti,AND,Lotus Ford,77.0,+1 lap,0
+8,10,Jean-Pierre Jarier,JAR,ATS Ford,77.0,+1 lap,0
+9,36,Rolf Stommelen,STO,Arrows Ford,77.0,+1 lap,0
+10,25,Hector Rebaque,REB,Lotus Ford,77.0,+1 lap,0
+11,30,Brett Lunger,LUN,McLaren Ford,76.0,+2 laps,0
+12,19,Vittorio Brambilla,BRA,Surtees Ford,76.0,+2 laps,0
+NC,35,Riccardo Patrese,PAT,Arrows Ford,63.0,DNF,0
+NC,20,Jody Scheckter,SCH,Wolf Ford,59.0,DNF,0
+NC,8,Patrick Tambay,TAM,McLaren Ford,56.0,DNF,0
+NC,11,Carlos Reutemann,REU,Ferrari,55.0,DNF,0
+NC,12,Gilles Villeneuve,VIL,Ferrari,55.0,DNF,0
+NC,18,Rupert Keegan,KEE,Surtees Ford,52.0,DNF,0
+NC,1,Niki Lauda,LAU,Brabham Alfa Romeo,52.0,DNF,0
+NC,9,Jochen Mass,MAS,ATS Ford,43.0,DNF,0
+NC,37,Arturo Merzario,MER,Merzario Ford,39.0,DNF,0
+NC,15,Jean-Pierre Jabouille,JAB,Renault,38.0,DNF,0
+NC,32,Keke Rosberg,ROS,Theodore Ford,15.0,DNF,0
+NC,14,Emerson Fittipaldi,FIT,Fittipaldi Ford,8.0,DNF,0
+NC,24,Eddie Cheever,CHE,Hesketh Ford,8.0,DNF,0
+NC,7,James Hunt,HUN,McLaren Ford,5.0,DNF,0
+NC,31,Rene Arnoux,ARN,Martini Ford,,DNS,0
+NC,17,Clay Regazzoni,REG,Shadow Ford,,DNS,0
+NC,22,Lamberto Leoni,LEO,Ensign Ford,,DNS,0
+NC,16,Hans-Joachim Stuck,STU,Shadow Ford,,DNS,0

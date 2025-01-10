@@ -1,0 +1,23 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Laps,Time/Retired,Points
+1,44,Lewis Hamilton,HAM,Mercedes,44,1:51:43.021,25
+2,6,Nico Rosberg,ROS,Mercedes,44,+9.180s,18
+3,1,Sebastian Vettel,VET,Red Bull Racing Renault,44,+29.122s,15
+4,3,Daniel Ricciardo,RIC,Red Bull Racing Renault,44,+38.818s,12
+5,22,Jenson Button,BUT,McLaren Mercedes,44,+67.550s,10
+6,77,Valtteri Bottas,BOT,Williams Mercedes,44,+113.773s,8
+7,19,Felipe Massa,MAS,Williams Mercedes,44,+115.126s,6
+8,27,Nico Hulkenberg,HUL,Force India Mercedes,44,+115.948s,4
+9,25,Jean-Eric Vergne,VER,STR Renault,44,+127.638s,2
+10,11,Sergio Perez,PER,Force India Mercedes,43,DNF,1
+11,26,Daniil Kvyat,KVY,STR Renault,43,+1 lap,0
+12,7,Kimi Räikkönen,RAI,Ferrari,43,+1 lap,0
+13,21,Esteban Gutierrez,GUT,Sauber Ferrari,43,+1 lap,0
+14,20,Kevin Magnussen,MAG,McLaren Mercedes,43,+1 lap,0
+15,8,Romain Grosjean,GRO,Lotus Renault,43,+1 lap,0
+16,13,Pastor Maldonado,MAL,Lotus Renault,43,+1 lap,0
+17,9,Marcus Ericsson,ERI,Caterham Renault,43,+1 lap,0
+18,4,Max Chilton,CHI,Marussia Ferrari,43,+1 lap,0
+19,10,Kamui Kobayashi,KOB,Caterham Renault,43,+1 lap,0
+20,17,Jules Bianchi,BIA,Marussia Ferrari,41,DNF,0
+21,99,Adrian Sutil,SUT,Sauber Ferrari,40,DNF,0
+NC,14,Fernando Alonso,ALO,Ferrari,2,DNF,0

@@ -1,0 +1,21 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Q1,Q2,Q3,Laps
+1,22,Jenson Button,BUT,Brawn Mercedes,1:25.211,1:24.855,1:26.202,19
+2,23,Rubens Barrichello,BAR,Brawn Mercedes,1:25.006,1:24.783,1:26.505,21
+3,15,Sebastian Vettel,VET,RBR Renault,1:25.938,1:25.121,1:26.830,21
+4,5,Robert Kubica,KUB,Sauber BMW,1:25.922,1:25.152,1:26.914,19
+5,16,Nico Rosberg,ROS,Williams Toyota,1:25.846,1:25.123,1:26.973,21
+6,3,Felipe Massa,MAS,Ferrari,1:25.844,1:25.319,1:27.033,21
+7,4,Kimi Räikkönen,RAI,Ferrari,1:25.899,1:25.380,1:27.163,21
+8,14,Mark Webber,WEB,RBR Renault,1:25.427,1:25.241,1:27.246,20
+9,6,Nick Heidfeld,HEI,Sauber BMW,1:25.827,1:25.504,DNQ,14
+10,7,Fernando Alonso,ALO,Renault,1:26.026,1:25.605,DNQ,12
+11,17,Kazuki Nakajima,NAK,Williams Toyota,1:26.074,1:25.607,DNQ,16
+12,2,Heikki Kovalainen,KOV,McLaren Mercedes,1:26.184,1:25.726,DNQ,15
+13,1,Lewis Hamilton,HAM,McLaren Mercedes,1:26.454,DNQ,DNQ,5
+14,12,Sebastien Buemi,BUE,STR Ferrari,1:26.503,DNQ,DNQ,10
+15,8,Nelson Piquet,PIQ,Renault,1:26.598,DNQ,DNQ,12
+16,21,Giancarlo Fisichella,FIS,Force India Mercedes,1:26.677,DNQ,DNQ,10
+17,20,Adrian Sutil,SUT,Force India Mercedes,1:26.742,DNQ,DNQ,9
+18,11,Sebastien Bourdais,BOU,STR Ferrari,1:26.964,DNQ,DNQ,10
+EX,10,Timo Glock,GLO,Toyota,DNQ,DNQ,DNQ,19
+EX,9,Jarno Trulli,TRU,Toyota,DNQ,DNQ,DNQ,20

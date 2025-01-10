@@ -1,0 +1,26 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Laps,Time/Retired,Points
+1,5,Michael Schumacher,MSC,Benetton Ford,69,1:44:31.887,10
+2,0,Damon Hill,HIL,Williams Renault,69,+39.660s,6
+3,27,Jean Alesi,ALE,Ferrari,69,+73.388s,4
+4,28,Gerhard Berger,BER,Ferrari,69,+75.609s,3
+5,2,David Coulthard,COU,Williams Renault,68,+1 lap,2
+6,6,Jyrki Jarvilehto,JAR,Benetton Ford,68,+1 lap,1
+7,14,Rubens Barrichello,BAR,Jordan Hart,68,+1 lap,0
+8,12,Johnny Herbert,HER,Lotus Mugen Honda,68,+1 lap,0
+9,23,Pierluigi Martini,MAR,Minardi Ford,68,+1 lap,0
+10,4,Mark Blundell,BLU,Tyrrell Yamaha,67,DNF,0
+11,24,Michele Alboreto,ALB,Minardi Ford,67,+2 laps,0
+12,26,Olivier Panis,PAN,Ligier Renault,67,+2 laps,0
+13,25,Eric Bernard,BER,Ligier Renault,66,+3 laps,0
+14,31,David Brabham,BRA,Simtek Ford,65,+4 laps,0
+15,11,Alessandro Zanardi,ZAN,Lotus Mugen Honda,62,DNF,0
+NC,7,Mika Hakkinen,HAK,McLaren Peugeot,61,DNF,0
+NC,19,Olivier Beretta,BER,Larrousse Ford,57,DNF,0
+NC,10,Gianni Morbidelli,MOR,Footwork Ford,50,DNF,0
+NC,34,Bertrand Gachot,GAC,Pacific Ilmor,47,DNF,0
+NC,20,Erik Comas,COM,Larrousse Ford,45,DNF,0
+NC,3,Ukyo Katayama,KAT,Tyrrell Yamaha,44,DNF,0
+NC,15,Eddie Irvine,IRV,Jordan Hart,40,DNF,0
+NC,29,Andrea de Cesaris,DEC,Sauber Mercedes,24,DNF,0
+NC,30,Heinz-Harald Frentzen,FRE,Sauber Mercedes,5,DNF,0
+NC,8,Martin Brundle,BRU,McLaren Peugeot,3,DNF,0

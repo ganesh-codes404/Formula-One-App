@@ -1,0 +1,22 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Laps,Time/Retired,Points
+1,44,Lewis Hamilton,HAM,Mercedes,53,1:31:50.744,25
+2,6,Nico Rosberg,ROS,Mercedes,53,+13.657s,18
+3,77,Valtteri Bottas,BOT,Williams Mercedes,53,+17.425s,15
+4,22,Jenson Button,BUT,McLaren Mercedes,53,+30.234s,12
+5,20,Kevin Magnussen,MAG,McLaren Mercedes,53,+53.616s,10
+6,14,Fernando Alonso,ALO,Ferrari,53,+60.016s,8
+7,3,Daniel Ricciardo,RIC,Red Bull Racing Renault,53,+61.812s,6
+8,1,Sebastian Vettel,VET,Red Bull Racing Renault,53,+66.185s,4
+9,7,Kimi Räikkönen,RAI,Ferrari,53,+78.877s,2
+10,11,Sergio Perez,PER,Force India Mercedes,53,+80.067s,1
+11,19,Felipe Massa,MAS,Williams Mercedes,53,+80.877s,0
+12,27,Nico Hulkenberg,HUL,Force India Mercedes,53,+81.309s,0
+13,25,Jean-Eric Vergne,VER,STR Renault,53,+97.295s,0
+14,26,Daniil Kvyat,KVY,STR Renault,52,+1 lap,0
+15,21,Esteban Gutierrez,GUT,Sauber Ferrari,52,+1 lap,0
+16,99,Adrian Sutil,SUT,Sauber Ferrari,52,+1 lap,0
+17,8,Romain Grosjean,GRO,Lotus Renault,52,+1 lap,0
+18,13,Pastor Maldonado,MAL,Lotus Renault,52,+1 lap,0
+19,9,Marcus Ericsson,ERI,Caterham Renault,51,+2 laps,0
+NC,10,Kamui Kobayashi,KOB,Caterham Renault,21,DNF,0
+NC,4,Max Chilton,CHI,Marussia Ferrari,9,DNF,0

@@ -1,0 +1,27 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Laps,Time/Retired,Points
+1,11,Alain Prost,PRO,McLaren Honda,70,1:37:40.958,9
+2,16,Ivan Capelli,CAP,March Judd,70,+9.553s,6
+3,20,Thierry Boutsen,BOU,Benetton Ford,70,+44.619s,4
+4,17,Derek Warwick,WAR,Arrows Megatron,70,+67.419s,3
+5,27,Michele Alboreto,ALB,Ferrari,70,+71.884s,2
+6,12,Ayrton Senna,SEN,McLaren Honda,70,+78.269s,1
+7,36,Alex Caffi,CAF,Dallara Ford,69,+1 lap,0
+8,24,Luis Perez-Sala,PER,Minardi Ford,68,+2 laps,0
+9,14,Philippe Streiff,STR,AGS Ford,68,+2 laps,0
+10,25,Rene Arnoux,ARN,Ligier Judd,68,+2 laps,0
+11,31,Gabriele Tarquini,TAR,Coloni Ford,65,+5 laps,0
+12,21,Nicola Larini,LAR,Osella,63,+7 laps,0
+NC,15,Mauricio Gugelmin,GUG,March Judd,59,DNF,0
+NC,5,Nigel Mansell,MAN,Williams Judd,54,DNF,0
+NC,3,Jonathan Palmer,PAL,Tyrrell Ford,53,DNF,0
+NC,19,Alessandro Nannini,NAN,Benetton Ford,52,DNF,0
+NC,28,Gerhard Berger,BER,Ferrari,35,DNF,0
+NC,1,Nelson Piquet,PIQ,Lotus Honda,34,DNF,0
+NC,6,Riccardo Patrese,PAT,Williams Judd,29,DNF,0
+NC,23,Pierluigi Martini,MAR,Minardi Ford,27,DNF,0
+NC,29,Yannick Dalmas,DAL,Lola Ford,20,DNF,0
+NC,2,Satoru Nakajima,NAK,Lotus Honda,16,DNF,0
+NC,22,Andrea de Cesaris,DEC,Rial Ford,11,DNF,0
+NC,18,Eddie Cheever,CHE,Arrows Megatron,10,DNF,0
+NC,30,Philippe Alliot,ALL,Lola Ford,7,DNF,0
+NC,26,Stefan Johansson,JOH,Ligier Judd,4,DNF,0

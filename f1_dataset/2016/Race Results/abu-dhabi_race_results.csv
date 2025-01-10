@@ -1,0 +1,23 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Laps,Time/Retired,Points
+1,44,Lewis Hamilton,HAM,Mercedes,55,1:38:04.013,25
+2,6,Nico Rosberg,ROS,Mercedes,55,+0.439s,18
+3,5,Sebastian Vettel,VET,Ferrari,55,+0.843s,15
+4,33,Max Verstappen,VER,Red Bull Racing TAG Heuer,55,+1.685s,12
+5,3,Daniel Ricciardo,RIC,Red Bull Racing TAG Heuer,55,+5.315s,10
+6,7,Kimi Räikkönen,RAI,Ferrari,55,+18.816s,8
+7,27,Nico Hulkenberg,HUL,Force India Mercedes,55,+50.114s,6
+8,11,Sergio Perez,PER,Force India Mercedes,55,+58.776s,4
+9,19,Felipe Massa,MAS,Williams Mercedes,55,+59.436s,2
+10,14,Fernando Alonso,ALO,McLaren Honda,55,+59.896s,1
+11,8,Romain Grosjean,GRO,Haas Ferrari,55,+76.777s,0
+12,21,Esteban Gutierrez,GUT,Haas Ferrari,55,+95.113s,0
+13,31,Esteban Ocon,OCO,MRT Mercedes,54,+1 lap,0
+14,94,Pascal Wehrlein,WEH,MRT Mercedes,54,+1 lap,0
+15,9,Marcus Ericsson,ERI,Sauber Ferrari,54,+1 lap,0
+16,12,Felipe Nasr,NAS,Sauber Ferrari,54,+1 lap,0
+17,30,Jolyon Palmer,PAL,Renault,54,+1 lap,0
+NC,55,Carlos Sainz,SAI,Toro Rosso Ferrari,41,DNF,0
+NC,26,Daniil Kvyat,KVY,Toro Rosso Ferrari,14,DNF,0
+NC,22,Jenson Button,BUT,McLaren Honda,12,DNF,0
+NC,77,Valtteri Bottas,BOT,Williams Mercedes,6,DNF,0
+NC,20,Kevin Magnussen,MAG,Renault,5,DNF,0

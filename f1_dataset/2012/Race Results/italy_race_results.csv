@@ -1,0 +1,25 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Laps,Time/Retired,Points
+1,4,Lewis Hamilton,HAM,McLaren Mercedes,53,1:19:41.221,25
+2,15,Sergio Perez,PER,Sauber Ferrari,53,+4.356s,18
+3,5,Fernando Alonso,ALO,Ferrari,53,+20.594s,15
+4,6,Felipe Massa,MAS,Ferrari,53,+29.667s,12
+5,9,Kimi Räikkönen,RAI,Lotus Renault,53,+30.881s,10
+6,7,Michael Schumacher,MSC,Mercedes,53,+31.259s,8
+7,8,Nico Rosberg,ROS,Mercedes,53,+33.550s,6
+8,11,Paul di Resta,DIR,Force India Mercedes,53,+41.057s,4
+9,14,Kamui Kobayashi,KOB,Sauber Ferrari,53,+43.898s,2
+10,19,Bruno Senna,SEN,Williams Renault,53,+48.144s,1
+11,18,Pastor Maldonado,MAL,Williams Renault,53,+48.682s,0
+12,16,Daniel Ricciardo,RIC,STR Ferrari,53,+50.316s,0
+13,10,Jerome d'Ambrosio,DAM,Lotus Renault,53,+75.861s,0
+14,20,Heikki Kovalainen,KOV,Caterham Renault,52,+1 lap,0
+15,21,Vitaly Petrov,PET,Caterham Renault,52,+1 lap,0
+16,25,Charles Pic,PIC,Marussia Cosworth,52,+1 lap,0
+17,24,Timo Glock,GLO,Marussia Cosworth,52,+1 lap,0
+18,22,Pedro de la Rosa,DLR,HRT Cosworth,52,+1 lap,0
+19,23,Narain Karthikeyan,KAR,HRT Cosworth,52,+1 lap,0
+20,2,Mark Webber,WEB,Red Bull Racing Renault,51,DNF,0
+21,12,Nico Hulkenberg,HUL,Force India Mercedes,50,DNF,0
+22,1,Sebastian Vettel,VET,Red Bull Racing Renault,47,DNF,0
+NC,3,Jenson Button,BUT,McLaren Mercedes,32,DNF,0
+NC,17,Jean-Eric Vergne,VER,STR Ferrari,8,DNF,0

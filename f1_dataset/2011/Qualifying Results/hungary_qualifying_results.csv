@@ -1,0 +1,25 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Q1,Q2,Q3,Laps
+1,1,Sebastian Vettel,VET,Red Bull Racing Renault,1:21.740,1:21.095,1:19.815,14
+2,3,Lewis Hamilton,HAM,McLaren Mercedes,1:21.636,1:21.105,1:19.978,12
+3,4,Jenson Button,BUT,McLaren Mercedes,1:22.038,1:20.578,1:20.024,15
+4,6,Felipe Massa,MAS,Ferrari,1:22.130,1:21.099,1:20.350,15
+5,5,Fernando Alonso,ALO,Ferrari,1:21.578,1:20.262,1:20.365,15
+6,2,Mark Webber,WEB,Red Bull Racing Renault,1:22.208,1:20.890,1:20.474,16
+7,8,Nico Rosberg,ROS,Mercedes,1:22.996,1:21.243,1:21.098,12
+8,14,Adrian Sutil,SUT,Force India Mercedes,1:22.237,1:22.000,1:21.445,19
+9,7,Michael Schumacher,MSC,Mercedes,1:22.876,1:21.852,1:21.907,17
+10,17,Sergio Perez,PER,Sauber Ferrari,1:23.067,1:22.157,DNS,16
+11,15,Paul di Resta,DIR,Force India Mercedes,1:22.976,1:22.256,DNQ,13
+12,10,Vitaly Petrov,PET,Renault,1:23.070,1:22.284,DNQ,14
+13,16,Kamui Kobayashi,KOB,Sauber Ferrari,1:23.278,1:22.435,DNQ,16
+14,9,Nick Heidfeld,HEI,Renault,1:23.024,1:22.470,DNQ,14
+15,11,Rubens Barrichello,BAR,Williams Cosworth,1:23.075,1:22.684,DNQ,16
+16,19,Jaime Alguersuari,ALG,STR Ferrari,1:23.285,1:22.979,DNQ,10
+17,12,Pastor Maldonado,MAL,Williams Cosworth,1:23.847,DNQ,DNQ,9
+18,18,Sebastien Buemi,BUE,STR Ferrari,1:24.070,DNQ,DNQ,9
+19,20,Heikki Kovalainen,KOV,Lotus Renault,1:24.362,DNQ,DNQ,8
+20,21,Jarno Trulli,TRU,Lotus Renault,1:24.534,DNQ,DNQ,7
+21,24,Timo Glock,GLO,Virgin Cosworth,1:26.294,DNQ,DNQ,10
+22,23,Vitantonio Liuzzi,LIU,HRT Cosworth,1:26.323,DNQ,DNQ,11
+23,22,Daniel Ricciardo,RIC,HRT Cosworth,1:26.479,DNQ,DNQ,11
+24,25,Jerome d'Ambrosio,DAM,Virgin Cosworth,1:26.510,DNQ,DNQ,8

@@ -1,0 +1,26 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Laps,Time/Retired,Points
+1,6,Nelson Piquet,PIQ,Williams Honda,61.0,1:39:32.583,9
+2,12,Ayrton Senna,SEN,Lotus Renault,61.0,+34.827s,6
+3,26,Jacques Laffite,LAF,Ligier Renault,61.0,+59.759s,4
+4,25,Rene Arnoux,ARN,Ligier Renault,61.0,+88.429s,3
+5,3,Martin Brundle,BRU,Tyrrell Renault,60.0,+1 lap,2
+6,20,Gerhard Berger,BER,Benetton BMW,59.0,+2 laps,1
+7,4,Philippe Streiff,STR,Tyrrell Renault,59.0,+2 laps,0
+8,8,Elio de Angelis,DEA,Brabham BMW,58.0,+3 laps,0
+9,11,Johnny Dumfries,DUM,Lotus Renault,58.0,+3 laps,0
+10,19,Teo Fabi,FAB,Benetton BMW,56.0,+5 laps,0
+NC,18,Thierry Boutsen,BOU,Arrows BMW,37.0,DNF,0
+NC,27,Michele Alboreto,ALB,Ferrari,35.0,DNF,0
+NC,1,Alain Prost,PRO,McLaren TAG,30.0,DNF,0
+NC,22,Christian Danner,DAN,Osella Alfa Romeo,29.0,DNF,0
+NC,28,Stefan Johansson,JOH,Ferrari,26.0,DNF,0
+NC,16,Patrick Tambay,TAM,Lola Hart,24.0,DNF,0
+NC,7,Riccardo Patrese,PAT,Brabham BMW,21.0,DNF,0
+NC,14,Jonathan Palmer,PAL,Zakspeed,20.0,DNF,0
+NC,17,Marc Surer,SUR,Arrows BMW,19.0,DNF,0
+NC,24,Alessandro Nannini,NAN,Minardi Motori Moderni,18.0,DNF,0
+NC,23,Andrea de Cesaris,DEC,Minardi Motori Moderni,16.0,DNF,0
+NC,21,Piercarlo Ghinzani,GHI,Osella Alfa Romeo,16.0,DNF,0
+NC,2,Keke Rosberg,ROS,McLaren TAG,6.0,DNF,0
+NC,15,Alan Jones,JON,Lola Hart,5.0,DNF,0
+NC,5,Nigel Mansell,MAN,Williams Honda,,DNS,0

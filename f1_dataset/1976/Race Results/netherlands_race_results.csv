@@ -1,0 +1,27 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Laps,Time/Retired,Points
+1,11,James Hunt,HUN,McLaren Ford,75,1:44:52.090,9
+2,2,Clay Regazzoni,REG,Ferrari,75,+0.920s,6
+3,5,Mario Andretti,AND,Lotus Ford,75,+2.090s,4
+4,16,Tom Pryce,PRY,Shadow Ford,75,+6.940s,3
+5,3,Jody Scheckter,SCH,Tyrrell Ford,75,+22.460s,2
+6,9,Vittorio Brambilla,BRA,March Ford,75,+45.030s,1
+7,4,Patrick Depailler,DEP,Tyrrell Ford,75,+56.280s,0
+8,19,Alan Jones,JON,Surtees Ford,74,+1 lap,0
+9,12,Jochen Mass,MAS,McLaren Ford,74,+1 lap,0
+10,17,Jean-Pierre Jarier,JAR,Shadow Ford,74,+1 lap,0
+11,38,Henri Pescarolo,PES,Surtees Ford,74,+1 lap,0
+12,25,Rolf Stommelen,STO,Hesketh Ford,72,+3 laps,0
+NC,22,Jacky Ickx,ICK,Ensign Ford,66,DNF,0
+NC,39,Boy Hayje,HAY,Penske Ford,63,DNF,0
+NC,8,Carlos Pace,PAC,Brabham Alfa Romeo,53,DNF,0
+NC,26,Jacques Laffite,LAF,Ligier Matra,53,DNF,0
+NC,10,Ronnie Peterson,PET,March Ford,52,DNF,0
+NC,24,Harald Ertl,ERT,Hesketh Ford,49,DNF,0
+NC,28,John Watson,WAT,Penske Ford,47,DNF,0
+NC,37,Larry Perkins,PER,Boro Ford,44,DNF,0
+NC,30,Emerson Fittipaldi,FIT,Fittipaldi Ford,40,DNF,0
+NC,7,Carlos Reutemann,REU,Brabham Alfa Romeo,11,DNF,0
+NC,6,Gunnar Nilsson,NIL,Lotus Ford,10,DNF,0
+NC,18,Conny Andersson,AND,Surtees Ford,9,DNF,0
+NC,34,Hans-Joachim Stuck,STU,March Ford,9,DNF,0
+NC,20,Arturo Merzario,MER,Wolf-Williams,5,DNF,0

@@ -1,0 +1,25 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Laps,Time/Retired,Points
+1,5,Mario Andretti,AND,Lotus Ford,45,1:28:00.900,9
+2,20,Jody Scheckter,SCH,Wolf Ford,45,+15.350s,6
+3,26,Jacques Laffite,LAF,Ligier Matra,45,+28.010s,4
+4,14,Emerson Fittipaldi,FIT,Fittipaldi Ford,45,+36.880s,3
+5,3,Didier Pironi,PIR,Tyrrell Ford,45,+57.260s,2
+6,25,Hector Rebaque,REB,Lotus Ford,45,+97.860s,1
+7,2,John Watson,WAT,Brabham Alfa Romeo,45,+99.530s,0
+8,12,Gilles Villeneuve,VIL,Ferrari,45,+116.870s,0
+9,35,Riccardo Patrese,PAT,Arrows Ford,44,+1 lap,0
+10,32,Keke Rosberg,ROS,Wolf Ford,42,+3 laps,0
+DQ,36,Rolf Stommelen,STO,Arrows Ford,42,DSQ,0
+11,23,Harald Ertl,ERT,Ensign Ford,41,DNF,0
+NC,6,Ronnie Peterson,PET,Lotus Ford,36,DNF,0
+DQ,7,James Hunt,HUN,McLaren Ford,34,DSQ,0
+NC,27,Alan Jones,JON,Williams Ford,31,DNF,0
+NC,22,Nelson Piquet,PIQ,Ensign Ford,31,DNF,0
+NC,19,Vittorio Brambilla,BRA,Surtees Ford,24,DNF,0
+NC,8,Patrick Tambay,TAM,McLaren Ford,16,DNF,0
+NC,11,Carlos Reutemann,REU,Ferrari,14,DNF,0
+NC,1,Niki Lauda,LAU,Brabham Alfa Romeo,11,DNF,0
+NC,15,Jean-Pierre Jabouille,JAB,Renault,5,DNF,0
+NC,16,Hans-Joachim Stuck,STU,Shadow Ford,1,DNF,0
+NC,9,Jochen Mass,MAS,ATS Ford,1,DNF,0
+NC,4,Patrick Depailler,DEP,Tyrrell Ford,0,DNF,0

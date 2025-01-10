@@ -1,0 +1,25 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Laps,Time/Retired,Points
+1,5,Sebastian Vettel,VET,RBR Renault,71,1:33:11.803,25
+2,6,Mark Webber,WEB,RBR Renault,71,+4.243s,18
+3,8,Fernando Alonso,ALO,Ferrari,71,+6.807s,15
+4,2,Lewis Hamilton,HAM,McLaren Mercedes,71,+14.634s,12
+5,1,Jenson Button,BUT,McLaren Mercedes,71,+15.593s,10
+6,4,Nico Rosberg,ROS,Mercedes,71,+35.320s,8
+7,3,Michael Schumacher,MSC,Mercedes,71,+43.456s,6
+8,10,Nico Hulkenberg,HUL,Williams Cosworth,70,+1 lap,4
+9,11,Robert Kubica,KUB,Renault,70,+1 lap,2
+10,23,Kamui Kobayashi,KOB,Sauber Ferrari,70,+1 lap,1
+11,17,Jaime Alguersuari,ALG,STR Ferrari,70,+1 lap,0
+12,14,Adrian Sutil,SUT,Force India Mercedes,70,+1 lap,0
+13,16,Sebastien Buemi,BUE,STR Ferrari,70,+1 lap,0
+14,9,Rubens Barrichello,BAR,Williams Cosworth,70,+1 lap,0
+15,7,Felipe Massa,MAS,Ferrari,70,+1 lap,0
+16,12,Vitaly Petrov,PET,Renault,70,+1 lap,0
+17,22,Nick Heidfeld,HEI,Sauber Ferrari,70,+1 lap,0
+18,19,Heikki Kovalainen,KOV,Lotus Cosworth,69,+2 laps,0
+19,18,Jarno Trulli,TRU,Lotus Cosworth,69,+2 laps,0
+20,24,Timo Glock,GLO,Virgin Cosworth,69,+2 laps,0
+21,21,Bruno Senna,SEN,HRT Cosworth,69,+2 laps,0
+22,20,Christian Klien,KLI,HRT Cosworth,65,+6 laps,0
+NC,25,Lucas di Grassi,DIG,Virgin Cosworth,62,+9 laps,0
+NC,15,Vitantonio Liuzzi,LIU,Force India Mercedes,49,DNF,0

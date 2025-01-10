@@ -1,0 +1,21 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Laps,Time/Retired,Points
+1,3,Juan Pablo Montoya,MOY,Williams BMW,67,1:28:48.769,10
+2,5,David Coulthard,COU,McLaren Mercedes,67,+65.459s,8
+3,7,Jarno Trulli,TRU,Renault,67,+69.060s,6
+4,8,Fernando Alonso,ALO,Renault,67,+69.344s,5
+5,20,Olivier Panis,PAN,Toyota,66,+1 lap,4
+6,21,Cristiano da Matta,DAM,Toyota,66,+1 lap,3
+7,1,Michael Schumacher,MSC,Ferrari,66,+1 lap,2
+8,17,Jenson Button,BUT,BAR Honda,66,+1 lap,1
+9,16,Jacques Villeneuve,VIL,BAR Honda,65,+2 laps,0
+10,9,Nick Heidfeld,HEI,Sauber Petronas,65,+2 laps,0
+11,14,Mark Webber,WEB,Jaguar Cosworth,64,DNF,0
+12,18,Nicolas Kiesa,KIE,Minardi Cosworth,62,+5 laps,0
+13,11,Giancarlo Fisichella,FIS,Jordan Ford,60,DNF,0
+NC,19,Jos Verstappen,VER,Minardi Cosworth,23,DNF,0
+NC,15,Justin Wilson,WIL,Jaguar Cosworth,6,DNF,0
+NC,4,Ralf Schumacher,RSC,Williams BMW,1,DNF,0
+NC,10,Heinz-Harald Frentzen,FRE,Sauber Petronas,1,DNF,0
+NC,2,Rubens Barrichello,BAR,Ferrari,0,DNF,0
+NC,6,Kimi Räikkönen,RAI,McLaren Mercedes,0,DNF,0
+NC,12,Ralph Firman,FIR,Jordan Ford,0,DNF,0

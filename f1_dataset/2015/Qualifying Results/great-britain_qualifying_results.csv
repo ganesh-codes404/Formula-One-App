@@ -1,0 +1,21 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Q1,Q2,Q3,Laps
+1,44,Lewis Hamilton,HAM,Mercedes,1:33.796,1:33.068,1:32.248,14
+2,6,Nico Rosberg,ROS,Mercedes,1:33.475,1:32.737,1:32.361,14
+3,19,Felipe Massa,MAS,Williams Mercedes,1:34.542,1:33.707,1:33.085,21
+4,77,Valtteri Bottas,BOT,Williams Mercedes,1:34.171,1:33.020,1:33.149,19
+5,7,Kimi Räikkönen,RAI,Ferrari,1:33.426,1:33.911,1:33.379,19
+6,5,Sebastian Vettel,VET,Ferrari,1:33.562,1:33.641,1:33.547,18
+7,26,Daniil Kvyat,KVY,Red Bull Racing Renault,1:34.422,1:33.520,1:33.636,22
+8,55,Carlos Sainz,SAI,STR Renault,1:34.641,1:34.071,1:33.649,19
+9,27,Nico Hulkenberg,HUL,Force India Mercedes,1:34.594,1:33.693,1:33.673,21
+10,3,Daniel Ricciardo,RIC,Red Bull Racing Renault,1:34.272,1:33.749,1:33.943,20
+11,11,Sergio Perez,PER,Force India Mercedes,1:34.250,1:34.268,DNQ,14
+12,8,Romain Grosjean,GRO,Lotus Mercedes,1:34.646,1:34.430,DNQ,9
+13,33,Max Verstappen,VER,STR Renault,1:34.819,1:34.502,DNQ,14
+14,13,Pastor Maldonado,MAL,Lotus Mercedes,1:34.877,1:34.511,DNQ,16
+15,9,Marcus Ericsson,ERI,Sauber Ferrari,1:34.643,1:34.868,DNQ,13
+16,12,Felipe Nasr,NAS,Sauber Ferrari,1:34.888,DNQ,DNQ,7
+17,14,Fernando Alonso,ALO,McLaren Honda,1:34.959,DNQ,DNQ,8
+18,22,Jenson Button,BUT,McLaren Honda,1:35.207,DNQ,DNQ,9
+19,28,Will Stevens,STE,Marussia Ferrari,1:37.364,DNQ,DNQ,9
+20,98,Roberto Merhi,MER,Marussia Ferrari,1:39.377,DNQ,DNQ,8

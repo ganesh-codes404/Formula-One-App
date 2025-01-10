@@ -1,0 +1,27 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Laps,Time/Retired,Points
+1,15,Alain Prost,PRO,Renault,77,1:32:08.401,9
+2,5,Carlos Reutemann,REU,Williams Ford,77,+14.950s,6
+3,16,Rene Arnoux,ARN,Renault,77,+27.900s,4
+4,8,Niki Lauda,LAU,McLaren Ford,77,+32.110s,3
+5,6,Keke Rosberg,ROS,Williams Ford,77,+46.140s,2
+6,7,John Watson,WAT,McLaren Ford,77,+50.990s,1
+7,3,Michele Alboreto,ALB,Tyrrell Ford,76,+1 lap,0
+8,11,Elio de Angelis,DEA,Lotus Ford,76,+1 lap,0
+9,10,Eliseo Salazar,SAL,ATS Ford,75,+2 laps,0
+10,9,Manfred Winkelhock,WIN,ATS Ford,75,+2 laps,0
+11,23,Bruno Giacomelli,GIA,Alfa Romeo,74,+3 laps,0
+12,17,Jochen Mass,MAS,March Ford,74,+3 laps,0
+13,22,Andrea de Cesaris,DEC,Alfa Romeo,73,+4 laps,0
+14,33,Derek Daly,DAL,Theodore Ford,73,+4 laps,0
+15,18,Raul Boesel,BOE,March Ford,72,+5 laps,0
+16,4,Slim Borgudd,BOR,Tyrrell Ford,72,+5 laps,0
+17,20,Chico Serra,SER,Fittipaldi Ford,72,+5 laps,0
+18,28,Didier Pironi,PIR,Ferrari,71,+6 laps,0
+NC,26,Jacques Laffite,LAF,Ligier Matra,54,DNF,0
+NC,35,Derek Warwick,WAR,Toleman Hart,43,DNF,0
+NC,2,Riccardo Patrese,PAT,Brabham BMW,18,DNF,0
+NC,25,Eddie Cheever,CHE,Ligier Matra,11,DNF,0
+NC,27,Gilles Villeneuve,VIL,Ferrari,6,DNF,0
+NC,1,Nelson Piquet,PIQ,Brabham BMW,3,DNF,0
+NC,12,Nigel Mansell,MAN,Lotus Ford,0,DNF,0
+NC,31,Jean-Pierre Jarier,JAR,Osella Ford,0,DNF,0

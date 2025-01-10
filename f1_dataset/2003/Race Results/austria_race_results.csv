@@ -1,0 +1,21 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Laps,Time/Retired,Points
+1,1,Michael Schumacher,MSC,Ferrari,69.0,1:24:04.888,10
+2,6,Kimi Räikkönen,RAI,McLaren Mercedes,69.0,+3.362s,8
+3,2,Rubens Barrichello,BAR,Ferrari,69.0,+3.951s,6
+4,17,Jenson Button,BUT,BAR Honda,69.0,+42.243s,5
+5,5,David Coulthard,COU,McLaren Mercedes,69.0,+59.740s,4
+6,4,Ralf Schumacher,RSC,Williams BMW,68.0,+1 lap,3
+7,14,Mark Webber,WEB,Jaguar Cosworth,68.0,+1 lap,2
+8,7,Jarno Trulli,TRU,Renault,68.0,+1 lap,1
+9,15,Antonio Pizzonia,PIZ,Jaguar Cosworth,68.0,+1 lap,0
+10,21,Cristiano da Matta,DAM,Toyota,68.0,+1 lap,0
+11,12,Ralph Firman,FIR,Jordan Ford,68.0,+1 lap,0
+12,16,Jacques Villeneuve,VIL,BAR Honda,68.0,+1 lap,0
+13,18,Justin Wilson,WIL,Minardi Cosworth,67.0,+2 laps,0
+NC,11,Giancarlo Fisichella,FIS,Jordan Ford,60.0,DNF,0
+NC,9,Nick Heidfeld,HEI,Sauber Petronas,46.0,DNF,0
+NC,8,Fernando Alonso,ALO,Renault,44.0,DNF,0
+NC,3,Juan Pablo Montoya,MOY,Williams BMW,32.0,DNF,0
+NC,20,Olivier Panis,PAN,Toyota,6.0,DNF,0
+NC,19,Jos Verstappen,VER,Minardi Cosworth,0.0,DNF,0
+NC,10,Heinz-Harald Frentzen,FRE,Sauber Petronas,,DNS,0

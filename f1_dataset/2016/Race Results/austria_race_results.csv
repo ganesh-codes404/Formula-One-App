@@ -1,0 +1,23 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Laps,Time/Retired,Points
+1,44,Lewis Hamilton,HAM,Mercedes,71,1:27:38.107,25
+2,33,Max Verstappen,VER,Red Bull Racing TAG Heuer,71,+5.719s,18
+3,7,Kimi Räikkönen,RAI,Ferrari,71,+6.024s,15
+4,6,Nico Rosberg,ROS,Mercedes,71,+26.710s,12
+5,3,Daniel Ricciardo,RIC,Red Bull Racing TAG Heuer,71,+30.981s,10
+6,22,Jenson Button,BUT,McLaren Honda,71,+37.706s,8
+7,8,Romain Grosjean,GRO,Haas Ferrari,71,+44.668s,6
+8,55,Carlos Sainz,SAI,Toro Rosso Ferrari,71,+47.400s,4
+9,77,Valtteri Bottas,BOT,Williams Mercedes,70,+1 lap,2
+10,94,Pascal Wehrlein,WEH,MRT Mercedes,70,+1 lap,1
+11,21,Esteban Gutierrez,GUT,Haas Ferrari,70,+1 lap,0
+12,30,Jolyon Palmer,PAL,Renault,70,+1 lap,0
+13,12,Felipe Nasr,NAS,Sauber Ferrari,70,+1 lap,0
+14,20,Kevin Magnussen,MAG,Renault,70,+1 lap,0
+15,9,Marcus Ericsson,ERI,Sauber Ferrari,70,+1 lap,0
+16,88,Rio Haryanto,HAR,MRT Mercedes,70,+1 lap,0
+17,11,Sergio Perez,PER,Force India Mercedes,69,DNF,0
+18,14,Fernando Alonso,ALO,McLaren Honda,64,DNF,0
+19,27,Nico Hulkenberg,HUL,Force India Mercedes,64,DNF,0
+20,19,Felipe Massa,MAS,Williams Mercedes,63,DNF,0
+NC,5,Sebastian Vettel,VET,Ferrari,26,DNF,0
+NC,26,Daniil Kvyat,KVY,Toro Rosso Ferrari,2,DNF,0

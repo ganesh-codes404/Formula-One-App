@@ -1,0 +1,21 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Q1,Q2,Q3,Laps
+1,16,Charles Leclerc,LEC,Ferrari,1:43.587,1:42.938,1:42.519,17
+2,5,Sebastian Vettel,VET,Ferrari,1:44.109,1:43.037,1:43.267,17
+3,44,Lewis Hamilton,HAM,Mercedes,1:45.260,1:43.592,1:43.282,19
+4,77,Valtteri Bottas,BOT,Mercedes,1:45.141,1:43.980,1:43.415,19
+5,33,Max Verstappen,VER,Red Bull Racing Honda,1:44.622,1:44.132,1:43.690,16
+6,3,Daniel Ricciardo,RIC,Renault,1:45.560,1:44.103,1:44.257,17
+7,27,Nico Hulkenberg,HUL,Renault,1:45.899,1:44.549,1:44.542,16
+8,7,Kimi Räikkönen,RAI,Alfa Romeo Racing Ferrari,1:45.842,1:44.140,1:44.557,18
+9,11,Sergio Perez,PER,Racing Point BWT Mercedes,1:45.732,1:44.707,1:44.706,18
+10,20,Kevin Magnussen,MAG,Haas Ferrari,1:45.839,1:44.738,1:45.086,18
+11,8,Romain Grosjean,GRO,Haas Ferrari,1:45.694,1:44.797,DNQ,12
+12,4,Lando Norris,NOR,McLaren Renault,1:46.154,1:44.847,DNQ,12
+13,18,Lance Stroll,STR,Racing Point BWT Mercedes,1:46.000,1:45.047,DNQ,8
+14,23,Alexander Albon,ALB,Red Bull Racing Honda,1:45.528,1:45.799,DNQ,8
+15,99,Antonio Giovinazzi,GIO,Alfa Romeo Racing Ferrari,1:45.637,DNQ,DNQ,7
+16,10,Pierre Gasly,GAS,Scuderia Toro Rosso Honda,1:46.435,DNQ,DNQ,5
+17,55,Carlos Sainz,SAI,McLaren Renault,1:46.507,DNQ,DNQ,6
+18,26,Daniil Kvyat,KVY,Scuderia Toro Rosso Honda,1:46.518,DNQ,DNQ,4
+19,63,George Russell,RUS,Williams Mercedes,1:47.548,DNQ,DNQ,6
+NC,88,Robert Kubica,KUB,Williams Mercedes,DNF,DNQ,DNQ,2

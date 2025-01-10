@@ -1,0 +1,37 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Laps,Time/Retired,Points
+1,2,Nino Farina,FAR,Ferrari,18.0,3:02:25.000,8
+2,5,Juan Manuel Fangio,FAN,Maserati,18.0,+64.000s,6
+3,3,Mike Hawthorn,HAW,Ferrari,18.0,+103.600s,4
+4,7,Felice Bonetto,BON,Maserati,18.0,+528.600s,3
+5,17,Toulo de Graffenried,DEG,Maserati,17.0,+1 lap,2
+6,19,Stirling Moss,MOS,Cooper Alta,17.0,+1 lap,0
+7,18,Jacques Swaters,SWA,Ferrari,17.0,+1 lap,0
+8,1,Alberto Ascari,ASC,Ferrari,,SHC,1
+8,1,Luigi Villoresi,VIL,Ferrari,17.0,+1 lap,0
+9,31,Hans Herrmann,HER,Veritas,17.0,+1 lap,0
+10,20,Louis Rosier,ROS,Ferrari,17.0,+1 lap,0
+11,40,Rodney Nuckey,NUC,Cooper Bristol,16.0,+2 laps,0
+12,24,Theo Helfrich,HEL,Veritas,16.0,+2 laps,0
+13,16,Kenneth McAlpine,MCA,Connaught Lea Francis,16.0,+2 laps,0
+14,36,Rudolf Krause,KRA,BMW,16.0,+2 laps,0
+NC,4,Luigi Villoresi,VIL,Ferrari,,SHC,0
+NC,4,Alberto Ascari,ASC,Ferrari,15.0,DNF,0
+NC,38,Alan Brown,BRO,Cooper Bristol,15.0,DNF,0
+15,37,Ernst Klodwig,KLO,BMW,15.0,+3 laps,0
+16,22,Wolfgang Seidel,SEI,Veritas,14.0,+4 laps,0
+NC,8,Onofre Marimon,MAR,Maserati,13.0,DNF,0
+NC,12,Johnny Claes,CLA,Connaught Lea Francis,12.0,DNF,0
+NC,35,Edgar Barth,BAR,EMW,12.0,DNF,0
+NC,26,Oswald Karch,KAR,Veritas,10.0,DNF,0
+NC,23,Willi Heeks,HEE,Veritas,8.0,DNF,0
+NC,9,Jean Behra,BEH,Gordini,7.0,DNF,0
+NC,11,Harry Schell,SCH,Gordini,6.0,DNF,0
+NC,14,Prince Bira,BIR,Connaught Lea Francis,6.0,DNF,0
+NC,28,Theo Fitzau,FIT,AFM BMW,3.0,DNF,0
+NC,34,Kurt Adolff,ADO,Ferrari,3.0,DNF,0
+NC,41,Günther Bechem,BEC,AFM BMW,2.0,DNF,0
+NC,15,Roy Salvadori,SAL,Connaught Lea Francis,1.0,DNF,0
+NC,32,Erwin Bauer,BAU,Veritas,1.0,DNF,0
+NC,10,Maurice Trintignant,TRI,Gordini,1.0,DNF,0
+NC,21,Hans Von Stuck,STU,AFM Bristol,0.0,DNF,0
+NC,30,Ernst Loof,LOO,Veritas,0.0,DNF,0

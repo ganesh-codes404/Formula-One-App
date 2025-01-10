@@ -1,0 +1,21 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Laps,Time/Retired,Points
+1,44,Lewis Hamilton,HAM,Mercedes,44,1:24:08.761,25
+2,77,Valtteri Bottas,BOT,Mercedes,44,+8.448s,18
+3,33,Max Verstappen,VER,Red Bull Racing Honda,44,+15.455s,15
+4,3,Daniel Ricciardo,RIC,Renault,44,+18.877s,13
+5,31,Esteban Ocon,OCO,Renault,44,+40.650s,10
+6,23,Alexander Albon,ALB,Red Bull Racing Honda,44,+42.712s,8
+7,4,Lando Norris,NOR,McLaren Renault,44,+43.774s,6
+8,10,Pierre Gasly,GAS,AlphaTauri Honda,44,+47.371s,4
+9,18,Lance Stroll,STR,Racing Point BWT Mercedes,44,+52.603s,2
+10,11,Sergio Perez,PER,Racing Point BWT Mercedes,44,+53.179s,1
+11,26,Daniil Kvyat,KVY,AlphaTauri Honda,44,+70.200s,0
+12,7,Kimi Räikkönen,RAI,Alfa Romeo Racing Ferrari,44,+71.504s,0
+13,5,Sebastian Vettel,VET,Ferrari,44,+72.894s,0
+14,16,Charles Leclerc,LEC,Ferrari,44,+74.920s,0
+15,8,Romain Grosjean,GRO,Haas Ferrari,44,+76.793s,0
+16,6,Nicholas Latifi,LAT,Williams Mercedes,44,+77.795s,0
+17,20,Kevin Magnussen,MAG,Haas Ferrari,44,+85.540s,0
+NC,99,Antonio Giovinazzi,GIO,Alfa Romeo Racing Ferrari,9,DNF,0
+NC,63,George Russell,RUS,Williams Mercedes,9,DNF,0
+NC,55,Carlos Sainz,SAI,McLaren Renault,0,DNS,0

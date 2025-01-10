@@ -1,0 +1,25 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Laps,Time/Retired,Points
+1,1,Ayrton Senna,SEN,McLaren Honda,61,1:35:14.750,10
+2,2,Gerhard Berger,BER,McLaren Honda,61,+1.675s,6
+3,22,Jyrki Jarvilehto,JAR,Dallara Judd,60,+1 lap,4
+4,23,Pierluigi Martini,MAR,Minardi Ferrari,59,+2 laps,3
+5,11,Mika Hakkinen,HAK,Lotus Judd,58,+3 laps,2
+6,12,Julian Bailey,BAI,Lotus Judd,58,+3 laps,1
+7,25,Thierry Boutsen,BOU,Ligier Lamborghini,58,+3 laps,0
+8,8,Mark Blundell,BLU,Brabham Yamaha,58,+3 laps,0
+9,35,Eric van de Poele,VAN,Lambo Lamborghini,57,DNF,0
+10,26,Erik Comas,COM,Ligier Lamborghini,57,+4 laps,0
+11,7,Martin Brundle,BRU,Brabham Yamaha,57,+4 laps,0
+12,15,Mauricio Gugelmin,GUG,Leyton House Ilmor,55,DNF,0
+13,19,Roberto Moreno,MOR,Benetton Ford,54,DNF,0
+NC,4,Stefano Modena,MOD,Tyrrell Honda,41,DNF,0
+NC,33,Andrea de Cesaris,DEC,Jordan Ford,37,DNF,0
+NC,32,Bertrand Gachot,GAC,Jordan Ford,37,DNF,0
+NC,16,Ivan Capelli,CAP,Leyton House Ilmor,24,DNF,0
+NC,29,Eric Bernard,BER,Lola Ford,17,DNF,0
+NC,6,Riccardo Patrese,PAT,Williams Renault,17,DNF,0
+NC,3,Satoru Nakajima,NAK,Tyrrell Honda,15,DNF,0
+NC,24,Gianni Morbidelli,MOR,Minardi Ferrari,10,DNF,0
+NC,28,Jean Alesi,ALE,Ferrari,2,DNF,0
+NC,30,Aguri Suzuki,SUZ,Lola Ford,2,DNF,0
+NC,20,Nelson Piquet,PIQ,Benetton Ford,1,DNF,0

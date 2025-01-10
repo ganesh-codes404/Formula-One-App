@@ -1,0 +1,21 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Laps,Time/Retired,Points
+1,5,Fernando Alonso,ALO,Renault,56,1:31:33.736,10
+2,16,Jarno Trulli,TRU,Toyota,56,+24.327s,8
+3,8,Nick Heidfeld,HEI,Williams BMW,56,+32.188s,6
+4,10,Juan Pablo Montoya,MOY,McLaren Mercedes,56,+41.631s,5
+5,17,Ralf Schumacher,RSC,Toyota,56,+51.854s,4
+6,14,David Coulthard,COU,RBR Cosworth,56,+72.543s,3
+7,1,Michael Schumacher,MSC,Ferrari,56,+79.988s,2
+8,15,Christian Klien,KLI,RBR Cosworth,56,+80.835s,1
+9,9,Kimi Räikkönen,RAI,McLaren Mercedes,56,+81.580s,0
+10,12,Felipe Massa,MAS,Sauber Petronas,55,+1 lap,0
+11,19,Narain Karthikeyan,KAR,Jordan Toyota,54,+2 laps,0
+12,18,Tiago Monteiro,MON,Jordan Toyota,53,+3 laps,0
+13,21,Christijan Albers,ALB,Minardi Cosworth,52,+4 laps,0
+NC,2,Rubens Barrichello,BAR,Ferrari,49,DNF,0
+NC,6,Giancarlo Fisichella,FIS,Renault,36,DNF,0
+NC,7,Mark Webber,WEB,Williams BMW,36,DNF,0
+NC,11,Jacques Villeneuve,VIL,Sauber Petronas,26,DNF,0
+NC,3,Jenson Button,BUT,BAR Honda,2,DNF,0
+NC,4,Anthony Davidson,DAV,BAR Honda,2,DNF,0
+NC,20,Patrick Friesacher,FRI,Minardi Cosworth,2,DNF,0

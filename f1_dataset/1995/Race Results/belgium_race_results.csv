@@ -1,0 +1,25 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Laps,Time/Retired,Points
+1,1,Michael Schumacher,MSC,Benetton Renault,44,1:36:47.875,10
+2,5,Damon Hill,HIL,Williams Renault,44,+19.493s,6
+3,25,Martin Brundle,BRU,Ligier Mugen Honda,44,+24.998s,4
+4,30,Heinz-Harald Frentzen,FRE,Sauber Ford,44,+26.972s,3
+5,7,Mark Blundell,BLU,McLaren Mercedes,44,+33.772s,2
+6,14,Rubens Barrichello,BAR,Jordan Peugeot,44,+39.674s,1
+7,2,Johnny Herbert,HER,Benetton Renault,44,+54.048s,0
+8,4,Mika Salo,SAL,Tyrrell Yamaha,44,+54.548s,0
+9,26,Olivier Panis,PAN,Ligier Mugen Honda,44,+66.170s,0
+10,23,Pedro Lamy,LAM,Minardi Ford,44,+79.789s,0
+11,29,Jean-Christophe Boullion,BOU,Sauber Ford,43,+1 lap,0
+12,10,Taki Inoue,INO,Footwork Hart,43,+1 lap,0
+13,21,Pedro Diniz,DIN,Forti Ford,42,+2 laps,0
+14,22,Roberto Moreno,MOR,Forti Ford,42,+2 laps,0
+NC,3,Ukyo Katayama,KAT,Tyrrell Yamaha,28,DNF,0
+NC,16,Giovanni Lavaggi,LAV,Pacific Ilmor,27,DNF,0
+NC,24,Luca Badoer,BAD,Minardi Ford,23,DNF,0
+NC,28,Gerhard Berger,BER,Ferrari,22,DNF,0
+NC,15,Eddie Irvine,IRV,Jordan Peugeot,21,DNF,0
+NC,9,Massimiliano Papis,PAP,Footwork Hart,20,DNF,0
+NC,17,Andrea Montermini,MON,Pacific Ilmor,18,DNF,0
+NC,6,David Coulthard,COU,Williams Renault,13,DNF,0
+NC,27,Jean Alesi,ALE,Ferrari,4,DNF,0
+NC,8,Mika Hakkinen,HAK,McLaren Mercedes,1,DNF,0

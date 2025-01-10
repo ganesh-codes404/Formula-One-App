@@ -1,0 +1,25 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Laps,Time/Retired,Points
+1,8,Fernando Alonso,ALO,Ferrari,55,2:48:20.810,25
+2,2,Lewis Hamilton,HAM,McLaren Mercedes,55,+14.999s,18
+3,7,Felipe Massa,MAS,Ferrari,55,+30.868s,15
+4,3,Michael Schumacher,MSC,Mercedes,55,+39.688s,12
+5,11,Robert Kubica,KUB,Renault,55,+47.734s,10
+6,15,Vitantonio Liuzzi,LIU,Force India Mercedes,55,+53.571s,8
+7,9,Rubens Barrichello,BAR,Williams Cosworth,55,+69.257s,6
+8,23,Kamui Kobayashi,KOB,Sauber Ferrari,55,+77.889s,4
+9,22,Nick Heidfeld,HEI,Sauber Ferrari,55,+80.107s,2
+10,10,Nico Hulkenberg,HUL,Williams Cosworth,55,+80.851s,1
+11,17,Jaime Alguersuari,ALG,STR Ferrari,55,+84.146s,0
+12,1,Jenson Button,BUT,McLaren Mercedes,55,+89.939s,0
+13,19,Heikki Kovalainen,KOV,Lotus Cosworth,54,+1 lap,0
+14,21,Bruno Senna,SEN,HRT Cosworth,53,+2 laps,0
+15,20,Sakon Yamamoto,YAM,HRT Cosworth,53,+2 laps,0
+NC,14,Adrian Sutil,SUT,Force India Mercedes,46,DNF,0
+NC,5,Sebastian Vettel,VET,RBR Renault,45,DNF,0
+NC,12,Vitaly Petrov,PET,Renault,39,DNF,0
+NC,24,Timo Glock,GLO,Virgin Cosworth,31,DNF,0
+NC,16,Sebastien Buemi,BUE,STR Ferrari,30,DNF,0
+NC,25,Lucas di Grassi,DIG,Virgin Cosworth,25,DNF,0
+NC,18,Jarno Trulli,TRU,Lotus Cosworth,25,DNF,0
+NC,6,Mark Webber,WEB,RBR Renault,18,DNF,0
+NC,4,Nico Rosberg,ROS,Mercedes,18,DNF,0

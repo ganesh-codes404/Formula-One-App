@@ -1,0 +1,23 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Laps,Time/Retired,Points
+1,5,Ralf Schumacher,RSC,Williams BMW,69,1:34:31.522,10
+2,1,Michael Schumacher,MSC,Ferrari,69,+20.235s,6
+3,3,Mika Hakkinen,HAK,McLaren Mercedes,69,+40.672s,4
+4,17,Kimi Räikkönen,RAI,Sauber Petronas,69,+68.115s,3
+5,22,Jean Alesi,ALE,Prost Acer,69,+70.435s,2
+6,19,Pedro de la Rosa,DLR,Jaguar Cosworth,68,+1 lap,1
+7,11,Ricardo Zonta,ZON,Jordan Honda,68,+1 lap,0
+8,23,Luciano Burti,BUR,Prost Acer,68,+1 lap,0
+9,20,Tarso Marques,MAR,Minardi European,66,+3 laps,0
+10,14,Jos Verstappen,VER,Arrows Asiatech,65,DNF,0
+11,12,Jarno Trulli,TRU,Jordan Honda,63,DNF,0
+NC,4,David Coulthard,COU,McLaren Mercedes,54,DNF,0
+NC,9,Olivier Panis,PAN,BAR Honda,38,DNF,0
+NC,10,Jacques Villeneuve,VIL,BAR Honda,34,DNF,0
+NC,15,Enrique Bernoldi,BER,Arrows Asiatech,24,DNF,0
+NC,6,Juan Pablo Montoya,MOY,Williams BMW,19,DNF,0
+NC,2,Rubens Barrichello,BAR,Ferrari,19,DNF,0
+NC,8,Jenson Button,BUT,Benetton Renault,17,DNF,0
+NC,21,Fernando Alonso,ALO,Minardi European,7,DNF,0
+NC,16,Nick Heidfeld,HEI,Sauber Petronas,1,DNF,0
+NC,18,Eddie Irvine,IRV,Jaguar Cosworth,1,DNF,0
+NC,7,Giancarlo Fisichella,FIS,Benetton Renault,0,DNF,0

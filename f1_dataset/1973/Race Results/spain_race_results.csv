@@ -1,0 +1,23 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Laps,Time/Retired,Points
+1,1,Emerson Fittipaldi,FIT,Lotus Ford,75,1:48:18.700,9
+2,4,Francois Cevert,CEV,Tyrrell Ford,75,+42.700s,6
+3,20,George Follmer,FOL,Shadow Ford,75,+73.100s,4
+4,6,Peter Revson,REV,McLaren Ford,74,+1 lap,3
+5,15,Jean-Pierre Beltoise,BEL,BRM,74,+1 lap,2
+6,5,Denny Hulme,HUL,McLaren Ford,74,+1 lap,1
+7,12,Mike Beuttler,BEU,March Ford,74,+1 lap,0
+8,11,Henri Pescarolo,PES,March Ford,73,+2 laps,0
+9,14,Clay Regazzoni,REG,BRM,69,+6 laps,0
+10,17,Wilson Fittipaldi,FIT,Brabham Ford,69,+6 laps,0
+11,24,Nanni Galli,GAL,Iso Marlboro Ford,69,+6 laps,0
+12,7,Jacky Ickx,ICK,Ferrari,69,+6 laps,0
+NC,18,Carlos Reutemann,REU,Brabham Ford,66,DNF,0
+NC,23,Howden Ganley,GAN,Iso Marlboro Ford,63,DNF,0
+NC,2,Ronnie Peterson,PET,Lotus Ford,56,DNF,0
+NC,3,Jackie Stewart,STE,Tyrrell Ford,47,DNF,0
+NC,16,Niki Lauda,LAU,BRM,28,DNF,0
+NC,25,Graham Hill,HIL,Shadow Ford,27,DNF,0
+NC,9,Mike Hailwood,HAI,Surtees Ford,25,DNF,0
+NC,19,Jackie Oliver,OLI,Shadow Ford,23,DNF,0
+NC,21,Andrea de Adamich,DEA,Brabham Ford,17,DNF,0
+NC,10,Carlos Pace,PAC,Surtees Ford,13,DNF,0

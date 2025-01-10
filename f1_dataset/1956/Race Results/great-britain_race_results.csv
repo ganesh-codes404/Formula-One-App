@@ -1,0 +1,31 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Laps,Time/Retired,Points
+1,1,Juan Manuel Fangio,FAN,Ferrari,101.0,2:59:47.000,8
+2,4,Alfonso de Portago,DEP,Ferrari,,SHC,3
+2,4,Peter Collins,COL,Ferrari,100.0,+1 lap,3
+3,8,Jean Behra,BEH,Maserati,99.0,+2 laps,4
+4,21,Jack Fairman,FAI,Connaught Alta,98.0,+3 laps,3
+5,31,Horace Gould,GOU,Maserati,97.0,+4 laps,2
+6,11,Luigi Villoresi,VIL,Maserati,96.0,+5 laps,0
+7,9,Cesare Perdisa,PER,Maserati,95.0,+6 laps,0
+8,10,Paco Godia,GOD,Maserati,94.0,+7 laps,0
+9,15,Robert Manzon,MAN,Gordini,94.0,+7 laps,0
+NC,7,Stirling Moss,MOS,Maserati,94.0,DNF,1
+10,3,Eugenio Castellotti,CAS,Ferrari,,SHC,0
+10,3,Alfonso de Portago,DEP,Ferrari,92.0,+9 laps,0
+11,26,Bob Gerard,GER,Cooper Bristol,88.0,+13 laps,0
+NC,16,Harry Schell,SCH,Vanwall,86.0,DNF,0
+NC,20,Desmond Titterington,TIT,Connaught Alta,74.0,DNF,0
+NC,14,Hermano da Silva Ramos,DAS,Gordini,71.0,DNF,0
+NC,17,Maurice Trintignant,TRI,Vanwall,70.0,DNF,0
+NC,2,Peter Collins,COL,Ferrari,64.0,DNF,0
+NC,28,Roy Salvadori,SAL,Maserati,59.0,DNF,0
+NC,24,Tony Brooks,BRO,BRM,39.0,DNF,0
+NC,23,Mike Hawthorn,HAW,BRM,24.0,DNF,0
+NC,27,Louis Rosier,ROS,Maserati,23.0,DNF,0
+NC,29,Bruce Halford,HAL,Maserati,22.0,DNF,0
+NC,12,Umberto Maglioli,MAG,Maserati,21.0,DNF,0
+NC,19,Archie Scott-Brown,SCO,Connaught Alta,16.0,DNF,0
+NC,32,Paul Emery,EME,Emeryson Alta,12.0,DNF,0
+NC,30,Jack Brabham,BRA,Maserati,3.0,DNF,0
+NC,25,Ron Flockhart,FLO,BRM,2.0,DNF,0
+NC,18,Jose Froilan Gonzalez,GON,Vanwall,0.0,DNF,0

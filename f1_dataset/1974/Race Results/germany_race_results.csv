@@ -1,0 +1,27 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Laps,Time/Retired,Points
+1,11,Clay Regazzoni,REG,Ferrari,14,1:41:35.000,9
+2,3,Jody Scheckter,SCH,Tyrrell Ford,14,+50.700s,6
+3,7,Carlos Reutemann,REU,Brabham Ford,14,+83.300s,4
+4,1,Ronnie Peterson,PET,Lotus Ford,14,+84.200s,3
+5,2,Jacky Ickx,ICK,Lotus Ford,14,+85.000s,2
+6,16,Tom Pryce,PRY,Shadow Ford,14,+138.100s,1
+7,9,Hans-Joachim Stuck,STU,March Ford,14,+178.700s,0
+8,17,Jean-Pierre Jarier,JAR,Shadow Ford,14,+205.900s,0
+9,26,Graham Hill,HIL,Lola Ford,14,+206.400s,0
+10,15,Henri Pescarolo,PES,BRM,14,+257.700s,0
+11,18,Derek Bell,BEL,Surtees Ford,14,+317.700s,0
+12,8,Carlos Pace,PAC,Brabham Ford,14,+386.300s,0
+13,10,Vittorio Brambilla,BRA,March Ford,14,+523.100s,0
+14,32,Ian Ashley,ASH,Token Ford,13,+1 lap,0
+15,33,Mike Hailwood,HAI,McLaren Ford,12,DNF,0
+NC,24,James Hunt,HUN,Hesketh Ford,11,DNF,0
+NC,19,Jochen Mass,MAS,Surtees Ford,10,DNF,0
+NC,4,Patrick Depailler,DEP,Tyrrell Ford,5,DNF,0
+NC,20,Arturo Merzario,MER,Iso Marlboro Ford,5,DNF,0
+NC,14,Jean-Pierre Beltoise,BEL,BRM,4,DNF,0
+NC,22,Vern Schuppan,SCH,Ensign Ford,4,DNF,0
+NC,5,Emerson Fittipaldi,FIT,McLaren Ford,2,DNF,0
+NC,21,Jacques Laffite,LAF,Iso Marlboro Ford,2,DNF,0
+NC,28,John Watson,WAT,Brabham Ford,1,DNF,0
+NC,12,Niki Lauda,LAU,Ferrari,0,DNF,0
+DQ,6,Denny Hulme,HUL,McLaren Ford,0,DSQ,0

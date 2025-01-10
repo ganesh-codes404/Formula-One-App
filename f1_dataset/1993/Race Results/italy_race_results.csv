@@ -1,0 +1,22 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Laps,Time/Retired,Points
+1,0,Damon Hill,HIL,Williams Renault,53,1:17:07.509,10
+2,27,Jean Alesi,ALE,Ferrari,53,+40.012s,6
+3,7,Michael Andretti,AND,McLaren Ford,52,+1 lap,4
+4,29,Karl Wendlinger,WEN,Sauber,52,+1 lap,3
+5,6,Riccardo Patrese,PAT,Benetton Ford,52,+1 lap,2
+6,20,Erik Comas,COM,Larrousse Lamborghini,51,+2 laps,1
+7,24,Pierluigi Martini,MAR,Minardi Ford,51,+2 laps,0
+8,23,Christian Fittipaldi,FIT,Minardi Ford,51,+2 laps,0
+9,19,Philippe Alliot,ALL,Larrousse Lamborghini,51,+2 laps,0
+10,22,Luca Badoer,BAD,Lola Ferrari,51,+2 laps,0
+11,11,Pedro Lamy,LAM,Lotus Ford,49,DNF,0
+12,2,Alain Prost,PRO,Williams Renault,48,DNF,0
+13,4,Andrea de Cesaris,DEC,Tyrrell Yamaha,47,DNF,0
+14,3,Ukyo Katayama,KAT,Tyrrell Yamaha,47,+6 laps,0
+NC,21,Michele Alboreto,ALB,Lola Ferrari,23,DNF,0
+NC,5,Michael Schumacher,MSC,Benetton Ford,21,DNF,0
+NC,26,Mark Blundell,BLU,Ligier Renault,20,DNF,0
+NC,28,Gerhard Berger,BER,Ferrari,15,DNF,0
+NC,12,Johnny Herbert,HER,Lotus Ford,14,DNF,0
+NC,25,Martin Brundle,BRU,Ligier Renault,8,DNF,0
+NC,8,Ayrton Senna,SEN,McLaren Ford,8,DNF,0

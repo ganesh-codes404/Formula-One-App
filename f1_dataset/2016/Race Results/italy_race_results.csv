@@ -1,0 +1,23 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Laps,Time/Retired,Points
+1,6,Nico Rosberg,ROS,Mercedes,53,1:17:28.089,25
+2,44,Lewis Hamilton,HAM,Mercedes,53,+15.070s,18
+3,5,Sebastian Vettel,VET,Ferrari,53,+20.990s,15
+4,7,Kimi Räikkönen,RAI,Ferrari,53,+27.561s,12
+5,3,Daniel Ricciardo,RIC,Red Bull Racing TAG Heuer,53,+45.295s,10
+6,77,Valtteri Bottas,BOT,Williams Mercedes,53,+51.015s,8
+7,33,Max Verstappen,VER,Red Bull Racing TAG Heuer,53,+54.236s,6
+8,11,Sergio Perez,PER,Force India Mercedes,53,+64.954s,4
+9,19,Felipe Massa,MAS,Williams Mercedes,53,+65.617s,2
+10,27,Nico Hulkenberg,HUL,Force India Mercedes,53,+78.656s,1
+11,8,Romain Grosjean,GRO,Haas Ferrari,52,+1 lap,0
+12,22,Jenson Button,BUT,McLaren Honda,52,+1 lap,0
+13,21,Esteban Gutierrez,GUT,Haas Ferrari,52,+1 lap,0
+14,14,Fernando Alonso,ALO,McLaren Honda,52,+1 lap,0
+15,55,Carlos Sainz,SAI,Toro Rosso Ferrari,52,+1 lap,0
+16,9,Marcus Ericsson,ERI,Sauber Ferrari,52,+1 lap,0
+17,20,Kevin Magnussen,MAG,Renault,52,+1 lap,0
+18,31,Esteban Ocon,OCO,MRT Mercedes,51,+2 laps,0
+NC,26,Daniil Kvyat,KVY,Toro Rosso Ferrari,36,DNF,0
+NC,94,Pascal Wehrlein,WEH,MRT Mercedes,26,DNF,0
+NC,30,Jolyon Palmer,PAL,Renault,7,DNF,0
+NC,12,Felipe Nasr,NAS,Sauber Ferrari,6,DNF,0

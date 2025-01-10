@@ -1,0 +1,25 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Q1,Q2,Q3,Laps
+1,1,Sebastian Vettel,VET,Red Bull Racing Renault,1:34.308,1:33.527,1:32.422,18
+2,4,Lewis Hamilton,HAM,McLaren Mercedes,1:34.813,1:33.209,1:32.520,13
+3,2,Mark Webber,WEB,Red Bull Racing Renault,1:34.015,1:33.311,1:32.637,17
+4,3,Jenson Button,BUT,McLaren Mercedes,1:34.792,1:33.416,1:32.711,12
+5,8,Nico Rosberg,ROS,Mercedes,1:34.588,1:33.219,1:32.821,10
+6,16,Daniel Ricciardo,RIC,STR Ferrari,1:33.988,1:33.556,1:32.912,17
+7,10,Romain Grosjean,GRO,Lotus Renault,1:34.041,1:33.246,1:33.008,13
+8,15,Sergio Perez,PER,Sauber Ferrari,1:33.814,1:33.660,1:33.394,17
+9,5,Fernando Alonso,ALO,Ferrari,1:34.760,1:33.403,DNF,11
+10,11,Paul di Resta,DIR,Force India Mercedes,1:34.624,1:33.510,DNF,15
+11,9,Kimi Räikkönen,RAI,Lotus Renault,1:34.552,1:33.789,DNQ,6
+12,14,Kamui Kobayashi,KOB,Sauber Ferrari,1:34.131,1:33.806,DNQ,13
+13,12,Nico Hulkenberg,HUL,Force India Mercedes,1:34.601,1:33.807,DNQ,12
+14,6,Felipe Massa,MAS,Ferrari,1:34.372,1:33.912,DNQ,14
+15,19,Bruno Senna,SEN,Williams Renault,1:34.466,1:34.017,DNQ,14
+16,20,Heikki Kovalainen,KOV,Caterham Renault,1:34.852,1:36.132,DNQ,10
+17,18,Pastor Maldonado,MAL,Williams Renault,1:34.639,DNQ,DNQ,8
+18,7,Michael Schumacher,MSC,Mercedes,1:34.865,DNQ,DNQ,5
+19,17,Jean-Eric Vergne,VER,STR Ferrari,1:35.014,DNQ,DNQ,8
+20,21,Vitaly Petrov,PET,Caterham Renault,1:35.823,DNQ,DNQ,7
+21,25,Charles Pic,PIC,Marussia Cosworth,1:37.683,DNQ,DNQ,8
+22,22,Pedro de la Rosa,DLR,HRT Cosworth,1:37.883,DNQ,DNQ,6
+23,24,Timo Glock,GLO,Marussia Cosworth,1:37.905,DNQ,DNQ,7
+24,23,Narain Karthikeyan,KAR,HRT Cosworth,1:38.314,DNQ,DNQ,7

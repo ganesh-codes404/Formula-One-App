@@ -1,0 +1,23 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Laps,Time/Retired,Points
+1,1,Michael Schumacher,MSC,Ferrari,77,1:41:49.675,10
+2,2,Rubens Barrichello,BAR,Ferrari,77,+3.363s,6
+3,4,David Coulthard,COU,McLaren Mercedes,77,+3.940s,4
+4,5,Ralf Schumacher,RSC,Williams BMW,77,+49.687s,3
+5,3,Mika Hakkinen,HAK,McLaren Mercedes,77,+70.293s,2
+6,16,Nick Heidfeld,HEI,Sauber Petronas,76,+1 lap,1
+7,17,Kimi Räikkönen,RAI,Sauber Petronas,76,+1 lap,0
+8,6,Juan Pablo Montoya,MOY,Williams BMW,76,+1 lap,0
+9,10,Jacques Villeneuve,VIL,BAR Honda,75,+2 laps,0
+10,12,Jean Alesi,ALE,Jordan Honda,75,+2 laps,0
+11,19,Pedro de la Rosa,DLR,Jaguar Cosworth,75,+2 laps,0
+12,14,Jos Verstappen,VER,Arrows Asiatech,74,+3 laps,0
+NC,7,Giancarlo Fisichella,FIS,Benetton Renault,67,DNF,0
+NC,22,Heinz-Harald Frentzen,FRE,Prost Acer,63,DNF,0
+NC,20,Tarso Marques,MAR,Minardi European,63,DNF,0
+NC,9,Olivier Panis,PAN,BAR Honda,58,DNF,0
+NC,11,Jarno Trulli,TRU,Jordan Honda,53,DNF,0
+NC,21,Fernando Alonso,ALO,Minardi European,37,DNF,0
+NC,8,Jenson Button,BUT,Benetton Renault,34,DNF,0
+NC,15,Enrique Bernoldi,BER,Arrows Asiatech,11,DNF,0
+NC,23,Luciano Burti,BUR,Prost Acer,8,DNF,0
+NC,18,Eddie Irvine,IRV,Jaguar Cosworth,0,DNF,0

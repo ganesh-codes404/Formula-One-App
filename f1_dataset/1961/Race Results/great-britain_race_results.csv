@@ -1,0 +1,32 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Laps,Time/Retired,Points
+1,4,Wolfgang von Trips,VON,Ferrari,75.0,2:40:53.600,9
+2,2,Phil Hill,HIL,Ferrari,75.0,+46.000s,6
+3,6,Richie Ginther,GIN,Ferrari,75.0,+46.800s,4
+4,12,Jack Brabham,BRA,Cooper Climax,75.0,+68.600s,3
+5,8,Jo Bonnier,BON,Porsche,75.0,+76.200s,2
+6,36,Roy Salvadori,SAL,Cooper Climax,75.0,+86.200s,1
+7,10,Dan Gurney,GUR,Porsche,74.0,+1 lap,0
+8,14,Bruce McLaren,MCL,Cooper Climax,74.0,+1 lap,0
+9,22,Tony Brooks,BRO,BRM Climax,73.0,+2 laps,0
+10,16,Innes Ireland,IRE,Lotus Climax,72.0,+3 laps,0
+11,42,Masten Gregory,GRE,Cooper Climax,71.0,+4 laps,0
+12,62,Lorenzo Bandini,BAN,Cooper Maserati,71.0,+4 laps,0
+13,50,Tony Maggs,MAG,Lotus Climax,69.0,+6 laps,0
+14,44,Ian Burgess,BUR,Lotus Climax,69.0,+6 laps,0
+15,54,Keith Greene,GRE,Gilby Climax,69.0,+6 laps,0
+16,56,Carel Godin de Beaufort,DEB,Porsche,69.0,+6 laps,0
+NC,18,Jim Clark,CLA,Lotus Climax,62.0,DNF,0
+17,52,Wolfgang Seidel,SEI,Lotus Climax,58.0,+17 laps,0
+DQ,26,Jack Fairman,FAI,Ferguson Climax,,DSQ,0
+DQ,26,Stirling Moss,MOS,Ferguson Climax,56.0,DSQ,0
+NC,32,Lucien Bianchi,BIA,Lotus Climax,45.0,DNF,0
+NC,28,Stirling Moss,MOS,Lotus Climax,44.0,DNF,0
+NC,20,Graham Hill,HIL,BRM Climax,43.0,DNF,0
+NC,58,Giancarlo Baghetti,BAG,Ferrari,27.0,DNF,0
+NC,25,Tony Marsh,MAR,Lotus Climax,25.0,DNF,0
+NC,34,John Surtees,SUR,Cooper Climax,23.0,DNF,0
+NC,38,Tim Parnell,PAR,Lotus Climax,12.0,DNF,0
+NC,46,Jackie Lewis,LEW,Cooper Climax,7.0,DNF,0
+NC,40,Gerry Ashmore,ASH,Lotus Climax,7.0,DNF,0
+NC,30,Henry Taylor,TAY,Lotus Climax,5.0,DNF,0
+NC,62,Massimo Natili,NAT,Cooper Maserati,0.0,DNF,0

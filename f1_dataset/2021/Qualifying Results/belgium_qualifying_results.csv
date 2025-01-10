@@ -1,0 +1,21 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Q1,Q2,Q3,Laps
+1,33,Max Verstappen,VER,Red Bull Racing Honda,1:58.717,1:56.559,1:59.765,20
+2,63,George Russell,RUS,Williams Mercedes,1:59.864,1:56.950,2:00.086,24
+3,44,Lewis Hamilton,HAM,Mercedes,1:59.218,1:56.229,2:00.099,22
+4,3,Daniel Ricciardo,RIC,McLaren Mercedes,2:01.583,1:57.127,2:00.864,22
+5,5,Sebastian Vettel,VET,Aston Martin Mercedes,2:00.175,1:56.814,2:00.935,23
+6,10,Pierre Gasly,GAS,AlphaTauri Honda,2:00.387,1:56.440,2:01.164,23
+7,11,Sergio Perez,PER,Red Bull Racing Honda,1:59.334,1:56.886,2:02.112,22
+8,77,Valtteri Bottas,BOT,Mercedes,1:59.870,1:56.295,2:02.502,22
+9,31,Esteban Ocon,OCO,Alpine Renault,2:01.824,1:57.354,2:03.513,23
+10,4,Lando Norris,NOR,McLaren Mercedes,1:58.301,1:56.025,DNF,19
+11,16,Charles Leclerc,LEC,Ferrari,2:00.728,1:57.721,DNQ,16
+12,6,Nicholas Latifi,LAT,Williams Mercedes,2:00.966,1:58.056,DNQ,17
+13,55,Carlos Sainz,SAI,Ferrari,2:01.184,1:58.137,DNQ,15
+14,14,Fernando Alonso,ALO,Alpine Renault,2:01.653,1:58.205,DNQ,16
+15,18,Lance Stroll,STR,Aston Martin Mercedes,2:01.597,1:58.231,DNQ,16
+16,99,Antonio Giovinazzi,GIO,Alfa Romeo Racing Ferrari,2:02.306,DNQ,DNQ,9
+17,22,Yuki Tsunoda,TSU,AlphaTauri Honda,2:02.413,DNQ,DNQ,9
+18,47,Mick Schumacher,MSC,Haas Ferrari,2:03.973,DNQ,DNQ,9
+19,7,Kimi Räikkönen,RAI,Alfa Romeo Racing Ferrari,2:04.452,DNQ,DNQ,9
+20,9,Nikita Mazepin,MAZ,Haas Ferrari,2:04.939,DNQ,DNQ,8

@@ -1,0 +1,27 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Laps,Time/Retired,Points
+1,1,Ayrton Senna,SEN,McLaren Honda,69,1:35:21.431,9
+2,6,Riccardo Patrese,PAT,Williams Renault,69,+15.560s,6
+3,4,Michele Alboreto,ALB,Tyrrell Ford,69,+31.254s,4
+4,19,Alessandro Nannini,NAN,Benetton Ford,69,+45.495s,3
+5,2,Alain Prost,PRO,McLaren Honda,69,+56.113s,2
+6,40,Gabriele Tarquini,TAR,AGS Ford,68,+1 lap,1
+7,10,Eddie Cheever,CHE,Arrows Ford,68,+1 lap,0
+8,26,Olivier Grouillard,GRO,Ligier Ford,68,+1 lap,0
+9,7,Martin Brundle,BRU,Brabham Judd,68,+1 lap,0
+10,8,Stefano Modena,MOD,Brabham Judd,68,+1 lap,0
+11,11,Nelson Piquet,PIQ,Lotus Judd,68,+1 lap,0
+12,38,Christian Danner,DAN,Rial Ford,67,+2 laps,0
+13,21,Alex Caffi,CAF,Dallara Ford,67,+2 laps,0
+14,25,Rene Arnoux,ARN,Ligier Ford,66,+3 laps,0
+15,20,Johnny Herbert,HER,Benetton Ford,66,+3 laps,0
+NC,23,Pierluigi Martini,MAR,Minardi Ford,53,DNF,0
+NC,27,Nigel Mansell,MAN,Ferrari,43,DNF,0
+NC,9,Derek Warwick,WAR,Arrows Ford,35,DNF,0
+NC,12,Satoru Nakajima,NAK,Lotus Judd,35,DNF,0
+NC,30,Philippe Alliot,ALL,Lola Lamborghini,28,DNF,0
+NC,22,Andrea de Cesaris,DEC,Dallara Ford,20,DNF,0
+NC,28,Gerhard Berger,BER,Ferrari,16,DNF,0
+NC,36,Stefan Johansson,JOH,Onyx Ford,16,DNF,0
+NC,5,Thierry Boutsen,BOU,Williams Renault,15,DNF,0
+NC,3,Jonathan Palmer,PAL,Tyrrell Ford,9,DNF,0
+NC,16,Ivan Capelli,CAP,March Judd,1,DNF,0

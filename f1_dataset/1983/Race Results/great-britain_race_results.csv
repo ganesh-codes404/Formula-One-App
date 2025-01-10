@@ -1,0 +1,27 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Laps,Time/Retired,Points
+1,15,Alain Prost,PRO,Renault,67,1:24:39.780,9
+2,5,Nelson Piquet,PIQ,Brabham BMW,67,+19.161s,6
+3,27,Patrick Tambay,TAM,Ferrari,67,+26.246s,4
+4,12,Nigel Mansell,MAN,Lotus Renault,67,+38.952s,3
+5,28,Rene Arnoux,ARN,Ferrari,67,+58.874s,2
+6,8,Niki Lauda,LAU,McLaren Ford,66,+1 lap,1
+7,23,Mauro Baldi,BAL,Alfa Romeo,66,+1 lap,0
+8,22,Andrea de Cesaris,DEC,Alfa Romeo,66,+1 lap,0
+9,7,John Watson,WAT,McLaren Ford,66,+1 lap,0
+10,25,Jean-Pierre Jarier,JAR,Ligier Ford,65,+2 laps,0
+11,1,Keke Rosberg,ROS,Williams Ford,65,+2 laps,0
+12,2,Jacques Laffite,LAF,Williams Ford,65,+2 laps,0
+13,3,Michele Alboreto,ALB,Tyrrell Ford,65,+2 laps,0
+14,4,Danny Sullivan,SUL,Tyrrell Ford,65,+2 laps,0
+15,30,Thierry Boutsen,BOU,Arrows Ford,65,+2 laps,0
+16,33,Roberto Guerrero,GUE,Theodore Ford,64,+3 laps,0
+17,29,Marc Surer,SUR,Arrows Ford,64,+3 laps,0
+NC,9,Manfred Winkelhock,WIN,ATS BMW,49,DNF,0
+NC,26,Raul Boesel,BOE,Ligier Ford,48,DNF,0
+NC,32,Piercarlo Ghinzani,GHI,Osella Alfa Romeo,46,DNF,0
+NC,35,Derek Warwick,WAR,Toleman Hart,27,DNF,0
+NC,6,Riccardo Patrese,PAT,Brabham BMW,9,DNF,0
+NC,40,Stefan Johansson,JOH,Spirit Honda,5,DNF,0
+NC,16,Eddie Cheever,CHE,Renault,3,DNF,0
+NC,36,Bruno Giacomelli,GIA,Toleman Hart,3,DNF,0
+NC,11,Elio de Angelis,DEA,Lotus Renault,1,DNF,0

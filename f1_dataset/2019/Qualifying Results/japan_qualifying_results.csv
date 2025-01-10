@@ -1,0 +1,21 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Q1,Q2,Q3,Laps
+1,5,Sebastian Vettel,VET,Ferrari,1:28.988,1:28.174,1:27.064,16
+2,16,Charles Leclerc,LEC,Ferrari,1:28.405,1:28.179,1:27.253,16
+3,77,Valtteri Bottas,BOT,Mercedes,1:28.896,1:27.688,1:27.293,21
+4,44,Lewis Hamilton,HAM,Mercedes,1:28.735,1:27.826,1:27.302,20
+5,33,Max Verstappen,VER,Red Bull Racing Honda,1:28.754,1:28.499,1:27.851,16
+6,23,Alexander Albon,ALB,Red Bull Racing Honda,1:29.351,1:28.156,1:27.851,19
+7,55,Carlos Sainz,SAI,McLaren Renault,1:29.018,1:28.577,1:28.304,21
+8,4,Lando Norris,NOR,McLaren Renault,1:28.873,1:28.571,1:28.464,21
+9,10,Pierre Gasly,GAS,Scuderia Toro Rosso Honda,1:29.411,1:28.779,1:28.836,21
+10,8,Romain Grosjean,GRO,Haas Ferrari,1:29.572,1:29.144,1:29.341,15
+11,99,Antonio Giovinazzi,GIO,Alfa Romeo Racing Ferrari,1:29.604,1:29.254,DNQ,15
+12,18,Lance Stroll,STR,Racing Point BWT Mercedes,1:29.594,1:29.345,DNQ,12
+13,7,Kimi Räikkönen,RAI,Alfa Romeo Racing Ferrari,1:29.636,1:29.358,DNQ,15
+14,26,Daniil Kvyat,KVY,Scuderia Toro Rosso Honda,1:29.723,1:29.563,DNQ,16
+15,27,Nico Hulkenberg,HUL,Renault,1:29.619,1:30.112,DNQ,13
+16,3,Daniel Ricciardo,RIC,Renault,1:29.822,DNQ,DNQ,8
+17,11,Sergio Perez,PER,Racing Point BWT Mercedes,1:30.344,DNQ,DNQ,9
+18,63,George Russell,RUS,Williams Mercedes,1:30.364,DNQ,DNQ,10
+NC,20,Kevin Magnussen,MAG,Haas Ferrari,DNF,DNQ,DNQ,2
+NC,88,Robert Kubica,KUB,Williams Mercedes,DNS,DNQ,DNQ,1

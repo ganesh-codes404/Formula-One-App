@@ -1,0 +1,23 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Laps,Time/Retired,Points
+1,1,Mika Hakkinen,HAK,McLaren Mercedes,65,1:33:55.390,10
+2,2,David Coulthard,COU,McLaren Mercedes,65,+16.066s,6
+3,4,Rubens Barrichello,BAR,Ferrari,65,+29.112s,4
+4,9,Ralf Schumacher,RSC,Williams BMW,65,+37.311s,3
+5,3,Michael Schumacher,MSC,Ferrari,65,+47.983s,2
+6,5,Heinz-Harald Frentzen,FRE,Jordan Mugen Honda,65,+81.925s,1
+7,17,Mika Salo,SAL,Sauber Petronas,64,+1 lap,0
+8,23,Ricardo Zonta,ZON,BAR Honda,64,+1 lap,0
+9,11,Giancarlo Fisichella,FIS,Benetton Playlife,64,+1 lap,0
+10,12,Alexander Wurz,WUR,Benetton Playlife,64,+1 lap,0
+11,7,Eddie Irvine,IRV,Jaguar Cosworth,64,+1 lap,0
+12,6,Jarno Trulli,TRU,Jordan Mugen Honda,64,+1 lap,0
+13,8,Johnny Herbert,HER,Jaguar Cosworth,64,+1 lap,0
+14,20,Marc Gene,GEN,Minardi Fondmetal,63,+2 laps,0
+15,21,Gaston Mazzacane,MAZ,Minardi Fondmetal,63,+2 laps,0
+16,15,Nick Heidfeld,HEI,Prost Peugeot,62,+3 laps,0
+17,10,Jenson Button,BUT,Williams BMW,61,DNF,0
+NC,19,Jos Verstappen,VER,Arrows Supertec,25,DNF,0
+NC,22,Jacques Villeneuve,VIL,BAR Honda,21,DNF,0
+NC,14,Jean Alesi,ALE,Prost Peugeot,1,DNF,0
+NC,18,Pedro de la Rosa,DLR,Arrows Supertec,1,DNF,0
+NC,16,Pedro Diniz,DIN,Sauber Petronas,0,DNF,0

@@ -1,0 +1,22 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Laps,Time/Retired,Points
+1,12,Jenson Button,BUT,Honda,70,1:52:20.941,10
+2,4,Pedro de la Rosa,DLR,McLaren Mercedes,70,+30.837s,8
+3,16,Nick Heidfeld,HEI,Sauber BMW,70,+43.822s,6
+4,11,Rubens Barrichello,BAR,Honda,70,+45.205s,5
+5,14,David Coulthard,COU,RBR Ferrari,69,+1 lap,4
+6,7,Ralf Schumacher,RSC,Toyota,69,+1 lap,3
+7,6,Felipe Massa,MAS,Ferrari,69,+1 lap,2
+8,5,Michael Schumacher,MSC,Ferrari,67,DNF,1
+9,18,Tiago Monteiro,MON,MF1 Toyota,67,+3 laps,0
+10,19,Christijan Albers,ALB,MF1 Toyota,67,+3 laps,0
+11,21,Scott Speed,SPE,STR Cosworth,66,+4 laps,0
+12,8,Jarno Trulli,TRU,Toyota,65,DNF,0
+13,22,Takuma Sato,SAT,Super Aguri Honda,65,+5 laps,0
+NC,1,Fernando Alonso,ALO,Renault,51,DNF,0
+NC,3,Kimi Räikkönen,RAI,McLaren Mercedes,25,DNF,0
+NC,20,Vitantonio Liuzzi,LIU,STR Cosworth,25,DNF,0
+NC,10,Nico Rosberg,ROS,Williams Cosworth,19,DNF,0
+NC,2,Giancarlo Fisichella,FIS,Renault,18,DNF,0
+NC,15,Christian Klien,KLI,RBR Ferrari,6,DNF,0
+NC,9,Mark Webber,WEB,Williams Cosworth,1,DNF,0
+NC,23,Sakon Yamamoto,YAM,Super Aguri Honda,0,DNF,0

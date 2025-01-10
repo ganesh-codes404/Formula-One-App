@@ -1,0 +1,24 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Laps,Time/Retired,Points
+1,12,Jack Brabham,BRA,Brabham Ford,80,1:49:34.600,9
+2,6,Denny Hulme,HUL,McLaren Ford,80,+8.100s,6
+3,1,Jackie Stewart,STE,March Ford,80,+17.100s,4
+4,3,Jean-Pierre Beltoise,BEL,Matra,80,+73.100s,3
+5,10,John Miles,MIL,Lotus Ford,79,+1 lap,2
+6,11,Graham Hill,HIL,Lotus Ford,79,+1 lap,1
+7,4,Henri Pescarolo,PES,Matra,78,+2 laps,0
+8,23,John Love,LOV,Lotus Ford,78,+2 laps,0
+9,20,Pedro Rodriguez,ROD,BRM,76,+4 laps,0
+10,16,Jo Siffert,SIF,March Ford,75,+5 laps,0
+11,24,Peter de Klerk,DEK,Brabham Ford,75,+5 laps,0
+12,25,Dave Charlton,CHA,Lotus Ford,73,DNF,0
+13,9,Jochen Rindt,RIN,Lotus Ford,72,DNF,0
+NC,7,John Surtees,SUR,McLaren Ford,60,DNF,0
+NC,17,Jacky Ickx,ICK,Ferrari,60,DNF,0
+NC,21,George Eaton,EAT,BRM,58,DNF,0
+NC,2,Johnny Servoz-Gavin,SER,March Ford,57,DNF,0
+NC,22,Piers Courage,COU,De Tomaso Ford,39,DNF,0
+NC,5,Bruce McLaren,MCL,McLaren Ford,39,DNF,0
+NC,8,Mario Andretti,AND,March Ford,26,DNF,0
+NC,14,Rolf Stommelen,STO,Brabham Ford,23,DNF,0
+NC,19,Jackie Oliver,OLI,BRM,22,DNF,0
+NC,15,Chris Amon,AMO,March Ford,14,DNF,0

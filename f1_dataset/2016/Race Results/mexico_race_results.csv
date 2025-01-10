@@ -1,0 +1,23 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Laps,Time/Retired,Points
+1,44,Lewis Hamilton,HAM,Mercedes,71,1:40:31.402,25
+2,6,Nico Rosberg,ROS,Mercedes,71,+8.354s,18
+3,3,Daniel Ricciardo,RIC,Red Bull Racing TAG Heuer,71,+20.858s,15
+4,33,Max Verstappen,VER,Red Bull Racing TAG Heuer,71,+21.323s,12
+5,5,Sebastian Vettel,VET,Ferrari,71,+27.313s,10
+6,7,Kimi Räikkönen,RAI,Ferrari,71,+49.376s,8
+7,27,Nico Hulkenberg,HUL,Force India Mercedes,71,+58.891s,6
+8,77,Valtteri Bottas,BOT,Williams Mercedes,71,+65.612s,4
+9,19,Felipe Massa,MAS,Williams Mercedes,71,+76.206s,2
+10,11,Sergio Perez,PER,Force India Mercedes,71,+76.798s,1
+11,9,Marcus Ericsson,ERI,Sauber Ferrari,70,+1 lap,0
+12,22,Jenson Button,BUT,McLaren Honda,70,+1 lap,0
+13,14,Fernando Alonso,ALO,McLaren Honda,70,+1 lap,0
+14,30,Jolyon Palmer,PAL,Renault,70,+1 lap,0
+15,12,Felipe Nasr,NAS,Sauber Ferrari,70,+1 lap,0
+16,55,Carlos Sainz,SAI,Toro Rosso Ferrari,70,+1 lap,0
+17,20,Kevin Magnussen,MAG,Renault,70,+1 lap,0
+18,26,Daniil Kvyat,KVY,Toro Rosso Ferrari,70,+1 lap,0
+19,21,Esteban Gutierrez,GUT,Haas Ferrari,70,+1 lap,0
+20,8,Romain Grosjean,GRO,Haas Ferrari,70,+1 lap,0
+21,31,Esteban Ocon,OCO,MRT Mercedes,69,+2 laps,0
+NC,94,Pascal Wehrlein,WEH,MRT Mercedes,0,DNF,0

@@ -1,0 +1,23 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Laps,Time/Retired,Points
+1,6,Kimi Räikkönen,RAI,Ferrari,44,1:20:39.066,10
+2,5,Felipe Massa,MAS,Ferrari,44,+4.695s,8
+3,1,Fernando Alonso,ALO,McLaren Mercedes,44,+14.343s,6
+4,2,Lewis Hamilton,HAM,McLaren Mercedes,44,+23.615s,5
+5,9,Nick Heidfeld,HEI,Sauber BMW,44,+51.879s,4
+6,16,Nico Rosberg,ROS,Williams Toyota,44,+76.876s,3
+7,15,Mark Webber,WEB,Red Bull Renault,44,+80.639s,2
+8,4,Heikki Kovalainen,KOV,Renault,44,+85.106s,1
+9,10,Robert Kubica,KUB,Sauber BMW,44,+85.661s,0
+10,11,Ralf Schumacher,RSC,Toyota,44,+88.574s,0
+11,12,Jarno Trulli,TRU,Toyota,44,+103.653s,0
+12,18,Vitantonio Liuzzi,LIU,STR Ferrari,43,+1 lap,0
+13,8,Rubens Barrichello,BAR,Honda,43,+1 lap,0
+14,20,Adrian Sutil,SUT,Spyker Ferrari,43,+1 lap,0
+15,22,Takuma Sato,SAT,Super Aguri Honda,43,+1 lap,0
+16,23,Anthony Davidson,DAV,Super Aguri Honda,43,+1 lap,0
+17,21,Sakon Yamamoto,YAM,Spyker Ferrari,43,+1 lap,0
+NC,7,Jenson Button,BUT,Honda,36,DNF,0
+NC,17,Alexander Wurz,WUR,Williams Toyota,34,DNF,0
+NC,14,David Coulthard,COU,Red Bull Renault,29,DNF,0
+NC,19,Sebastian Vettel,VET,STR Ferrari,8,DNF,0
+NC,3,Giancarlo Fisichella,FIS,Renault,1,DNF,0

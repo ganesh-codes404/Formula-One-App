@@ -1,0 +1,23 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Laps,Time/Retired,Points
+1,44,Lewis Hamilton,HAM,Mercedes,57,1:39:42.743,25
+2,6,Nico Rosberg,ROS,Mercedes,57,+1.085s,18
+3,11,Sergio Perez,PER,Force India Mercedes,57,+24.067s,15
+4,3,Daniel Ricciardo,RIC,Red Bull Racing Renault,57,+24.489s,12
+5,27,Nico Hulkenberg,HUL,Force India Mercedes,57,+28.654s,10
+6,1,Sebastian Vettel,VET,Red Bull Racing Renault,57,+29.879s,8
+7,19,Felipe Massa,MAS,Williams Mercedes,57,+31.265s,6
+8,77,Valtteri Bottas,BOT,Williams Mercedes,57,+31.876s,4
+9,14,Fernando Alonso,ALO,Ferrari,57,+32.595s,2
+10,7,Kimi Räikkönen,RAI,Ferrari,57,+33.462s,1
+11,26,Daniil Kvyat,KVY,STR Renault,57,+41.342s,0
+12,8,Romain Grosjean,GRO,Lotus Renault,57,+43.143s,0
+13,4,Max Chilton,CHI,Marussia Ferrari,57,+59.909s,0
+14,13,Pastor Maldonado,MAL,Lotus Renault,57,+62.803s,0
+15,10,Kamui Kobayashi,KOB,Caterham Renault,57,+87.900s,0
+16,17,Jules Bianchi,BIA,Marussia Ferrari,56,+1 lap,0
+17,22,Jenson Button,BUT,McLaren Mercedes,55,DNF,0
+NC,20,Kevin Magnussen,MAG,McLaren Mercedes,40,DNF,0
+NC,21,Esteban Gutierrez,GUT,Sauber Ferrari,39,DNF,0
+NC,9,Marcus Ericsson,ERI,Caterham Renault,33,DNF,0
+NC,25,Jean-Eric Vergne,VER,STR Renault,18,DNF,0
+NC,99,Adrian Sutil,SUT,Sauber Ferrari,17,DNF,0

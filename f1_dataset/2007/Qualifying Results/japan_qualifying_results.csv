@@ -1,0 +1,23 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Q1,Q2,Q3,Laps
+1,2,Lewis Hamilton,HAM,McLaren Mercedes,1:25.489,1:24.753,1:25.368,30
+2,1,Fernando Alonso,ALO,McLaren Mercedes,1:25.379,1:24.806,1:25.438,27
+3,6,Kimi Räikkönen,RAI,Ferrari,1:25.390,1:24.988,1:25.516,29
+4,5,Felipe Massa,MAS,Ferrari,1:25.359,1:25.049,1:25.765,29
+5,9,Nick Heidfeld,HEI,Sauber BMW,1:25.971,1:25.248,1:26.505,30
+6,16,Nico Rosberg,ROS,Williams Toyota,1:26.579,1:25.816,1:26.728,33
+7,7,Jenson Button,BUT,Honda,1:26.614,1:25.454,1:26.913,31
+8,15,Mark Webber,WEB,Red Bull Renault,1:25.970,1:25.535,1:26.914,29
+9,19,Sebastian Vettel,VET,STR Ferrari,1:26.025,1:25.909,1:26.973,33
+10,10,Robert Kubica,KUB,Sauber BMW,1:26.300,1:25.530,1:27.225,33
+11,3,Giancarlo Fisichella,FIS,Renault,1:26.909,1:26.033,DNQ,17
+12,4,Heikki Kovalainen,KOV,Renault,1:27.223,1:26.232,DNQ,17
+13,14,David Coulthard,COU,Red Bull Renault,1:26.904,1:26.247,DNQ,21
+14,12,Jarno Trulli,TRU,Toyota,1:26.711,1:26.253,DNQ,21
+15,18,Vitantonio Liuzzi,LIU,STR Ferrari,1:27.234,1:26.948,DNQ,22
+16,11,Ralf Schumacher,RSC,Toyota,1:27.191,DNQ,DNQ,10
+17,8,Rubens Barrichello,BAR,Honda,1:27.323,DNQ,DNQ,10
+18,17,Alexander Wurz,WUR,Williams Toyota,1:27.454,DNQ,DNQ,10
+19,23,Anthony Davidson,DAV,Super Aguri Honda,1:27.564,DNQ,DNQ,10
+20,20,Adrian Sutil,SUT,Spyker Ferrari,1:28.628,DNQ,DNQ,10
+21,22,Takuma Sato,SAT,Super Aguri Honda,1:28.792,DNQ,DNQ,10
+22,21,Sakon Yamamoto,YAM,Spyker Ferrari,1:29.668,DNQ,DNQ,10

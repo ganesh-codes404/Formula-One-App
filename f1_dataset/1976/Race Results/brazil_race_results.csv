@@ -1,0 +1,23 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Laps,Time/Retired,Points
+1,1,Niki Lauda,LAU,Ferrari,40,1:45:16.780,9
+2,4,Patrick Depailler,DEP,Tyrrell Ford,40,+21.470s,6
+3,16,Tom Pryce,PRY,Shadow Ford,40,+23.840s,4
+4,34,Hans-Joachim Stuck,STU,March Ford,40,+88.170s,3
+5,3,Jody Scheckter,SCH,Tyrrell Ford,40,+116.460s,2
+6,12,Jochen Mass,MAS,McLaren Ford,40,+118.270s,1
+7,2,Clay Regazzoni,REG,Ferrari,40,+135.240s,0
+8,20,Jacky Ickx,ICK,Wolf-Williams,39,+1 lap,0
+9,21,Renzo Zorzi,ZOR,Wolf-Williams,39,+1 lap,0
+10,8,Carlos Pace,PAC,Brabham Alfa Romeo,39,+1 lap,0
+11,31,Ingo Hoffman,HOF,Fittipaldi Ford,39,+1 lap,0
+12,7,Carlos Reutemann,REU,Brabham Alfa Romeo,37,DNF,0
+13,30,Emerson Fittipaldi,FIT,Fittipaldi Ford,37,+3 laps,0
+14,10,Lella Lombardi,LOM,March Ford,36,+4 laps,0
+NC,17,Jean-Pierre Jarier,JAR,Shadow Ford,33,DNF,0
+NC,11,James Hunt,HUN,McLaren Ford,32,DNF,0
+NC,9,Vittorio Brambilla,BRA,March Ford,15,DNF,0
+NC,26,Jacques Laffite,LAF,Ligier Matra,14,DNF,0
+NC,5,Ronnie Peterson,PET,Lotus Ford,10,DNF,0
+NC,6,Mario Andretti,AND,Lotus Ford,6,DNF,0
+NC,28,John Watson,WAT,Penske Ford,2,DNF,0
+NC,14,Ian Ashley,ASH,BRM,2,DNF,0

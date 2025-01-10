@@ -1,0 +1,36 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Laps,Time/Retired,Points
+1,2,Juan Manuel Fangio,FAN,Mercedes-Benz,96.0,3:00:38.600,9.0
+2,12,Jose Froilan Gonzalez,GON,Ferrari,,SHC,2.0
+2,12,Nino Farina,FAR,Ferrari,96.0,+89.600s,3.3
+2,12,Maurice Trintignant,TRI,Ferrari,,SHC,3.3
+3,10,Nino Farina,FAR,Ferrari,,SHC,0.0
+3,10,Umberto Maglioli,MAG,Ferrari,94.0,+2 laps,1.3
+3,10,Maurice Trintignant,TRI,Ferrari,,SHC,0.0
+4,8,Hans Herrmann,HER,Mercedes-Benz,,SHC,1.0
+4,8,Karl Kling,KLI,Mercedes-Benz,,SHC,1.0
+4,8,Stirling Moss,MOS,Mercedes-Benz,94.0,+2 laps,1.0
+5,18,Roberto Mieres,MIE,Maserati,91.0,+5 laps,2.0
+6,28,Harry Schell,SCH,Maserati,,SHC,0.0
+6,28,Jean Behra,BEH,Maserati,88.0,+8 laps,0.0
+7,22,Luigi Musso,MUS,Maserati,,SHC,0.0
+7,22,Sergio Mantovani,MAN,Maserati,,SHC,0.0
+7,22,Harry Schell,SCH,Maserati,83.0,+13 laps,0.0
+NC,26,Clemar Bucci,BUC,Maserati,,SHC,0.0
+NC,26,Harry Schell,SCH,Maserati,,SHC,0.0
+NC,26,Carlos Menditeguy,MEN,Maserati,54.0,DNF,0.0
+NC,20,Sergio Mantovani,MAN,Maserati,,SHC,0.0
+NC,20,Luigi Musso,MUS,Maserati,,SHC,0.0
+NC,20,Jean Behra,BEH,Maserati,54.0,DNF,0.0
+NC,42,Jesus Iglesias,IGL,Gordini,38.0,DNF,0.0
+NC,14,Maurice Trintignant,TRI,Ferrari,36.0,DNF,0.0
+NC,36,Eugenio Castellotti,CAS,Lancia,,SHC,0.0
+NC,36,Luigi Villoresi,VIL,Lancia,35.0,DNF,0.0
+NC,6,Stirling Moss,MOS,Mercedes-Benz,29.0,DNF,0.0
+NC,30,Alberto Uria,URI,Maserati,22.0,DNF,0.0
+NC,32,Alberto Ascari,ASC,Lancia,21.0,DNF,0.0
+NC,38,Elie Bayol,BAY,Gordini,7.0,DNF,0.0
+NC,34,Luigi Villoresi,VIL,Lancia,2.0,DNF,0.0
+NC,16,Jean Behra,BEH,Maserati,2.0,DNF,0.0
+NC,4,Karl Kling,KLI,Mercedes-Benz,2.0,DNF,0.0
+NC,40,Pablo Birger,BIR,Gordini,1.0,DNF,0.0
+NC,24,Carlos Menditeguy,MEN,Maserati,1.0,DNF,0.0

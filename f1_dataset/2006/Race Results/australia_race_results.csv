@@ -1,0 +1,23 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Laps,Time/Retired,Points
+1,1,Fernando Alonso,ALO,Renault,57,1:34:27.870,10
+2,3,Kimi Räikkönen,RAI,McLaren Mercedes,57,+1.829s,8
+3,7,Ralf Schumacher,RSC,Toyota,57,+24.824s,6
+4,16,Nick Heidfeld,HEI,Sauber BMW,57,+31.032s,5
+5,2,Giancarlo Fisichella,FIS,Renault,57,+38.421s,4
+6,17,Jacques Villeneuve,VIL,Sauber BMW,57,+49.554s,3
+7,11,Rubens Barrichello,BAR,Honda,57,+51.904s,2
+8,14,David Coulthard,COU,RBR Ferrari,57,+53.983s,1
+9,21,Scott Speed,SPE,STR Cosworth,57,+78.817s,0
+10,12,Jenson Button,BUT,Honda,56,DNF,0
+11,19,Christijan Albers,ALB,MF1 Toyota,56,+1 lap,0
+12,22,Takuma Sato,SAT,Super Aguri Honda,55,+2 laps,0
+13,23,Yuji Ide,IDE,Super Aguri Honda,54,+3 laps,0
+NC,4,Juan Pablo Montoya,MOY,McLaren Mercedes,46,DNF,0
+NC,18,Tiago Monteiro,MON,MF1 Toyota,39,DNF,0
+NC,20,Vitantonio Liuzzi,LIU,STR Cosworth,37,DNF,0
+NC,5,Michael Schumacher,MSC,Ferrari,32,DNF,0
+NC,9,Mark Webber,WEB,Williams Cosworth,22,DNF,0
+NC,15,Christian Klien,KLI,RBR Ferrari,4,DNF,0
+NC,8,Jarno Trulli,TRU,Toyota,0,DNF,0
+NC,10,Nico Rosberg,ROS,Williams Cosworth,0,DNF,0
+NC,6,Felipe Massa,MAS,Ferrari,0,DNF,0

@@ -1,0 +1,23 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Laps,Time/Retired,Points
+1,9,Nico Rosberg,ROS,Mercedes,78,2:17:52.056,25
+2,1,Sebastian Vettel,VET,Red Bull Racing Renault,78,+3.888s,18
+3,2,Mark Webber,WEB,Red Bull Racing Renault,78,+6.314s,15
+4,10,Lewis Hamilton,HAM,Mercedes,78,+13.894s,12
+5,15,Adrian Sutil,SUT,Force India Mercedes,78,+21.477s,10
+6,5,Jenson Button,BUT,McLaren Mercedes,78,+23.103s,8
+7,3,Fernando Alonso,ALO,Ferrari,78,+26.734s,6
+8,18,Jean-Eric Vergne,VER,STR Ferrari,78,+27.223s,4
+9,14,Paul di Resta,DIR,Force India Mercedes,78,+27.608s,2
+10,7,Kimi Räikkönen,RAI,Lotus Renault,78,+36.582s,1
+11,11,Nico Hulkenberg,HUL,Sauber Ferrari,78,+42.572s,0
+12,17,Valtteri Bottas,BOT,Williams Renault,78,+42.691s,0
+13,12,Esteban Gutierrez,GUT,Sauber Ferrari,78,+43.212s,0
+14,23,Max Chilton,CHI,Marussia Cosworth,78,+49.885s,0
+15,21,Giedo van der Garde,VDG,Caterham Renault,78,+62.590s,0
+16,6,Sergio Perez,PER,McLaren Mercedes,72,DNF,0
+NC,8,Romain Grosjean,GRO,Lotus Renault,63,DNF,0
+NC,19,Daniel Ricciardo,RIC,STR Ferrari,61,DNF,0
+NC,22,Jules Bianchi,BIA,Marussia Cosworth,58,DNF,0
+NC,16,Pastor Maldonado,MAL,Williams Renault,44,DNF,0
+NC,4,Felipe Massa,MAS,Ferrari,28,DNF,0
+NC,20,Charles Pic,PIC,Caterham Renault,7,DNF,0

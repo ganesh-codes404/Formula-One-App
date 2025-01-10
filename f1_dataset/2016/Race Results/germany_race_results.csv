@@ -1,0 +1,23 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Laps,Time/Retired,Points
+1,44,Lewis Hamilton,HAM,Mercedes,67,1:30:44.200,25
+2,3,Daniel Ricciardo,RIC,Red Bull Racing TAG Heuer,67,+6.996s,18
+3,33,Max Verstappen,VER,Red Bull Racing TAG Heuer,67,+13.413s,15
+4,6,Nico Rosberg,ROS,Mercedes,67,+15.845s,12
+5,5,Sebastian Vettel,VET,Ferrari,67,+32.570s,10
+6,7,Kimi Räikkönen,RAI,Ferrari,67,+37.023s,8
+7,27,Nico Hulkenberg,HUL,Force India Mercedes,67,+70.049s,6
+8,22,Jenson Button,BUT,McLaren Honda,66,+1 lap,4
+9,77,Valtteri Bottas,BOT,Williams Mercedes,66,+1 lap,2
+10,11,Sergio Perez,PER,Force India Mercedes,66,+1 lap,1
+11,21,Esteban Gutierrez,GUT,Haas Ferrari,66,+1 lap,0
+12,14,Fernando Alonso,ALO,McLaren Honda,66,+1 lap,0
+13,8,Romain Grosjean,GRO,Haas Ferrari,66,+1 lap,0
+14,55,Carlos Sainz,SAI,Toro Rosso Ferrari,66,+1 lap,0
+15,26,Daniil Kvyat,KVY,Toro Rosso Ferrari,66,+1 lap,0
+16,20,Kevin Magnussen,MAG,Renault,66,+1 lap,0
+17,94,Pascal Wehrlein,WEH,MRT Mercedes,65,+2 laps,0
+18,9,Marcus Ericsson,ERI,Sauber Ferrari,65,+2 laps,0
+19,30,Jolyon Palmer,PAL,Renault,65,+2 laps,0
+20,88,Rio Haryanto,HAR,MRT Mercedes,65,+2 laps,0
+NC,12,Felipe Nasr,NAS,Sauber Ferrari,57,DNF,0
+NC,19,Felipe Massa,MAS,Williams Mercedes,36,DNF,0

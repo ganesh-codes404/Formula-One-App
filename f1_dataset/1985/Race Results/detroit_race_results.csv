@@ -1,0 +1,26 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Laps,Time/Retired,Points
+1,6,Keke Rosberg,ROS,Williams Honda,63.0,1:55:39.851,9
+2,28,Stefan Johansson,JOH,Ferrari,63.0,+57.549s,6
+3,27,Michele Alboreto,ALB,Ferrari,63.0,+63.170s,4
+4,4,Stefan Bellof,BEL,Tyrrell Ford,63.0,+66.225s,3
+5,11,Elio de Angelis,DEA,Lotus Renault,63.0,+86.966s,2
+6,7,Nelson Piquet,PIQ,Brabham BMW,62.0,+1 lap,1
+7,18,Thierry Boutsen,BOU,Arrows BMW,62.0,+1 lap,0
+8,8,Marc Surer,SUR,Brabham BMW,62.0,+1 lap,0
+9,23,Eddie Cheever,CHE,Alfa Romeo,61.0,+2 laps,0
+10,25,Andrea de Cesaris,DEC,Ligier Renault,61.0,+2 laps,0
+11,17,Gerhard Berger,BER,Arrows BMW,60.0,+3 laps,0
+12,26,Jacques Laffite,LAF,Ligier Renault,58.0,+5 laps,0
+NC,12,Ayrton Senna,SEN,Lotus Renault,51.0,DNF,0
+NC,3,Martin Brundle,BRU,Tyrrell Ford,30.0,DNF,0
+NC,10,Philippe Alliot,ALL,RAM Hart,27.0,DNF,0
+NC,5,Nigel Mansell,MAN,Williams Honda,26.0,DNF,0
+NC,2,Alain Prost,PRO,McLaren TAG,19.0,DNF,0
+NC,22,Riccardo Patrese,PAT,Alfa Romeo,19.0,DNF,0
+NC,16,Derek Warwick,WAR,Renault,18.0,DNF,0
+NC,15,Patrick Tambay,TAM,Renault,15.0,DNF,0
+NC,29,Pierluigi Martini,MAR,Minardi Motori Moderni,11.0,DNF,0
+NC,1,Niki Lauda,LAU,McLaren TAG,10.0,DNF,0
+NC,19,Teo Fabi,FAB,Toleman Hart,4.0,DNF,0
+NC,9,Manfred Winkelhock,WIN,RAM Hart,3.0,DNF,0
+NC,24,Piercarlo Ghinzani,GHI,Osella Alfa Romeo,,DNS,0

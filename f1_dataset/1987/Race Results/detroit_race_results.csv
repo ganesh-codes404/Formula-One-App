@@ -1,0 +1,27 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Laps,Time/Retired,Points
+1,12,Ayrton Senna,SEN,Lotus Honda,63,1:50:16.358,9
+2,6,Nelson Piquet,PIQ,Williams Honda,63,+33.819s,6
+3,1,Alain Prost,PRO,McLaren TAG,63,+45.327s,4
+4,28,Gerhard Berger,BER,Ferrari,63,+62.601s,3
+5,5,Nigel Mansell,MAN,Williams Honda,62,+1 lap,2
+6,18,Eddie Cheever,CHE,Arrows Megatron,60,DNF,1
+7,2,Stefan Johansson,JOH,McLaren TAG,60,+3 laps,0
+8,10,Christian Danner,DAN,Zakspeed,60,+3 laps,0
+9,7,Riccardo Patrese,PAT,Brabham BMW,60,+3 laps,0
+10,25,Rene Arnoux,ARN,Ligier Megatron,60,+3 laps,0
+11,3,Jonathan Palmer,PAL,Tyrrell Ford,60,+3 laps,0
+12,14,Pascal Fabre,FAB,AGS Ford,58,+5 laps,0
+NC,20,Thierry Boutsen,BOU,Benetton Ford,52,DNF,0
+NC,26,Piercarlo Ghinzani,GHI,Ligier Megatron,51,+12 laps,0
+NC,4,Philippe Streiff,STR,Tyrrell Ford,44,DNF,0
+NC,30,Philippe Alliot,ALL,Lola Ford,38,DNF,0
+NC,27,Michele Alboreto,ALB,Ferrari,25,DNF,0
+NC,24,Alessandro Nannini,NAN,Minardi Motori Moderni,22,DNF,0
+NC,9,Martin Brundle,BRU,Zakspeed,16,DNF,0
+NC,17,Derek Warwick,WAR,Arrows Megatron,12,DNF,0
+NC,16,Ivan Capelli,CAP,March Ford,9,DNF,0
+NC,19,Teo Fabi,FAB,Benetton Ford,6,DNF,0
+NC,21,Alex Caffi,CAF,Osella Alfa Romeo,3,DNF,0
+NC,8,Andrea de Cesaris,DEC,Brabham BMW,2,DNF,0
+NC,23,Adrian Campos,CAM,Minardi Motori Moderni,1,DNF,0
+NC,11,Satoru Nakajima,NAK,Lotus Honda,0,DNF,0

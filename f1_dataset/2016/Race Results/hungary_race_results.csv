@@ -1,0 +1,23 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Laps,Time/Retired,Points
+1,44,Lewis Hamilton,HAM,Mercedes,70,1:40:30.115,25
+2,6,Nico Rosberg,ROS,Mercedes,70,+1.977s,18
+3,3,Daniel Ricciardo,RIC,Red Bull Racing TAG Heuer,70,+27.539s,15
+4,5,Sebastian Vettel,VET,Ferrari,70,+28.213s,12
+5,33,Max Verstappen,VER,Red Bull Racing TAG Heuer,70,+48.659s,10
+6,7,Kimi Räikkönen,RAI,Ferrari,70,+49.044s,8
+7,14,Fernando Alonso,ALO,McLaren Honda,69,+1 lap,6
+8,55,Carlos Sainz,SAI,Toro Rosso Ferrari,69,+1 lap,4
+9,77,Valtteri Bottas,BOT,Williams Mercedes,69,+1 lap,2
+10,27,Nico Hulkenberg,HUL,Force India Mercedes,69,+1 lap,1
+11,11,Sergio Perez,PER,Force India Mercedes,69,+1 lap,0
+12,30,Jolyon Palmer,PAL,Renault,69,+1 lap,0
+13,21,Esteban Gutierrez,GUT,Haas Ferrari,69,+1 lap,0
+14,8,Romain Grosjean,GRO,Haas Ferrari,69,+1 lap,0
+15,20,Kevin Magnussen,MAG,Renault,69,+1 lap,0
+16,26,Daniil Kvyat,KVY,Toro Rosso Ferrari,69,+1 lap,0
+17,12,Felipe Nasr,NAS,Sauber Ferrari,69,+1 lap,0
+18,19,Felipe Massa,MAS,Williams Mercedes,68,+2 laps,0
+19,94,Pascal Wehrlein,WEH,MRT Mercedes,68,+2 laps,0
+20,9,Marcus Ericsson,ERI,Sauber Ferrari,68,+2 laps,0
+21,88,Rio Haryanto,HAR,MRT Mercedes,68,+2 laps,0
+NC,22,Jenson Button,BUT,McLaren Honda,60,DNF,0

@@ -1,0 +1,28 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Laps,Time/Retired,Points
+1,5,Mario Andretti,AND,Lotus Ford,75.0,1:41:04.230,9
+2,6,Ronnie Peterson,PET,Lotus Ford,75.0,+0.320s,6
+3,1,Niki Lauda,LAU,Brabham Alfa Romeo,75.0,+12.210s,4
+4,2,John Watson,WAT,Brabham Alfa Romeo,75.0,+20.920s,3
+5,14,Emerson Fittipaldi,FIT,Fittipaldi Ford,75.0,+21.500s,2
+6,12,Gilles Villeneuve,VIL,Ferrari,75.0,+45.950s,1
+7,11,Carlos Reutemann,REU,Ferrari,75.0,+60.500s,0
+8,26,Jacques Laffite,LAF,Ligier Matra,74.0,+1 lap,0
+9,8,Patrick Tambay,TAM,McLaren Ford,74.0,+1 lap,0
+10,7,James Hunt,HUN,McLaren Ford,74.0,+1 lap,0
+11,25,Hector Rebaque,REB,Lotus Ford,74.0,+1 lap,0
+12,20,Jody Scheckter,SCH,Wolf Ford,73.0,+2 laps,0
+NC,33,Bruno Giacomelli,GIA,McLaren Ford,60.0,DNF,0
+NC,16,Hans-Joachim Stuck,STU,Shadow Ford,56.0,DNF,0
+NC,31,Rene Arnoux,ARN,Martini Ford,40.0,DNF,0
+NC,37,Arturo Merzario,MER,Merzario Ford,40.0,DNF,0
+DQ,19,Vittorio Brambilla,BRA,Surtees Ford,37.0,DSQ,0
+NC,15,Jean-Pierre Jabouille,JAB,Renault,35.0,DNF,0
+NC,30,Brett Lunger,LUN,McLaren Ford,35.0,DNF,0
+NC,32,Keke Rosberg,ROS,Wolf Ford,21.0,DNF,0
+NC,27,Alan Jones,JON,Williams Ford,17.0,DNF,0
+NC,29,Nelson Piquet,PIQ,McLaren Ford,16.0,DNF,0
+NC,4,Patrick Depailler,DEP,Tyrrell Ford,13.0,DNF,0
+NC,22,Derek Daly,DAL,Ensign Ford,10.0,DNF,0
+NC,35,Riccardo Patrese,PAT,Arrows Ford,0.0,DNF,0
+NC,3,Didier Pironi,PIR,Tyrrell Ford,0.0,DNF,0
+NC,18,Rupert Keegan,KEE,Surtees Ford,,DNS,0

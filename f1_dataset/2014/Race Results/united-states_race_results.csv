@@ -1,0 +1,19 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Laps,Time/Retired,Points
+1,44,Lewis Hamilton,HAM,Mercedes,56,1:40:04.785,25
+2,6,Nico Rosberg,ROS,Mercedes,56,+4.314s,18
+3,3,Daniel Ricciardo,RIC,Red Bull Racing Renault,56,+25.560s,15
+4,19,Felipe Massa,MAS,Williams Mercedes,56,+26.924s,12
+5,77,Valtteri Bottas,BOT,Williams Mercedes,56,+30.992s,10
+6,14,Fernando Alonso,ALO,Ferrari,56,+95.231s,8
+7,1,Sebastian Vettel,VET,Red Bull Racing Renault,56,+95.734s,6
+8,20,Kevin Magnussen,MAG,McLaren Mercedes,56,+100.682s,4
+9,13,Pastor Maldonado,MAL,Lotus Renault,56,+107.870s,2
+10,25,Jean-Eric Vergne,VER,STR Renault,56,+108.863s,1
+11,8,Romain Grosjean,GRO,Lotus Renault,55,+1 lap,0
+12,22,Jenson Button,BUT,McLaren Mercedes,55,+1 lap,0
+13,7,Kimi Räikkönen,RAI,Ferrari,55,+1 lap,0
+14,21,Esteban Gutierrez,GUT,Sauber Ferrari,55,+1 lap,0
+15,26,Daniil Kvyat,KVY,STR Renault,55,+1 lap,0
+NC,27,Nico Hulkenberg,HUL,Force India Mercedes,16,DNF,0
+NC,11,Sergio Perez,PER,Force India Mercedes,1,DNF,0
+NC,99,Adrian Sutil,SUT,Sauber Ferrari,0,DNF,0

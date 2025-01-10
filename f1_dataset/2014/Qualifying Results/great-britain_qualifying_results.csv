@@ -1,0 +1,23 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Q1,Q2,Q3,Laps
+1,6,Nico Rosberg,ROS,Mercedes,1:40.380,1:35.179,1:35.766,21
+2,1,Sebastian Vettel,VET,Red Bull Racing Renault,1:45.086,1:36.410,1:37.386,19
+3,22,Jenson Button,BUT,McLaren Mercedes,1:44.425,1:36.579,1:38.200,24
+4,27,Nico Hulkenberg,HUL,Force India Mercedes,1:41.271,1:37.112,1:38.329,19
+5,20,Kevin Magnussen,MAG,McLaren Mercedes,1:42.507,1:37.370,1:38.417,23
+6,44,Lewis Hamilton,HAM,Mercedes,1:41.058,1:34.870,1:39.232,19
+7,11,Sergio Perez,PER,Force India Mercedes,1:42.146,1:37.350,1:40.457,20
+8,3,Daniel Ricciardo,RIC,Red Bull Racing Renault,1:44.710,1:38.166,1:40.606,18
+9,26,Daniil Kvyat,KVY,STR Renault,1:41.032,1:36.813,1:40.707,21
+10,25,Jean-Eric Vergne,VER,STR Renault,1:43.040,1:37.800,1:40.855,21
+11,8,Romain Grosjean,GRO,Lotus Renault,1:43.121,1:38.496,DNQ,17
+12,17,Jules Bianchi,BIA,Marussia Ferrari,1:41.169,1:38.709,DNQ,17
+13,4,Max Chilton,CHI,Marussia Ferrari,1:42.082,1:39.800,DNQ,14
+14,21,Esteban Gutierrez,GUT,Sauber Ferrari,1:43.285,1:40.912,DNQ,16
+NC,13,Pastor Maldonado,MAL,Lotus Renault,1:43.892,1:44.018,DNQ,15
+15,99,Adrian Sutil,SUT,Sauber Ferrari,1:42.603,DNQ,DNQ,8
+16,77,Valtteri Bottas,BOT,Williams Mercedes,1:45.318,DNQ,DNQ,5
+17,19,Felipe Massa,MAS,Williams Mercedes,1:45.695,DNQ,DNQ,5
+18,14,Fernando Alonso,ALO,Ferrari,1:45.935,DNQ,DNQ,6
+19,7,Kimi Räikkönen,RAI,Ferrari,1:46.684,DNQ,DNQ,7
+NC,9,Marcus Ericsson,ERI,Caterham Renault,1:49.421,DNQ,DNQ,7
+NC,10,Kamui Kobayashi,KOB,Caterham Renault,1:49.625,DNQ,DNQ,6

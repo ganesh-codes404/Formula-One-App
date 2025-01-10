@@ -1,0 +1,23 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Laps,Time/Retired,Points
+1,6,Kimi Räikkönen,RAI,Ferrari,56,1:37:58.395,10
+2,1,Fernando Alonso,ALO,McLaren Mercedes,56,+9.806s,8
+3,5,Felipe Massa,MAS,Ferrari,56,+12.891s,6
+4,19,Sebastian Vettel,VET,STR Ferrari,56,+53.509s,5
+5,7,Jenson Button,BUT,Honda,56,+68.666s,4
+6,18,Vitantonio Liuzzi,LIU,STR Ferrari,56,+73.673s,3
+7,9,Nick Heidfeld,HEI,Sauber BMW,56,+74.224s,2
+8,14,David Coulthard,COU,Red Bull Renault,56,+80.750s,1
+9,4,Heikki Kovalainen,KOV,Renault,56,+81.186s,0
+10,15,Mark Webber,WEB,Red Bull Renault,56,+84.685s,0
+11,3,Giancarlo Fisichella,FIS,Renault,56,+86.683s,0
+12,17,Alexander Wurz,WUR,Williams Toyota,55,+1 lap,0
+13,12,Jarno Trulli,TRU,Toyota,55,+1 lap,0
+14,22,Takuma Sato,SAT,Super Aguri Honda,55,+1 lap,0
+15,8,Rubens Barrichello,BAR,Honda,55,+1 lap,0
+16,16,Nico Rosberg,ROS,Williams Toyota,54,+2 laps,0
+17,21,Sakon Yamamoto,YAM,Spyker Ferrari,53,+3 laps,0
+NC,10,Robert Kubica,KUB,Sauber BMW,33,DNF,0
+NC,2,Lewis Hamilton,HAM,McLaren Mercedes,30,DNF,0
+NC,11,Ralf Schumacher,RSC,Toyota,25,DNF,0
+NC,20,Adrian Sutil,SUT,Spyker Ferrari,24,DNF,0
+NC,23,Anthony Davidson,DAV,Super Aguri Honda,11,DNF,0

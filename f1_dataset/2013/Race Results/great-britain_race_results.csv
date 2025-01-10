@@ -1,0 +1,23 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Laps,Time/Retired,Points
+1,9,Nico Rosberg,ROS,Mercedes,52,1:32:59.456,25
+2,2,Mark Webber,WEB,Red Bull Racing Renault,52,+0.765s,18
+3,3,Fernando Alonso,ALO,Ferrari,52,+7.124s,15
+4,10,Lewis Hamilton,HAM,Mercedes,52,+7.756s,12
+5,7,Kimi Räikkönen,RAI,Lotus Renault,52,+11.257s,10
+6,4,Felipe Massa,MAS,Ferrari,52,+14.573s,8
+7,15,Adrian Sutil,SUT,Force India Mercedes,52,+16.335s,6
+8,19,Daniel Ricciardo,RIC,STR Ferrari,52,+16.543s,4
+9,14,Paul di Resta,DIR,Force India Mercedes,52,+17.943s,2
+10,11,Nico Hulkenberg,HUL,Sauber Ferrari,52,+19.709s,1
+11,16,Pastor Maldonado,MAL,Williams Renault,52,+21.135s,0
+12,17,Valtteri Bottas,BOT,Williams Renault,52,+25.094s,0
+13,5,Jenson Button,BUT,McLaren Mercedes,52,+25.969s,0
+14,12,Esteban Gutierrez,GUT,Sauber Ferrari,52,+26.285s,0
+15,20,Charles Pic,PIC,Caterham Renault,52,+31.613s,0
+16,22,Jules Bianchi,BIA,Marussia Cosworth,52,+36.097s,0
+17,23,Max Chilton,CHI,Marussia Cosworth,52,+67.660s,0
+18,21,Giedo van der Garde,VDG,Caterham Renault,52,+67.759s,0
+19,8,Romain Grosjean,GRO,Lotus Renault,51,DNF,0
+20,6,Sergio Perez,PER,McLaren Mercedes,46,DNF,0
+NC,1,Sebastian Vettel,VET,Red Bull Racing Renault,41,DNF,0
+NC,18,Jean-Eric Vergne,VER,STR Ferrari,35,DNF,0

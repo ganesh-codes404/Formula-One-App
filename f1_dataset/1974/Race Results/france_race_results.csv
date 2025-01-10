@@ -1,0 +1,23 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Laps,Time/Retired,Points
+1,1,Ronnie Peterson,PET,Lotus Ford,80,1:21:55.020,9
+2,12,Niki Lauda,LAU,Ferrari,80,+20.360s,6
+3,11,Clay Regazzoni,REG,Ferrari,80,+27.840s,4
+4,3,Jody Scheckter,SCH,Tyrrell Ford,80,+28.110s,3
+5,2,Jacky Ickx,ICK,Lotus Ford,80,+37.540s,2
+6,6,Denny Hulme,HUL,McLaren Ford,80,+38.140s,1
+7,33,Mike Hailwood,HAI,McLaren Ford,79,+1 lap,0
+8,4,Patrick Depailler,DEP,Tyrrell Ford,79,+1 lap,0
+9,20,Arturo Merzario,MER,Iso Marlboro Ford,79,+1 lap,0
+10,14,Jean-Pierre Beltoise,BEL,BRM,79,+1 lap,0
+11,10,Vittorio Brambilla,BRA,March Ford,79,+1 lap,0
+12,17,Jean-Pierre Jarier,JAR,Shadow Ford,79,+1 lap,0
+13,26,Graham Hill,HIL,Lola Ford,78,+2 laps,0
+14,37,Francois Migault,MIG,BRM,78,+2 laps,0
+15,27,Guy Edwards,EDW,Lola Ford,77,+3 laps,0
+16,28,John Watson,WAT,Brabham Ford,76,+4 laps,0
+NC,5,Emerson Fittipaldi,FIT,McLaren Ford,27,DNF,0
+NC,7,Carlos Reutemann,REU,Brabham Ford,24,DNF,0
+NC,19,Jochen Mass,MAS,Surtees Ford,4,DNF,0
+NC,15,Henri Pescarolo,PES,BRM,1,DNF,0
+NC,16,Tom Pryce,PRY,Shadow Ford,1,DNF,0
+NC,24,James Hunt,HUN,Hesketh Ford,0,DNF,0

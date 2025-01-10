@@ -1,0 +1,23 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Q1,Q2,Q3,Laps
+1,6,Felipe Massa,MAS,Ferrari,1:10.643,1:10.775,1:10.680,19
+2,3,Kimi Räikkönen,RAI,McLaren Mercedes,1:12.035,1:11.386,1:11.299,21
+3,8,Jarno Trulli,TRU,Toyota,1:11.885,1:11.343,1:11.328,26
+4,1,Fernando Alonso,ALO,Renault,1:11.791,1:11.148,1:11.567,19
+5,11,Rubens Barrichello,BAR,Honda,1:12.017,1:11.578,1:11.619,26
+6,2,Giancarlo Fisichella,FIS,Renault,1:12.042,1:11.461,1:11.629,22
+7,7,Ralf Schumacher,RSC,Toyota,1:11.713,1:11.550,1:11.695,27
+8,16,Nick Heidfeld,HEI,Sauber BMW,1:12.307,1:11.648,1:11.882,23
+9,17,Robert Kubica,KUB,Sauber BMW,1:12.040,1:11.589,1:12.131,22
+10,5,Michael Schumacher,MSC,Ferrari,1:11.565,1:10.313,DNS,7
+11,9,Mark Webber,WEB,Williams Cosworth,1:11.973,1:11.650,DNQ,11
+12,4,Pedro de la Rosa,DLR,McLaren Mercedes,1:11.825,1:11.658,DNQ,12
+13,10,Nico Rosberg,ROS,Williams Cosworth,1:11.974,1:11.679,DNQ,12
+14,12,Jenson Button,BUT,Honda,1:12.085,1:11.742,DNQ,10
+15,15,Robert Doornbos,DOO,RBR Ferrari,1:12.530,1:12.591,DNQ,10
+16,20,Vitantonio Liuzzi,LIU,STR Cosworth,1:12.855,1:12.861,DNQ,15
+17,21,Scott Speed,SPE,STR Cosworth,1:12.856,DNQ,DNQ,8
+18,19,Christijan Albers,ALB,MF1 Toyota,1:13.138,DNQ,DNQ,7
+19,14,David Coulthard,COU,RBR Ferrari,1:13.249,DNQ,DNQ,7
+20,22,Takuma Sato,SAT,Super Aguri Honda,1:13.269,DNQ,DNQ,7
+21,23,Sakon Yamamoto,YAM,Super Aguri Honda,1:13.357,DNQ,DNQ,10
+22,18,Tiago Monteiro,MON,MF1 Toyota,DNF,DNQ,DNQ,2

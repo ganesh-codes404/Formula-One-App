@@ -1,0 +1,23 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Laps,Time/Retired,Points
+1,44,Lewis Hamilton,HAM,Mercedes,56,1:38:12.618,25
+2,6,Nico Rosberg,ROS,Mercedes,56,+4.520s,18
+3,3,Daniel Ricciardo,RIC,Red Bull Racing TAG Heuer,56,+19.692s,15
+4,5,Sebastian Vettel,VET,Ferrari,56,+43.134s,12
+5,14,Fernando Alonso,ALO,McLaren Honda,56,+93.953s,10
+6,55,Carlos Sainz,SAI,Toro Rosso Ferrari,56,+96.124s,8
+7,19,Felipe Massa,MAS,Williams Mercedes,55,+1 lap,6
+8,11,Sergio Perez,PER,Force India Mercedes,55,+1 lap,4
+9,22,Jenson Button,BUT,McLaren Honda,55,+1 lap,2
+10,8,Romain Grosjean,GRO,Haas Ferrari,55,+1 lap,1
+11,26,Daniil Kvyat,KVY,Toro Rosso Ferrari,55,+1 lap,0
+12,20,Kevin Magnussen,MAG,Renault,55,+1 lap,0
+13,30,Jolyon Palmer,PAL,Renault,55,+1 lap,0
+14,9,Marcus Ericsson,ERI,Sauber Ferrari,55,+1 lap,0
+15,12,Felipe Nasr,NAS,Sauber Ferrari,55,+1 lap,0
+16,77,Valtteri Bottas,BOT,Williams Mercedes,55,+1 lap,0
+17,94,Pascal Wehrlein,WEH,MRT Mercedes,55,+1 lap,0
+18,31,Esteban Ocon,OCO,MRT Mercedes,54,+2 laps,0
+NC,7,Kimi Räikkönen,RAI,Ferrari,38,DNF,0
+NC,33,Max Verstappen,VER,Red Bull Racing TAG Heuer,28,DNF,0
+NC,21,Esteban Gutierrez,GUT,Haas Ferrari,16,DNF,0
+NC,27,Nico Hulkenberg,HUL,Force India Mercedes,1,DNF,0

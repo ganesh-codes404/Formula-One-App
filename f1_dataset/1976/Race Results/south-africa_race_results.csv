@@ -1,0 +1,26 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Laps,Time/Retired,Points
+1,1,Niki Lauda,LAU,Ferrari,78,1:42:18.400,9
+2,11,James Hunt,HUN,McLaren Ford,78,+1.300s,6
+3,12,Jochen Mass,MAS,McLaren Ford,78,+45.900s,4
+4,3,Jody Scheckter,SCH,Tyrrell Ford,78,+68.400s,3
+5,28,John Watson,WAT,Penske Ford,77,+1 lap,2
+6,27,Mario Andretti,AND,Parnelli Ford,77,+1 lap,1
+7,16,Tom Pryce,PRY,Shadow Ford,77,+1 lap,0
+8,9,Vittorio Brambilla,BRA,March Ford,77,+1 lap,0
+9,4,Patrick Depailler,DEP,Tyrrell Ford,77,+1 lap,0
+10,5,Bob Evans,EVA,Lotus Ford,77,+1 lap,0
+11,18,Brett Lunger,LUN,Surtees Ford,77,+1 lap,0
+12,34,Hans-Joachim Stuck,STU,March Ford,76,+2 laps,0
+13,21,Michel Leclere,LEC,Wolf-Williams,76,+2 laps,0
+14,22,Chris Amon,AMO,Ensign Ford,76,+2 laps,0
+15,24,Harald Ertl,ERT,Hesketh Ford,74,+4 laps,0
+16,20,Jacky Ickx,ICK,Wolf-Williams,73,+5 laps,0
+17,30,Emerson Fittipaldi,FIT,Fittipaldi Ford,70,DNF,0
+NC,2,Clay Regazzoni,REG,Ferrari,52,DNF,0
+NC,26,Jacques Laffite,LAF,Ligier Matra,49,DNF,0
+NC,17,Jean-Pierre Jarier,JAR,Shadow Ford,28,DNF,0
+NC,8,Carlos Pace,PAC,Brabham Alfa Romeo,22,DNF,0
+NC,6,Gunnar Nilsson,NIL,Lotus Ford,18,DNF,0
+NC,7,Carlos Reutemann,REU,Brabham Alfa Romeo,16,DNF,0
+NC,10,Ronnie Peterson,PET,March Ford,15,DNF,0
+NC,15,Ian Scheckter,SCH,Tyrrell Ford,0,DNF,0

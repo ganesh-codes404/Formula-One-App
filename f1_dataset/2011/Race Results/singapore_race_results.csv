@@ -1,0 +1,25 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Laps,Time/Retired,Points
+1,1,Sebastian Vettel,VET,Red Bull Racing Renault,61,1:59:06.757,25
+2,4,Jenson Button,BUT,McLaren Mercedes,61,+1.737s,18
+3,2,Mark Webber,WEB,Red Bull Racing Renault,61,+29.279s,15
+4,5,Fernando Alonso,ALO,Ferrari,61,+55.449s,12
+5,3,Lewis Hamilton,HAM,McLaren Mercedes,61,+67.766s,10
+6,15,Paul di Resta,DIR,Force India Mercedes,61,+111.067s,8
+7,8,Nico Rosberg,ROS,Mercedes,60,+1 lap,6
+8,14,Adrian Sutil,SUT,Force India Mercedes,60,+1 lap,4
+9,6,Felipe Massa,MAS,Ferrari,60,+1 lap,2
+10,17,Sergio Perez,PER,Sauber Ferrari,60,+1 lap,1
+11,12,Pastor Maldonado,MAL,Williams Cosworth,60,+1 lap,0
+12,18,Sebastien Buemi,BUE,STR Ferrari,60,+1 lap,0
+13,11,Rubens Barrichello,BAR,Williams Cosworth,60,+1 lap,0
+14,16,Kamui Kobayashi,KOB,Sauber Ferrari,59,+2 laps,0
+15,9,Bruno Senna,SEN,Renault,59,+2 laps,0
+16,20,Heikki Kovalainen,KOV,Lotus Renault,59,+2 laps,0
+17,10,Vitaly Petrov,PET,Renault,59,+2 laps,0
+18,25,Jerome d'Ambrosio,DAM,Virgin Cosworth,59,+2 laps,0
+19,22,Daniel Ricciardo,RIC,HRT Cosworth,57,+4 laps,0
+20,23,Vitantonio Liuzzi,LIU,HRT Cosworth,57,+4 laps,0
+21,19,Jaime Alguersuari,ALG,STR Ferrari,56,DNF,0
+NC,21,Jarno Trulli,TRU,Lotus Renault,47,DNF,0
+NC,7,Michael Schumacher,MSC,Mercedes,28,DNF,0
+NC,24,Timo Glock,GLO,Virgin Cosworth,9,DNF,0

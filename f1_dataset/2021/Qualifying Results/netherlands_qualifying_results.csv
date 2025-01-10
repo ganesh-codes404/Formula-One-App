@@ -1,0 +1,21 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Q1,Q2,Q3,Laps
+1,33,Max Verstappen,VER,Red Bull Racing Honda,1:10.036,1:09.071,1:08.885,15
+2,44,Lewis Hamilton,HAM,Mercedes,1:10.114,1:09.726,1:08.923,17
+3,77,Valtteri Bottas,BOT,Mercedes,1:10.219,1:09.769,1:09.222,17
+4,10,Pierre Gasly,GAS,AlphaTauri Honda,1:10.274,1:09.541,1:09.478,17
+5,16,Charles Leclerc,LEC,Ferrari,1:09.829,1:09.437,1:09.527,18
+6,55,Carlos Sainz,SAI,Ferrari,1:10.022,1:09.870,1:09.537,19
+7,99,Antonio Giovinazzi,GIO,Alfa Romeo Racing Ferrari,1:10.050,1:10.033,1:09.590,17
+8,31,Esteban Ocon,OCO,Alpine Renault,1:10.179,1:09.919,1:09.933,17
+9,14,Fernando Alonso,ALO,Alpine Renault,1:10.435,1:10.020,1:09.956,13
+10,3,Daniel Ricciardo,RIC,McLaren Mercedes,1:10.255,1:09.865,1:10.166,17
+11,63,George Russell,RUS,Williams Mercedes,1:10.382,1:10.332,DNQ,13
+12,18,Lance Stroll,STR,Aston Martin Mercedes,1:10.438,1:10.367,DNQ,13
+13,4,Lando Norris,NOR,McLaren Mercedes,1:10.489,1:10.406,DNQ,13
+14,6,Nicholas Latifi,LAT,Williams Mercedes,1:10.093,1:11.161,DNQ,16
+15,22,Yuki Tsunoda,TSU,AlphaTauri Honda,1:10.462,1:11.314,DNQ,15
+16,11,Sergio Perez,PER,Red Bull Racing Honda,1:10.530,DNQ,DNQ,9
+17,5,Sebastian Vettel,VET,Aston Martin Mercedes,1:10.731,DNQ,DNQ,7
+18,88,Robert Kubica,KUB,Alfa Romeo Racing Ferrari,1:11.301,DNQ,DNQ,9
+19,47,Mick Schumacher,MSC,Haas Ferrari,1:11.387,DNQ,DNQ,11
+20,9,Nikita Mazepin,MAZ,Haas Ferrari,1:11.875,DNQ,DNQ,10

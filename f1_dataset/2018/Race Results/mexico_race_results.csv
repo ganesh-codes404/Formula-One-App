@@ -1,0 +1,21 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Laps,Time/Retired,Points
+1,33,Max Verstappen,VER,Red Bull Racing TAG Heuer,71,1:38:28.851,25
+2,5,Sebastian Vettel,VET,Ferrari,71,+17.316s,18
+3,7,Kimi Räikkönen,RAI,Ferrari,71,+49.914s,15
+4,44,Lewis Hamilton,HAM,Mercedes,71,+78.738s,12
+5,77,Valtteri Bottas,BOT,Mercedes,70,+1 lap,10
+6,27,Nico Hulkenberg,HUL,Renault,69,+2 laps,8
+7,16,Charles Leclerc,LEC,Sauber Ferrari,69,+2 laps,6
+8,2,Stoffel Vandoorne,VAN,McLaren Renault,69,+2 laps,4
+9,9,Marcus Ericsson,ERI,Sauber Ferrari,69,+2 laps,2
+10,10,Pierre Gasly,GAS,Scuderia Toro Rosso Honda,69,+2 laps,1
+11,31,Esteban Ocon,OCO,Force India Mercedes,69,+2 laps,0
+12,18,Lance Stroll,STR,Williams Mercedes,69,+2 laps,0
+13,35,Sergey Sirotkin,SIR,Williams Mercedes,69,+2 laps,0
+14,28,Brendon Hartley,HAR,Scuderia Toro Rosso Honda,69,+2 laps,0
+15,20,Kevin Magnussen,MAG,Haas Ferrari,69,+2 laps,0
+16,8,Romain Grosjean,GRO,Haas Ferrari,68,+3 laps,0
+NC,3,Daniel Ricciardo,RIC,Red Bull Racing TAG Heuer,61,DNF,0
+NC,11,Sergio Perez,PER,Force India Mercedes,38,DNF,0
+NC,55,Carlos Sainz,SAI,Renault,28,DNF,0
+NC,14,Fernando Alonso,ALO,McLaren Renault,3,DNF,0

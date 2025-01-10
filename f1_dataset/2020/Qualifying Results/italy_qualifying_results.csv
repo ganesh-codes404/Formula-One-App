@@ -1,0 +1,21 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Q1,Q2,Q3,Laps
+1,44,Lewis Hamilton,HAM,Mercedes,1:19.514,1:19.092,1:18.887,18
+2,77,Valtteri Bottas,BOT,Mercedes,1:19.786,1:18.952,1:18.956,18
+3,55,Carlos Sainz,SAI,McLaren Renault,1:20.099,1:19.705,1:19.695,16
+4,11,Sergio Perez,PER,Racing Point BWT Mercedes,1:20.048,1:19.718,1:19.720,17
+5,33,Max Verstappen,VER,Red Bull Racing Honda,1:20.193,1:19.780,1:19.795,17
+6,4,Lando Norris,NOR,McLaren Renault,1:20.344,1:19.962,1:19.820,18
+7,3,Daniel Ricciardo,RIC,Renault,1:20.548,1:20.031,1:19.864,16
+8,18,Lance Stroll,STR,Racing Point BWT Mercedes,1:20.400,1:19.924,1:20.049,19
+9,23,Alexander Albon,ALB,Red Bull Racing Honda,1:21.104,1:20.064,1:20.090,19
+10,10,Pierre Gasly,GAS,AlphaTauri Honda,1:20.145,1:19.909,1:20.177,20
+11,26,Daniil Kvyat,KVY,AlphaTauri Honda,1:20.307,1:20.169,DNQ,14
+12,31,Esteban Ocon,OCO,Renault,1:20.747,1:20.234,DNQ,12
+13,16,Charles Leclerc,LEC,Ferrari,1:20.443,1:20.273,DNQ,15
+14,7,Kimi Räikkönen,RAI,Alfa Romeo Racing Ferrari,1:21.010,1:20.926,DNQ,14
+15,20,Kevin Magnussen,MAG,Haas Ferrari,1:20.869,1:21.573,DNQ,14
+16,8,Romain Grosjean,GRO,Haas Ferrari,1:21.139,DNQ,DNQ,8
+17,5,Sebastian Vettel,VET,Ferrari,1:21.151,DNQ,DNQ,5
+18,99,Antonio Giovinazzi,GIO,Alfa Romeo Racing Ferrari,1:21.206,DNQ,DNQ,9
+19,63,George Russell,RUS,Williams Mercedes,1:21.587,DNQ,DNQ,7
+20,6,Nicholas Latifi,LAT,Williams Mercedes,1:21.717,DNQ,DNQ,8

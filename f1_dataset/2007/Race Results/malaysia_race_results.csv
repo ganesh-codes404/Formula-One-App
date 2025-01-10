@@ -1,0 +1,23 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Laps,Time/Retired,Points
+1,1,Fernando Alonso,ALO,McLaren Mercedes,56,1:32:14.930,10
+2,2,Lewis Hamilton,HAM,McLaren Mercedes,56,+17.557s,8
+3,6,Kimi Räikkönen,RAI,Ferrari,56,+18.339s,6
+4,9,Nick Heidfeld,HEI,Sauber BMW,56,+33.777s,5
+5,5,Felipe Massa,MAS,Ferrari,56,+36.705s,4
+6,3,Giancarlo Fisichella,FIS,Renault,56,+65.638s,3
+7,12,Jarno Trulli,TRU,Toyota,56,+70.132s,2
+8,4,Heikki Kovalainen,KOV,Renault,56,+72.015s,1
+9,17,Alexander Wurz,WUR,Williams Toyota,56,+89.924s,0
+10,15,Mark Webber,WEB,Red Bull Renault,56,+93.556s,0
+11,8,Rubens Barrichello,BAR,Honda,55,+1 lap,0
+12,7,Jenson Button,BUT,Honda,55,+1 lap,0
+13,22,Takuma Sato,SAT,Super Aguri Honda,55,+1 lap,0
+14,19,Scott Speed,SPE,STR Ferrari,55,+1 lap,0
+15,11,Ralf Schumacher,RSC,Toyota,55,+1 lap,0
+16,23,Anthony Davidson,DAV,Super Aguri Honda,55,+1 lap,0
+17,18,Vitantonio Liuzzi,LIU,STR Ferrari,55,+1 lap,0
+18,10,Robert Kubica,KUB,Sauber BMW,55,+1 lap,0
+NC,16,Nico Rosberg,ROS,Williams Toyota,42,DNF,0
+NC,14,David Coulthard,COU,Red Bull Renault,36,DNF,0
+NC,21,Christijan Albers,ALB,Spyker Ferrari,7,DNF,0
+NC,20,Adrian Sutil,SUT,Spyker Ferrari,0,DNF,0

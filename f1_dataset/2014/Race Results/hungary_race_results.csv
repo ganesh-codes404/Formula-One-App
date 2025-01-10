@@ -1,0 +1,23 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Laps,Time/Retired,Points
+1,3,Daniel Ricciardo,RIC,Red Bull Racing Renault,70,1:53:05.058,25
+2,14,Fernando Alonso,ALO,Ferrari,70,+5.225s,18
+3,44,Lewis Hamilton,HAM,Mercedes,70,+5.857s,15
+4,6,Nico Rosberg,ROS,Mercedes,70,+6.361s,12
+5,19,Felipe Massa,MAS,Williams Mercedes,70,+29.841s,10
+6,7,Kimi Räikkönen,RAI,Ferrari,70,+31.491s,8
+7,1,Sebastian Vettel,VET,Red Bull Racing Renault,70,+40.964s,6
+8,77,Valtteri Bottas,BOT,Williams Mercedes,70,+41.344s,4
+9,25,Jean-Eric Vergne,VER,STR Renault,70,+58.527s,2
+10,22,Jenson Button,BUT,McLaren Mercedes,70,+67.280s,1
+11,99,Adrian Sutil,SUT,Sauber Ferrari,70,+68.169s,0
+12,20,Kevin Magnussen,MAG,McLaren Mercedes,70,+78.465s,0
+13,13,Pastor Maldonado,MAL,Lotus Renault,70,+84.024s,0
+14,26,Daniil Kvyat,KVY,STR Renault,69,+1 lap,0
+15,17,Jules Bianchi,BIA,Marussia Ferrari,69,+1 lap,0
+16,4,Max Chilton,CHI,Marussia Ferrari,69,+1 lap,0
+NC,21,Esteban Gutierrez,GUT,Sauber Ferrari,32,DNF,0
+NC,10,Kamui Kobayashi,KOB,Caterham Renault,24,DNF,0
+NC,11,Sergio Perez,PER,Force India Mercedes,22,DNF,0
+NC,27,Nico Hulkenberg,HUL,Force India Mercedes,14,DNF,0
+NC,8,Romain Grosjean,GRO,Lotus Renault,10,DNF,0
+NC,9,Marcus Ericsson,ERI,Caterham Renault,7,DNF,0

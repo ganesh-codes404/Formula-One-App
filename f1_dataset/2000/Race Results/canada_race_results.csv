@@ -1,0 +1,23 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Laps,Time/Retired,Points
+1,3,Michael Schumacher,MSC,Ferrari,69,1:41:12.313,10
+2,4,Rubens Barrichello,BAR,Ferrari,69,+0.174s,6
+3,11,Giancarlo Fisichella,FIS,Benetton Playlife,69,+15.365s,4
+4,1,Mika Hakkinen,HAK,McLaren Mercedes,69,+18.561s,3
+5,19,Jos Verstappen,VER,Arrows Supertec,69,+52.208s,2
+6,6,Jarno Trulli,TRU,Jordan Mugen Honda,69,+61.687s,1
+7,2,David Coulthard,COU,McLaren Mercedes,69,+62.216s,0
+8,23,Ricardo Zonta,ZON,BAR Honda,69,+70.455s,0
+9,12,Alexander Wurz,WUR,Benetton Playlife,69,+79.899s,0
+10,16,Pedro Diniz,DIN,Sauber Petronas,69,+114.544s,0
+11,10,Jenson Button,BUT,Williams BMW,68,+1 lap,0
+12,21,Gaston Mazzacane,MAZ,Minardi Fondmetal,68,+1 lap,0
+13,7,Eddie Irvine,IRV,Jaguar Cosworth,66,+3 laps,0
+14,9,Ralf Schumacher,RSC,Williams BMW,64,DNF,0
+15,22,Jacques Villeneuve,VIL,BAR Honda,64,DNF,0
+16,20,Marc Gene,GEN,Minardi Fondmetal,64,DNF,0
+NC,18,Pedro de la Rosa,DLR,Arrows Supertec,48,DNF,0
+NC,17,Mika Salo,SAL,Sauber Petronas,42,DNF,0
+NC,14,Jean Alesi,ALE,Prost Peugeot,38,DNF,0
+NC,15,Nick Heidfeld,HEI,Prost Peugeot,34,DNF,0
+NC,5,Heinz-Harald Frentzen,FRE,Jordan Mugen Honda,32,DNF,0
+NC,8,Johnny Herbert,HER,Jaguar Cosworth,14,DNF,0

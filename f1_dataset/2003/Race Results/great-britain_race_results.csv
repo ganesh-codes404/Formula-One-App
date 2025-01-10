@@ -1,0 +1,21 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Laps,Time/Retired,Points
+1,2,Rubens Barrichello,BAR,Ferrari,60,1:28:37.554,10
+2,3,Juan Pablo Montoya,MOY,Williams BMW,60,+5.462s,8
+3,6,Kimi Räikkönen,RAI,McLaren Mercedes,60,+10.656s,6
+4,1,Michael Schumacher,MSC,Ferrari,60,+25.648s,5
+5,5,David Coulthard,COU,McLaren Mercedes,60,+36.827s,4
+6,7,Jarno Trulli,TRU,Renault,60,+43.067s,3
+7,21,Cristiano da Matta,DAM,Toyota,60,+45.085s,2
+8,17,Jenson Button,BUT,BAR Honda,60,+45.478s,1
+9,4,Ralf Schumacher,RSC,Williams BMW,60,+58.032s,0
+10,16,Jacques Villeneuve,VIL,BAR Honda,60,+63.569s,0
+11,20,Olivier Panis,PAN,Toyota,60,+65.207s,0
+12,10,Heinz-Harald Frentzen,FRE,Sauber Petronas,60,+65.564s,0
+13,12,Ralph Firman,FIR,Jordan Ford,59,+1 lap,0
+14,14,Mark Webber,WEB,Jaguar Cosworth,59,+1 lap,0
+15,19,Jos Verstappen,VER,Minardi Cosworth,58,+2 laps,0
+16,18,Justin Wilson,WIL,Minardi Cosworth,58,+2 laps,0
+17,9,Nick Heidfeld,HEI,Sauber Petronas,58,+2 laps,0
+NC,8,Fernando Alonso,ALO,Renault,52,DNF,0
+NC,11,Giancarlo Fisichella,FIS,Jordan Ford,44,DNF,0
+NC,15,Antonio Pizzonia,PIZ,Jaguar Cosworth,32,DNF,0

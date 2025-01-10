@@ -1,0 +1,21 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Laps,Time/Retired,Points
+1,1,Michael Schumacher,MSC,Ferrari,66,1:23:54.848,10
+2,9,Jenson Button,BUT,BAR Honda,66,+8.388s,8
+3,8,Fernando Alonso,ALO,Renault,66,+16.351s,6
+4,5,David Coulthard,COU,McLaren Mercedes,66,+19.231s,5
+5,3,Juan Pablo Montoya,MOY,Williams BMW,66,+23.055s,4
+6,14,Mark Webber,WEB,Jaguar Cosworth,66,+41.108s,3
+7,4,Antonio Pizzonia,PIZ,Williams BMW,66,+41.956s,2
+8,10,Takuma Sato,SAT,BAR Honda,66,+46.842s,1
+9,11,Giancarlo Fisichella,FIS,Sauber Petronas,66,+67.102s,0
+10,15,Christian Klien,KLI,Jaguar Cosworth,66,+68.578s,0
+11,7,Jarno Trulli,TRU,Renault,66,+70.258s,0
+12,2,Rubens Barrichello,BAR,Ferrari,66,+73.252s,0
+13,12,Felipe Massa,MAS,Sauber Petronas,65,+1 lap,0
+14,17,Olivier Panis,PAN,Toyota,65,+1 lap,0
+15,19,Giorgio Pantano,PAN,Jordan Ford,63,+3 laps,0
+16,21,Zsolt Baumgartner,BAU,Minardi Cosworth,62,+4 laps,0
+17,20,Gianmaria Bruni,BRU,Minardi Cosworth,62,+4 laps,0
+NC,18,Nick Heidfeld,HEI,Jordan Ford,42,DNF,0
+NC,16,Cristiano da Matta,DAM,Toyota,38,DNF,0
+NC,6,Kimi Räikkönen,RAI,McLaren Mercedes,13,DNF,0

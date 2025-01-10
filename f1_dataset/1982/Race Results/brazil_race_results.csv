@@ -1,0 +1,27 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Laps,Time/Retired,Points
+DQ,1,Nelson Piquet,PIQ,Brabham Ford,63,DSQ,0
+DQ,6,Keke Rosberg,ROS,Williams Ford,63,DSQ,0
+1,15,Alain Prost,PRO,Renault,63,1:44:33.134,9
+2,7,John Watson,WAT,McLaren Ford,63,+2.990s,6
+3,12,Nigel Mansell,MAN,Lotus Ford,63,+36.860s,4
+4,3,Michele Alboreto,ALB,Tyrrell Ford,63,+50.760s,3
+5,9,Manfred Winkelhock,WIN,ATS Ford,62,+1 lap,2
+6,28,Didier Pironi,PIR,Ferrari,62,+1 lap,1
+7,4,Slim Borgudd,BOR,Tyrrell Ford,61,+2 laps,0
+8,17,Jochen Mass,MAS,March Ford,61,+2 laps,0
+9,31,Jean-Pierre Jarier,JAR,Osella Ford,60,+3 laps,0
+10,30,Mauro Baldi,BAL,Arrows Ford,57,+6 laps,0
+NC,10,Eliseo Salazar,SAL,ATS Ford,38,DNF,0
+NC,20,Chico Serra,SER,Fittipaldi Ford,36,DNF,0
+NC,2,Riccardo Patrese,PAT,Brabham Ford,34,DNF,0
+NC,27,Gilles Villeneuve,VIL,Ferrari,29,DNF,0
+NC,8,Niki Lauda,LAU,McLaren Ford,22,DNF,0
+NC,16,Rene Arnoux,ARN,Renault,21,DNF,0
+NC,5,Carlos Reutemann,REU,Williams Ford,21,DNF,0
+NC,11,Elio de Angelis,DEA,Lotus Ford,21,DNF,0
+NC,25,Eddie Cheever,CHE,Ligier Matra,19,DNF,0
+NC,23,Bruno Giacomelli,GIA,Alfa Romeo,16,DNF,0
+NC,26,Jacques Laffite,LAF,Ligier Matra,15,DNF,0
+NC,22,Andrea de Cesaris,DEC,Alfa Romeo,14,DNF,0
+NC,33,Derek Daly,DAL,Theodore Ford,12,DNF,0
+NC,18,Raul Boesel,BOE,March Ford,11,DNF,0

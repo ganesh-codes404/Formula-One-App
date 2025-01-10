@@ -1,0 +1,27 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Laps,Time/Retired,Points
+1,6,Ronnie Peterson,PET,Lotus Ford,54,1:41:21.570,9
+2,4,Patrick Depailler,DEP,Tyrrell Ford,54,+47.440s,6
+3,12,Gilles Villeneuve,VIL,Ferrari,54,+99.760s,4
+4,14,Emerson Fittipaldi,FIT,Fittipaldi Ford,53,+1 lap,3
+5,26,Jacques Laffite,LAF,Ligier Matra,53,+1 lap,2
+6,19,Vittorio Brambilla,BRA,Surtees Ford,53,+1 lap,1
+7,2,John Watson,WAT,Brabham Alfa Romeo,53,+1 lap,0
+8,30,Brett Lunger,LUN,McLaren Ford,52,+2 laps,0
+9,31,Rene Arnoux,ARN,Martini Ford,52,+2 laps,0
+NC,17,Clay Regazzoni,REG,Shadow Ford,50,+4 laps,0
+NC,32,Keke Rosberg,ROS,Wolf Ford,49,+5 laps,0
+DQ,22,Derek Daly,DAL,Ensign Ford,43,DSQ,0
+NC,8,Patrick Tambay,TAM,McLaren Ford,40,DNF,0
+NC,16,Hans-Joachim Stuck,STU,Shadow Ford,33,DNF,0
+NC,15,Jean-Pierre Jabouille,JAB,Renault,31,DNF,0
+NC,1,Niki Lauda,LAU,Brabham Alfa Romeo,28,DNF,0
+DQ,11,Carlos Reutemann,REU,Ferrari,27,DSQ,0
+NC,3,Didier Pironi,PIR,Tyrrell Ford,20,DNF,0
+NC,7,James Hunt,HUN,McLaren Ford,8,DNF,0
+NC,27,Alan Jones,JON,Williams Ford,7,DNF,0
+NC,23,Harald Ertl,ERT,Ensign Ford,6,DNF,0
+NC,35,Riccardo Patrese,PAT,Arrows Ford,6,DNF,0
+NC,20,Jody Scheckter,SCH,Wolf Ford,3,DNF,0
+NC,29,Nelson Piquet,PIQ,McLaren Ford,2,DNF,0
+NC,25,Hector Rebaque,REB,Lotus Ford,1,DNF,0
+NC,5,Mario Andretti,AND,Lotus Ford,0,DNF,0

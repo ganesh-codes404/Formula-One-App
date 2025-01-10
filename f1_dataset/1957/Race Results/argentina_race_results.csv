@@ -1,0 +1,18 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Laps,Time/Retired,Points
+1,2,Juan Manuel Fangio,FAN,Maserati,100.0,3:00:55.900,8
+2,6,Jean Behra,BEH,Maserati,100.0,+18.300s,6
+3,8,Carlos Menditeguy,MEN,Maserati,99.0,+1 lap,4
+4,22,Harry Schell,SCH,Maserati,98.0,+2 laps,3
+5,20,Jose Froilan Gonzalez,GON,Ferrari,,SHC,1
+5,20,Alfonso de Portago,DEP,Ferrari,98.0,+2 laps,1
+6,18,Cesare Perdisa,PER,Ferrari,,SHC,0
+6,18,Peter Collins,COL,Ferrari,,SHC,0
+6,18,Wolfgang von Trips,VON,Ferrari,98.0,+2 laps,0
+7,24,Jo Bonnier,BON,Maserati,95.0,+5 laps,0
+8,4,Stirling Moss,MOS,Maserati,93.0,+7 laps,1
+9,26,Alessandro de Tomaso,DET,Ferrari,91.0,+9 laps,0
+10,28,Luigi Piotti,PIO,Maserati,90.0,+10 laps,0
+NC,14,Eugenio Castellotti,CAS,Ferrari,75.0,DNF,0
+NC,16,Mike Hawthorn,HAW,Ferrari,35.0,DNF,0
+NC,12,Luigi Musso,MUS,Ferrari,31.0,DNF,0
+NC,10,Peter Collins,COL,Ferrari,26.0,DNF,0

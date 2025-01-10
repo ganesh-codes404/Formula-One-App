@@ -1,0 +1,25 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Laps,Time/Retired,Points
+1,8,Fernando Alonso,ALO,Ferrari,53,1:16:24.572,25
+2,1,Jenson Button,BUT,McLaren Mercedes,53,+2.938s,18
+3,7,Felipe Massa,MAS,Ferrari,53,+4.223s,15
+4,5,Sebastian Vettel,VET,RBR Renault,53,+28.196s,12
+5,4,Nico Rosberg,ROS,Mercedes,53,+29.942s,10
+6,6,Mark Webber,WEB,RBR Renault,53,+31.276s,8
+7,10,Nico Hulkenberg,HUL,Williams Cosworth,53,+32.812s,6
+8,11,Robert Kubica,KUB,Renault,53,+34.028s,4
+9,3,Michael Schumacher,MSC,Mercedes,53,+44.948s,2
+10,9,Rubens Barrichello,BAR,Williams Cosworth,53,+64.213s,1
+11,16,Sebastien Buemi,BUE,STR Ferrari,53,+65.056s,0
+12,15,Vitantonio Liuzzi,LIU,Force India Mercedes,53,+66.106s,0
+13,12,Vitaly Petrov,PET,Renault,53,+78.919s,0
+14,22,Pedro de la Rosa,DLR,Sauber Ferrari,52,+1 lap,0
+15,17,Jaime Alguersuari,ALG,STR Ferrari,52,+1 lap,0
+16,14,Adrian Sutil,SUT,Force India Mercedes,52,+1 lap,0
+17,24,Timo Glock,GLO,Virgin Cosworth,51,+2 laps,0
+18,19,Heikki Kovalainen,KOV,Lotus Cosworth,51,+2 laps,0
+19,20,Sakon Yamamoto,YAM,HRT Cosworth,51,+2 laps,0
+20,25,Lucas di Grassi,DIG,Virgin Cosworth,50,+3 laps,0
+NC,18,Jarno Trulli,TRU,Lotus Cosworth,46,DNF,0
+NC,21,Bruno Senna,SEN,HRT Cosworth,11,DNF,0
+NC,2,Lewis Hamilton,HAM,McLaren Mercedes,0,DNF,0
+NC,23,Kamui Kobayashi,KOB,Sauber Ferrari,0,DNF,0

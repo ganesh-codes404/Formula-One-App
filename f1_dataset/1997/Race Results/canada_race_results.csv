@@ -1,0 +1,23 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Laps,Time/Retired,Points
+1,5,Michael Schumacher,MSC,Ferrari,54,1:17:40.646,10
+2,7,Jean Alesi,ALE,Benetton Renault,54,+2.565s,6
+3,12,Giancarlo Fisichella,FIS,Jordan Peugeot,54,+3.219s,4
+4,4,Heinz-Harald Frentzen,FRE,Williams Renault,54,+3.768s,3
+5,16,Johnny Herbert,HER,Sauber Petronas,54,+4.716s,2
+6,15,Shinji Nakano,NAK,Prost Mugen Honda,54,+36.701s,1
+7,10,David Coulthard,COU,McLaren Mercedes,54,+37.753s,0
+8,2,Pedro Diniz,DIN,Arrows Yamaha,53,+1 lap,0
+9,1,Damon Hill,HIL,Arrows Yamaha,53,+1 lap,0
+10,17,Gianni Morbidelli,MOR,Sauber Petronas,53,+1 lap,0
+11,14,Olivier Panis,PAN,Prost Mugen Honda,51,DNF,0
+NC,19,Mika Salo,SAL,Tyrrell Ford,46,DNF,0
+NC,18,Jos Verstappen,VER,Tyrrell Ford,42,DNF,0
+NC,8,Alexander Wurz,WUR,Benetton Renault,35,DNF,0
+NC,22,Rubens Barrichello,BAR,Stewart Ford,33,DNF,0
+NC,21,Jarno Trulli,TRU,Minardi Hart,32,DNF,0
+NC,11,Ralf Schumacher,RSC,Jordan Peugeot,14,DNF,0
+NC,20,Ukyo Katayama,KAT,Minardi Hart,5,DNF,0
+NC,3,Jacques Villeneuve,VIL,Williams Renault,1,DNF,0
+NC,6,Eddie Irvine,IRV,Ferrari,0,DNF,0
+NC,9,Mika Hakkinen,HAK,McLaren Mercedes,0,DNF,0
+NC,23,Jan Magnussen,MAG,Stewart Ford,0,DNF,0

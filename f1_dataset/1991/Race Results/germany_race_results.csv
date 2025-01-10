@@ -1,0 +1,26 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Laps,Time/Retired,Points
+1,5,Nigel Mansell,MAN,Williams Renault,45,1:19:29.661,10
+2,6,Riccardo Patrese,PAT,Williams Renault,45,+13.779s,6
+3,28,Jean Alesi,ALE,Ferrari,45,+17.618s,4
+4,2,Gerhard Berger,BER,McLaren Honda,45,+32.651s,3
+5,33,Andrea de Cesaris,DEC,Jordan Ford,45,+77.537s,2
+6,32,Bertrand Gachot,GAC,Jordan Ford,45,+100.605s,1
+7,1,Ayrton Senna,SEN,McLaren Honda,44,DNF,0
+8,19,Roberto Moreno,MOR,Benetton Ford,44,+1 lap,0
+9,25,Thierry Boutsen,BOU,Ligier Lamborghini,44,+1 lap,0
+10,21,Emanuele Pirro,PIR,Dallara Judd,44,+1 lap,0
+11,7,Martin Brundle,BRU,Brabham Yamaha,43,+2 laps,0
+12,8,Mark Blundell,BLU,Brabham Yamaha,43,+2 laps,0
+13,4,Stefano Modena,MOD,Tyrrell Honda,41,+4 laps,0
+NC,27,Alain Prost,PRO,Ferrari,37,DNF,0
+NC,16,Ivan Capelli,CAP,Leyton House Ilmor,36,DNF,0
+NC,22,Jyrki Jarvilehto,JAR,Dallara Judd,35,DNF,0
+NC,20,Nelson Piquet,PIQ,Benetton Ford,27,DNF,0
+NC,3,Satoru Nakajima,NAK,Tyrrell Honda,26,DNF,0
+NC,26,Erik Comas,COM,Ligier Lamborghini,22,DNF,0
+NC,15,Mauricio Gugelmin,GUG,Leyton House Ilmor,21,DNF,0
+NC,11,Mika Hakkinen,HAK,Lotus Judd,19,DNF,0
+NC,30,Aguri Suzuki,SUZ,Lola Ford,15,DNF,0
+NC,24,Gianni Morbidelli,MOR,Minardi Ferrari,14,DNF,0
+NC,23,Pierluigi Martini,MAR,Minardi Ferrari,11,DNF,0
+NC,29,Eric Bernard,BER,Lola Ford,9,DNF,0

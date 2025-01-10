@@ -1,0 +1,33 @@
+Position,Driver Number,Driver,Driver Abbreviation,Car,Laps,Time/Retired,Points
+1,9,Jose Froilan Gonzalez,GON,Ferrari,90.0,2:56:14.000,8.1
+2,11,Mike Hawthorn,HAW,Ferrari,90.0,+70.000s,6.1
+3,33,Onofre Marimon,MAR,Maserati,89.0,+1 lap,4.1
+4,1,Juan Manuel Fangio,FAN,Mercedes-Benz,89.0,+1 lap,3.1
+5,10,Maurice Trintignant,TRI,Ferrari,87.0,+3 laps,2.0
+6,4,Roberto Mieres,MIE,Maserati,87.0,+3 laps,0.0
+7,2,Karl Kling,KLI,Mercedes-Benz,87.0,+3 laps,0.0
+8,8,Ken Wharton,WHA,Maserati,86.0,+4 laps,0.0
+9,19,Andre Pilette,PIL,Gordini,86.0,+4 laps,0.0
+10,29,Bob Gerard,GER,Cooper Bristol,85.0,+5 laps,0.0
+11,25,Don Beauman,BEA,Connaught Lea Francis,84.0,+6 laps,0.0
+12,3,Harry Schell,SCH,Maserati,83.0,+7 laps,0.0
+13,23,Leslie Marr,MAR,Connaught Lea Francis,82.0,+8 laps,0.0
+NC,7,Stirling Moss,MOS,Maserati,80.0,DNF,0.1
+14,26,Leslie Thorne,THO,Connaught Lea Francis,78.0,+12 laps,0.0
+NC,22,Bill Whitehouse,WHI,Connaught Lea Francis,63.0,DNF,0.0
+NC,17,Jean Behra,BEH,Gordini,54.0,DNF,0.1
+NC,5,Roy Salvadori,SAL,Maserati,53.0,DNF,0.0
+NC,6,Prince Bira,BIR,Maserati,,SHC,0.0
+NC,6,Ron Flockhart,FLO,Maserati,44.0,DNF,0.0
+15,28,Horace Gould,GOU,Cooper Bristol,44.0,+46 laps,0.0
+NC,32,Luigi Villoresi,VIL,Maserati,,SHC,0.0
+NC,32,Alberto Ascari,ASC,Maserati,40.0,DNF,0.1
+NC,24,John Riseley-Prichard,RIS,Connaught Lea Francis,40.0,DNF,0.0
+NC,12,Reg Parnell,PAR,Ferrari,25.0,DNF,0.0
+NC,31,Alberto Ascari,ASC,Maserati,21.0,DNF,0.1
+NC,18,Clemar Bucci,BUC,Gordini,18.0,DNF,0.0
+NC,20,Peter Collins,COL,Vanwall,16.0,DNF,0.0
+NC,14,Robert Manzon,MAN,Ferrari,16.0,DNF,0.0
+NC,21,Peter Whitehead,WHI,Cooper Alta,4.0,DNF,0.0
+NC,15,Louis Rosier,ROS,Ferrari,2.0,DNF,0.0
+NC,30,Eric Brandon,BRA,Cooper Bristol,2.0,DNF,0.0
