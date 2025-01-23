@@ -1,8 +1,12 @@
 import os
 import pandas as pd
+import torch
+import torch.nn as nn
+import torch.optim as optim
 from sklearn.model_selection import train_test_split
-from sklearn.naive_bayes import GaussianNB
-from sklearn.metrics import accuracy_score, classification_report, confusion_matrix
+from sklearn.preprocessing import LabelEncoder
+import pandas as pd
+import numpy as np
 
 
 # Define the root directory where F1 dataset is stored
@@ -33,55 +37,118 @@ def read_all_files_in_folder(folder_path):
     
             except Exception as e:
                 print(f"Error reading file {file_name}: {e}")
+    print(df['Position'].dtype)
     def prediction_race(race_data):
-        features = ['Position','Driver Number','Driver','Driver Abbreviation','Car','Laps','Time/Retired','Points']
-        target = 'Position' 
-        race_data_encoded = pd.get_dummies(race_data[features])
-        race_data_encoded['Target'] = (race_data[target] == 1).astype(int)  # Winner is Position == 1
+        df = race_data
+        df['Position'] = pd.to_numeric(df['Position'], errors='coerce')
+        # Check the data types of the columns
 
-        # Split features and target
-        X = race_data_encoded.drop('Target', axis=1)
-        y = race_data_encoded['Target']
 
-        # Train-test split
-        X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_state=42)
+        # 1. Preprocess Data (Encode Categorical Features)
+        le_driver = LabelEncoder()
+        le_car = LabelEncoder()
 
-        # Train the Naive Bayes model
-        model = GaussianNB()
-        model.fit(X_train, y_train)
-        y_pred = model.predict(X_test)
-        accuracy = accuracy_score(y_test, y_pred)
-        conf_matrix = confusion_matrix(y_test, y_pred)
-        class_report = classification_report(y_test, y_pred)
-        # Make predictions
-        
-        print("\nModel Evaluation:")
-        print(f"Accuracy: {accuracy:.2f}")
-        print("\nConfusion Matrix:")
-        print(conf_matrix)
-        print("\nClassification Report:")
-        print(class_report)
+        df['Driver'] = le_driver.fit_transform(df['Driver'])
+        df['Car'] = le_car.fit_transform(df['Car'])
 
-        # Predict for a new race (Example input)
-        new_race = {
-            'Driver Number': [44],
-            'Driver': ['Max Verstappen'],
-            'Driver Abbreviation': ['VER'],
-             'Car':['Red Bull Racing Honda'],# Replace with actual features and values
-        }
+        # 2. Features and Target
+        X = df[['Driver', 'Car']]  # Input features: Driver and Car
+        y = df['Position']  # Target: Position
 
-        # Convert to DataFrame and encode
-        new_race_df = pd.DataFrame(new_race)
-        new_race_encoded = pd.get_dummies(new_race_df)
-        new_race_encoded = new_race_encoded.reindex(columns=X.columns, fill_value=0)
+        # 3. Train-Test Split
+        X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
 
-        # Predict the probability of winning
-        new_race_pred = model.predict(new_race_encoded)
-        new_race_prob = model.predict_proba(new_race_encoded)
+        # Convert to PyTorch tensors
+        X_train = torch.tensor(X_train.values, dtype=torch.float32)
+        X_test = torch.tensor(X_test.values, dtype=torch.float32)
+        y_train = torch.tensor(y_train.values, dtype=torch.float32).unsqueeze(1)
+        y_test = torch.tensor(y_test.values, dtype=torch.float32).unsqueeze(1)
 
-        print("\nPrediction for New Race:")
-        # print(f"Winning Probability: {new_race_prob[0][1]:.4f}")
-        print(f"Prediction: {'Winner' if new_race_pred[0] == 1 else 'Not Winner'}")
+        # 4. Define Neural Network Model
+        class F1Predictor(nn.Module):
+            def __init__(self):
+                super(F1Predictor, self).__init__()
+                self.fc1 = nn.Linear(2, 64)  # 2 inputs (Driver, Car)
+                self.fc2 = nn.Linear(64, 32)
+                self.fc3 = nn.Linear(32, 1)  # Output: Position (regression)
+
+            def forward(self, x):
+                x = torch.relu(self.fc1(x))
+                x = torch.relu(self.fc2(x))
+                x = self.fc3(x)
+                return x
+
+        # Initialize model, loss function, and optimizer
+        model = F1Predictor()
+        criterion = nn.MSELoss()  # Mean Squared Error loss for regression
+        optimizer = optim.Adam(model.parameters(), lr=0.0001)
+
+        # 5. Train the Model
+        epochs = 100
+        for epoch in range(epochs):
+            model.train()
+            optimizer.zero_grad()
+            outputs = model(X_train)
+            loss = criterion(outputs, y_train)
+            loss.backward()
+            optimizer.step()
+
+            if (epoch + 1) % 10 == 0:
+                print(f"Epoch {epoch+1}/{epochs}, Loss: {loss.item():.4f}")
+            # Assume model and optimizer have been defined
+            optimizer = torch.optim.Adam(model.parameters(), lr=0.0001)  # Use a smaller learning rate
+
+            # Training loop
+            for epoch in range(100):
+                model.train()
+                
+                # Zero the gradients
+                optimizer.zero_grad()
+
+                # Forward pass
+                predictions = model(X_train)
+                
+                # Calculate loss
+                loss = criterion(predictions, y_train)
+                
+                # Check for NaN loss
+                if torch.isnan(loss):
+                    print(f"NaN loss at epoch {epoch}")
+                    break
+
+                # Backward pass
+                loss.backward()
+
+                # Clip gradients if necessary
+                torch.nn.utils.clip_grad_norm_(model.parameters(), max_norm=1.0)
+
+                # Update weights
+                optimizer.step()
+                
+                # Print loss every 10 epochs
+                if epoch % 10 == 0:
+                    print(f"Epoch {epoch+1}/100, Loss: {loss.item()}")
+
+            # Final check for NaN or Inf in predictions
+            print(torch.isnan(predictions).any(), torch.isinf(predictions).any())
+
+        # 6. Evaluate the Model
+        model.eval()
+        with torch.no_grad():
+            predictions = model(X_test)
+            predictions = predictions.squeeze().round().int()
+            accuracy = (predictions == y_test.squeeze().int()).float().mean()
+            print(f"Accuracy: {accuracy:.4f}")
+
+        # 7. Predict for New Inputs (Example: Predict Position for Hamilton in a Mercedes)
+        driver_input = le_driver.transform(['Lewis Hamilton'])
+        car_input = le_car.transform(['Mercedes'])
+        new_data = torch.tensor([[driver_input[0], car_input[0]]], dtype=torch.float32)
+
+        model.eval()
+        with torch.no_grad():
+            predicted_position = model(new_data).item()
+            print(f"Predicted Position: {predicted_position:.2f}")
     prediction_race(df)
 
 # Read all qualifying results files

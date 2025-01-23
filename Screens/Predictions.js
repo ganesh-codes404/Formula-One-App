@@ -96,8 +96,7 @@
 // });
 import React, { useEffect, useState } from "react";
 import { View, Text, Button, StyleSheet, ActivityIndicator } from "react-native";
-import * as tf from "@tensorflow/tfjs";
-import "@tensorflow/tfjs-react-native"; // Required for React Native compatibility
+ // Required for React Native compatibility
 
 export default function Predictions() {
   const [model, setModel] = useState(null);
