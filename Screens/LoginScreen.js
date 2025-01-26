@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import { View, TextInput, Button, StyleSheet, Text, Image } from 'react-native';
+import RegisterScreen from './RegisterScreen';
 
 export default function LoginScreen({ navigation }) {
   const [username, setUsername] = useState('');
@@ -45,7 +46,7 @@ export default function LoginScreen({ navigation }) {
         style={styles.input}
       />
       <Button title="Login" onPress={handleLogin} />
-      <Button title="Register" onPress={() => alert("Registration not implemented")} />
+      <Button title="Register" onPress={() => navigation.replace('RegisterScreen')} />
     </View>
   );
 }

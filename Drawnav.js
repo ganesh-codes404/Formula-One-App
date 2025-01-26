@@ -5,6 +5,7 @@ import { NavigationContainer } from '@react-navigation/native';
 import { createStackNavigator } from '@react-navigation/stack'; // Stack Navigator for Login
 import HomeScreen from './Screens/Home';
 import SettingsScreen from './Screens/Settings';
+import RegisterScreen from './Screens/RegisterScreen';
 import ProfileScreen from './Screens/ProfileScreen';
 import StandingsScreen from './Screens/Standings';
 import LoginScreen from './Screens/LoginScreen'; // Import the new Login screen
@@ -97,22 +98,37 @@ const DrawerNavigation = () => (
 
 export default function Navigation() {
   return (
-    <NavigationContainer>
-      <Stack.Navigator initialRouteName="Login">
-        {/* Login Screen */}
-        <Stack.Screen
-          name="Login"
-          component={LoginScreen}
-          options={{ headerShown: false }} // Hide header for the login screen
-        />
-        {/* Drawer Navigation after Login */}
-        <Stack.Screen
-          name="DrawerNavigation"
-          component={DrawerNavigation}
-          options={{ headerShown: false }} // Hide header in the drawer after login
-        />
-      </Stack.Navigator>
-    </NavigationContainer>
+<NavigationContainer>
+  <Stack.Navigator initialRouteName="Login">
+
+    {/* Login Screen */}
+    <Stack.Screen
+      name="Login"
+      component={LoginScreen}
+      options={{ headerShown: false }} 
+    />
+
+    {/* Register Screen */}
+    <Stack.Screen
+      name="RegisterScreen"
+      component={RegisterScreen}
+      options={{ headerShown: false }} 
+    />
+      <Stack.Screen 
+          name="HomeScreen" 
+          component={HomeScreen} 
+          options={{ headerShown: false }} 
+      />
+    {/* Drawer Navigation after Login */}
+    <Stack.Screen
+      name="DrawerNavigation"
+      component={DrawerNavigation}
+      options={{ headerShown: false }} 
+    />
+    
+  </Stack.Navigator>
+</NavigationContainer>
+
   );
 }
 
