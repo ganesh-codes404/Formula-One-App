@@ -6,7 +6,6 @@ export default function LoginScreen({ navigation }) {
   const [username, setUsername] = useState('');
   const [password, setPassword] = useState('');
 
-  // Predefined usernames for each F1 team
   const validTeams = {
     Ferrari: 'ferrari123',
     Mercedes: 'mercedes123',

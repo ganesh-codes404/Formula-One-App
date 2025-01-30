@@ -1,7 +1,8 @@
 import { StyleSheet, Text, View, Image, FlatList, ActivityIndicator } from "react-native";
 import React, { useState, useEffect } from 'react';
+import { ProgressViewIOSBase } from "react-native";
+import {API_KEY} from "@env"
 
-// Mock user's chosen F1 team (In production, retrieve from app state or API)
 const userSelectedTeam = "Ferrari"; 
 
 export default function HomeScreen() {
@@ -14,7 +15,8 @@ export default function HomeScreen() {
 
   const fetchF1News = async () => {
     try {
-      const response = await fetch(`https://newsapi.org/v2/everything?q=${userSelectedTeam}+F1&apiKey=82263c022e2840eb870af4b65870e179`);
+
+      const response = await fetch(`https://newsapi.org/v2/everything?q=${userSelectedTeam}+F1&apiKey=${API_KEY}`);
 
       const data = await response.json();
       setNews(data.articles);

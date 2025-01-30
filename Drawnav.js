@@ -12,7 +12,7 @@ import LoginScreen from './Screens/LoginScreen'; // Import the new Login screen
 import Ionicons from '@expo/vector-icons/Ionicons';
 import MaterialCommunityIcons from '@expo/vector-icons/MaterialCommunityIcons';
 import Predictions from './Screens/Predictions';
-import whatifScreen from './Screens/what-if';
+import WhatifScreen from './Screens/what-if';
 const Drawer = createDrawerNavigator();
 const Stack = createStackNavigator();
 
@@ -63,7 +63,7 @@ const DrawerNavigation = () => (
     />
     <Drawer.Screen
       name="What-if"
-      component={whatifScreen}
+      component={WhatifScreen}
       options={{
         title: 'What-if',
         drawerIcon: ({ focused, size }) => (
