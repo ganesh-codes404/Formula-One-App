@@ -13,6 +13,7 @@ import Ionicons from '@expo/vector-icons/Ionicons';
 import MaterialCommunityIcons from '@expo/vector-icons/MaterialCommunityIcons';
 import Predictions from './Screens/Predictions';
 import WhatifScreen from './Screens/what-if';
+import LiveScreen from './Screens/LiveScreen';
 const Drawer = createDrawerNavigator();
 const Stack = createStackNavigator();
 
@@ -68,6 +69,17 @@ const DrawerNavigation = () => (
         title: 'What-if',
         drawerIcon: ({ focused, size }) => (
           <Ionicons name={focused ? "settings-sharp" : "settings-outline"} size={24} color="black" />
+        ),
+      }}
+    />
+        <Drawer.Screen
+      name="LiveScreen"
+      component={LiveScreen}
+      options={{
+        title: 'LiveScreen',
+        drawerIcon: ({ focused, size }) => (
+          <Ionicons name={focused ? "settings-sharp" : "settings-outline"} size={24} color="black" />
+          
         ),
       }}
     />

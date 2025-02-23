@@ -1,3 +1,4 @@
+
 import React, { useState } from 'react';
 import { View, TextInput, Button, StyleSheet, Text, Image } from 'react-native';
 import RegisterScreen from './RegisterScreen';
@@ -32,7 +33,7 @@ export default function LoginScreen({ navigation }) {
       <Image source={require("../assets/Login_Screen_logo.jpeg")} style={styles.logo} />
       <Text style={styles.title}>WELCOME TO FORMULA 1</Text>
       <TextInput
-        placeholder="Enter your F1 Team (e.g. Ferrari)"
+        placeholder="Username"
         value={username}
         onChangeText={setUsername}
         style={styles.input}

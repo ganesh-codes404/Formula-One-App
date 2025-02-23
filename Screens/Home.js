@@ -1,9 +1,10 @@
 import { StyleSheet, Text, View, Image, FlatList, ActivityIndicator } from "react-native";
 import React, { useState, useEffect } from 'react';
 import { ProgressViewIOSBase } from "react-native";
+import  { useContext } from 'react';
 import {API_KEY} from "@env"
 
-const userSelectedTeam = "Ferrari"; 
+const userSelectedTeam  = "Ferrari";
 
 export default function HomeScreen() {
   const [news, setNews] = useState([]);

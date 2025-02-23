@@ -9,18 +9,17 @@ import pandas as pd
 import numpy as np
 
 
-# Define the root directory where F1 dataset is stored
+
 root_dir = "/Users/ganeshk/Formula1/f1_dataset"
 
-# Path for the year 1950
 for i in range (2021,2022):
     year_folder = str(i)
-qualifying_folder = os.path.join(root_dir, year_folder, "Qualifying Results")  # Corrected folder name
+qualifying_folder = os.path.join(root_dir, year_folder, "Qualifying Results")  
 race_folder = os.path.join(root_dir, year_folder, "Race Results")
 
-# Function to read all files in a folder and print them
+
 def read_all_files_in_folder(folder_path):
-    # List all files in the folder
+
     files = os.listdir(folder_path)
     
     # Iterate through all files in the folder
