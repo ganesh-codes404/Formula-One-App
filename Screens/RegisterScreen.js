@@ -4,7 +4,7 @@ import axios from 'axios';
 import { useForm, Controller } from 'react-hook-form';
 import { Picker } from '@react-native-picker/picker';
 export default function RegisterScreen() {
-const RegisterScreen = () => {
+
     const { control, handleSubmit, formState: { errors } } = useForm();
     const [loading, setLoading] = useState(false);
     const [favTeam, setFavTeam] = useState('');
@@ -82,8 +82,7 @@ const RegisterScreen = () => {
             <Picker
                 selectedValue={favTeam}
                 style={styles.picker}
-                onValueChange={(itemValue) => setFavTeam(itemValue)}
-            >
+                onValueChange={(itemValue) => setFavTeam(itemValue)}>
                 <Picker.Item label="Select a team..." value="" />
                 <Picker.Item label="Ferrari" value="Ferrari" />
                 <Picker.Item label="Mercedes" value="Mercedes" />
@@ -127,35 +126,18 @@ const styles = StyleSheet.create({
         padding: 10,
         marginBottom: 10,
     },
-    picker: {
+    dropdown: {
         width: '100%',
-        height: 50,
         borderWidth: 1,
         borderColor: '#ccc',
-        marginBottom: 10,
-    },
-    button: {
-        backgroundColor: '#ff1e00',
-        padding: 15,
         borderRadius: 8,
-        width: '100%',
-        alignItems: 'center',
-    },
-    buttonText: {
-        color: '#fff',
-        fontSize: 16,
-        fontWeight: 'bold',
-    },
-    label: {
-        alignSelf: 'flex-start',
-        fontSize: 16,
-        fontWeight: '600',
-        marginBottom: 5,
-    },
-    error: {
-        color: 'red',
+        padding: 10,
         marginBottom: 10,
-    }
+    },
+    dropdownText: {
+        fontSize: 16,
+    },
+    dropdownList: {
+        width: '100%',
+    },
 });
-
-}
