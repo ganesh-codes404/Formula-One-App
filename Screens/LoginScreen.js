@@ -1,12 +1,12 @@
 import React, { useState, useEffect } from 'react';
 import { View, TextInput, StyleSheet, Text, Image, ImageBackground, Animated, TouchableOpacity } from 'react-native';
-import RegisterScreen from './RegisterScreen';
+import AsyncStorage from '@react-native-async-storage/async-storage';
 
 export default function LoginScreen({ navigation }) {
   const [username, setUsername] = useState('');
   const [password, setPassword] = useState('');
   const fadeAnim = useState(new Animated.Value(0))[0];
-  const logoPosition = useState(new Animated.Value(50))[0]; // Adjusted position upwards
+  const logoPosition = useState(new Animated.Value(50))[0];
   const [showSplash, setShowSplash] = useState(true);
 
   useEffect(() => {
@@ -19,7 +19,7 @@ export default function LoginScreen({ navigation }) {
 
   useEffect(() => {
     Animated.timing(logoPosition, {
-      toValue: -150, // Moves logo higher up
+      toValue: -150, 
       duration: 1500,
       useNativeDriver: true,
     }).start(() => setShowSplash(false));
@@ -38,9 +38,14 @@ export default function LoginScreen({ navigation }) {
     Haas: 'haas123',
   };
 
-  const handleLogin = () => {
+  const handleLogin = async () => {
     if (validTeams[username] && password === validTeams[username]) {
-      navigation.replace('DrawerNavigation');
+      try {
+        await AsyncStorage.setItem('username', username); 
+        navigation.replace('DrawerNavigation');
+      } catch (error) {
+        console.error('Failed to save username:', error);
+      }
     } else {
       alert('Invalid credentials');
     }

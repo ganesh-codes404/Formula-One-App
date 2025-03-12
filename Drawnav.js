@@ -147,7 +147,7 @@ export default function Navigation() {
 const styles = StyleSheet.create({
   logo: {
     width: '100%',
-    height: 150,  // Adjust height based on your logo size
+    height: 150,  
     resizeMode: 'contain',
     marginBottom: 20,
   },

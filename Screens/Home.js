@@ -280,39 +280,295 @@
 //   },
 // });
 
-import { StyleSheet, Text, View, Image, FlatList, ActivityIndicator, ScrollView } from "react-native";
+// import { StyleSheet, Text, View, Image, FlatList, ActivityIndicator, ScrollView } from "react-native";
+// import React, { useState, useEffect, useCallback } from "react";
+// import { useFocusEffect } from "@react-navigation/native"; 
+// import AsyncStorage from "@react-native-async-storage/async-storage";
+// import { API_KEY } from "@env";
+// import { Dimensions } from "react-native";
+
+// const { width } = Dimensions.get("window");
+
+// const userSelectedTeam = "Ferrari";
+
+// export default function HomeScreen() {
+//   const [isDarkMode, setIsDarkMode] = useState(false);
+//   const [news, setNews] = useState([]);
+//   const [loading, setLoading] = useState(true);
+
+//   useFocusEffect(
+//     useCallback(() => {
+//       const fetchDarkMode = async () => {
+//         const value = await AsyncStorage.getItem("darkMode");
+//         if (value !== null) {
+//           setIsDarkMode(JSON.parse(value));
+//         }
+//       };
+//       fetchDarkMode();
+//     }, [])
+//   );
+
+//   useEffect(() => {
+//     fetchF1News();
+//   }, []);
+
+//   const fetchF1News = async () => {
+//     try {
+//       const response = await fetch(
+//         `https://newsapi.org/v2/everything?q=${userSelectedTeam}+F1&apiKey=${API_KEY}`
+//       );
+//       const data = await response.json();
+//       setNews(data.articles || []);
+//     } catch (error) {
+//       console.error("Error fetching news:", error);
+//     } finally {
+//       setLoading(false);
+//     }
+//   };
+
+//   const renderNewsItem = ({ item }) => (
+//     <View style={[styles.newsItem, isDarkMode ? styles.newsItemDark : styles.newsItemLight]}>
+//       {item.urlToImage && <Image source={{ uri: item.urlToImage }} style={styles.newsImage} />}
+//       <Text style={[styles.newsTitle, isDarkMode ? styles.textDark : styles.textLight]}>
+//         {item.title}
+//       </Text>
+//       <Text style={[styles.newsDescription, isDarkMode ? styles.textDark : styles.textLight]}>
+//         {item.description}
+//       </Text>
+//     </View>
+//   );
+
+//   return (
+//     <ScrollView style={[styles.container, isDarkMode ? styles.dark : styles.light]}>
+//       <Text  style={[styles.meet, isDarkMode ? styles.meetDark : styles.textLight]}>Meet the Drivers</Text>
+//       {/* Driver Images - Refined Border & Layout */}
+//       <View style={styles.driverContainer}>
+        
+//                 <View style={styles.driverCard}>
+//           <Image source={require("../assets/Leclerc_home.jpg")} style={[styles.driverImage,isDarkMode ? styles.driverCardDark : styles.driverCard]} />
+//         </View>
+//         <View style={[styles.driverImage,isDarkMode ? styles.driverCardDark : styles.driverCard]}>
+//           <Image source={require("../assets/Hamilton_home.jpg")} style={[styles.driverImage,isDarkMode ? styles.driverCardDark : styles.driverCard]} />
+//         </View>
+
+//       </View>
+
+//       {/* News Section */}
+//       <View style={styles.content}>
+//         <Text style={[styles.header, isDarkMode ? styles.headerDark : styles.textLight]}>
+//           Latest {userSelectedTeam} News
+//         </Text>
+//         {loading ? (
+//           <ActivityIndicator size="large" color="#F70D1A" />
+//         ) : (
+//           <FlatList
+//             data={news}
+//             keyExtractor={(item, index) => index.toString()}
+//             renderItem={renderNewsItem}
+//             scrollEnabled={false} // Prevents inner scrolling
+//           />
+//         )}
+//       </View>
+//     </ScrollView>
+//   );
+// }
+
+// const styles = StyleSheet.create({
+//   container: { flex: 1 },
+//   light: { backgroundColor: "white" },
+//   dark: { backgroundColor: "#121212" },
+//   textLight: { color: "black" },
+//   textDark: { color: "white" },
+
+//   // Driver Card Styles (Improved Borders)
+//   driverContainer: {
+//     flexDirection: "row",
+//     justifyContent: "center",
+//     alignItems: "center",
+//     marginTop: 20,
+//     gap: 15, // Adds spacing between the cards
+//   },
+//   driverCardDark: {
+//     width: width * 0.45,
+//     backgroundColor: "#00000",
+//     borderRadius: 20, // More rounded edges
+//     overflow: "hidden",
+//     borderWidth: 2, // Subtle border effect
+//     borderColor: "#fff200", // Soft gray border for a premium look
+//     shadowColor: "#000",
+//     shadowOffset: { width: 0, height: 6 },
+//     shadowOpacity: 0.25,
+//     shadowRadius: 10,
+//     elevation: 10, // Stronger shadow for depth
+//   },
+//   driverCard: {
+//     width: width * 0.45,
+//     backgroundColor: "#00000",
+//     borderRadius: 20, // More rounded edges
+//     overflow: "hidden",
+//     borderWidth: 2, // Subtle border effect
+//     borderColor: "#fff200", // Soft gray border for a premium look
+//     shadowColor: "#000",
+//     shadowOffset: { width: 0, height: 6 },
+//     shadowOpacity: 0.25,
+//     shadowRadius: 10,
+//     elevation: 10, // Stronger shadow for depth
+//   },
+//   driverImage: {
+//     width: "100%",
+//     height: 220,
+//     resizeMode: "cover",
+//   },
+
+//   // News Section
+//   content: {
+//     flex: 1,
+//     paddingHorizontal: 20,
+//     marginTop: 20,
+//   },
+//   header: {
+//     fontSize: 22,
+//     fontWeight: "bold",
+//     color: "#F70D1A",
+//     marginBottom: 10,
+//   },
+//   headerDark: {
+//     fontSize: 22,
+//     fontWeight: "bold",
+//     color: "#ff2800",
+//     marginBottom: 10,
+//   },
+//  meet:{      fontSize: 17,
+//   fontWeight: "bold",
+//   color: "#00000",
+//   marginBottom: 0,
+// paddingLeft:150,
+// paddingTop:10,},
+
+//   meetDark:{    fontSize: 17,
+//     fontWeight: "bold",
+//     color: "#ff2800",
+//     marginBottom: 0,
+//   paddingLeft:150,
+// paddingTop:10,},
+//   // News Item Styles
+//   newsItem: {
+//     marginBottom: 20,
+//     borderRadius: 10,
+//     padding: 10,
+//   },
+//   newsItemLight: {
+//     backgroundColor: "#f1f1f1",
+//   },
+//   newsItemDark: {
+//     backgroundColor: "#222",
+//   },
+//   newsImage: {
+//     width: "100%",
+//     height: 150,
+//     borderRadius: 10,
+//   },
+//   newsTitle: {
+//     fontSize: 18,
+//     fontWeight: "bold",
+//     marginVertical: 5,
+//   },
+//   newsDescription: {
+//     fontSize: 14,
+//   },
+// });
 import React, { useState, useEffect, useCallback } from "react";
-import { useFocusEffect } from "@react-navigation/native"; 
+import {
+  StyleSheet,
+  Text,
+  View,
+  Image,
+  FlatList,
+  ActivityIndicator,
+  ScrollView,
+  Dimensions,
+} from "react-native";
+import { useFocusEffect } from "@react-navigation/native";
 import AsyncStorage from "@react-native-async-storage/async-storage";
 import { API_KEY } from "@env";
-import { Dimensions } from "react-native";
 
 const { width } = Dimensions.get("window");
 
-const userSelectedTeam = "Ferrari";
+const teamDrivers = {
+  Ferrari: [require("../assets/Charles.jpg"), require("../assets/Lewis.jpg")],
+  Mercedes: [require("../assets/Kimi.jpg"), require("../assets/Russell.jpg")],
+  RedBull: [require("../assets/Liam.jpg"), require("../assets/Max.jpg")],
+  McLaren: [require("../assets/Oscar.jpg"), require("../assets/Lando.jpg")],
+  Williams: [require("../assets/Albon.jpg"), require("../assets/Sainz.jpg")],
+  AstonMartin: [require("../assets/Alonso.jpg"), require("../assets/Stroll.jpg")],
+  Alpine: [require("../assets/Jack.jpg"), require("../assets/Pierre.jpg")],
+  RacingBulls: [require("../assets/Yuki.jpg"), require("../assets/Yuki.jpg")],
+  Haas: [require("../assets/Jack.jpg"), require("../assets/Pierre.jpg")],
+  KickSauber: [require("../assets/Jack.jpg"), require("../assets/Pierre.jpg")],
+};
+
+
+const teamColors = {
+  Ferrari: "#F70D1A",
+  Mercedes: "#00A19C",
+  RedBull: "#1E41FF",
+  McLaren: "#FF8000",
+  Williams: "#005AFF",
+  AstonMartin: "#006F62",
+  Alpine: "#0090FF",
+  RacingBulls: "#00293F",
+  Haas: "#B6BABD",
+  KickSauber: "#52E252",
+};
 
 export default function HomeScreen() {
   const [isDarkMode, setIsDarkMode] = useState(false);
   const [news, setNews] = useState([]);
   const [loading, setLoading] = useState(true);
+  const [userSelectedTeam, setUserSelectedTeam] = useState(null);
+  const [themeColor, setThemeColor] = useState("#F70D1A");
 
   useFocusEffect(
     useCallback(() => {
-      const fetchDarkMode = async () => {
-        const value = await AsyncStorage.getItem("darkMode");
-        if (value !== null) {
-          setIsDarkMode(JSON.parse(value));
+      const fetchSettings = async () => {
+        try {
+
+          const darkModeValue = await AsyncStorage.getItem("darkMode");
+          if (darkModeValue !== null) {
+            setIsDarkMode(JSON.parse(darkModeValue));
+          }
+
+
+          const storedTeam = await AsyncStorage.getItem("selectedTeam");
+
+          if (storedTeam && teamColors[storedTeam]) {
+            console.log(" Fetched Team from Storage:", storedTeam);
+            setUserSelectedTeam(storedTeam);
+            setThemeColor(teamColors[storedTeam]);
+          } else {
+            console.warn(" No team found in storage. Setting default to Ferrari.");
+            setUserSelectedTeam("Ferrari");
+            setThemeColor(teamColors["Ferrari"]);
+
+
+            await AsyncStorage.setItem("selectedTeam", "Ferrari");
+          }
+        } catch (error) {
+          console.error("Error fetching user settings:", error);
         }
       };
-      fetchDarkMode();
+      fetchSettings();
     }, [])
   );
 
   useEffect(() => {
-    fetchF1News();
-  }, []);
+    if (userSelectedTeam) {
+      fetchF1News();
+    }
+  }, [userSelectedTeam]);
 
   const fetchF1News = async () => {
+    setLoading(true);
     try {
       const response = await fetch(
         `https://newsapi.org/v2/everything?q=${userSelectedTeam}+F1&apiKey=${API_KEY}`
@@ -339,33 +595,33 @@ export default function HomeScreen() {
   );
 
   return (
-    <ScrollView style={[styles.container, isDarkMode ? styles.dark : styles.light]}>
-      <Text  style={[styles.meet, isDarkMode ? styles.meetDark : styles.textLight]}>Meet the Drivers</Text>
-      {/* Driver Images - Refined Border & Layout */}
-      <View style={styles.driverContainer}>
-        
-                <View style={styles.driverCard}>
-          <Image source={require("../assets/Leclerc_home.jpg")} style={[styles.driverImage,isDarkMode ? styles.driverCardDark : styles.driverCard]} />
-        </View>
-        <View style={[styles.driverImage,isDarkMode ? styles.driverCardDark : styles.driverCard]}>
-          <Image source={require("../assets/Hamilton_home.jpg")} style={[styles.driverImage,isDarkMode ? styles.driverCardDark : styles.driverCard]} />
-        </View>
+    <ScrollView style={[styles.container, { backgroundColor: isDarkMode ? "#121212" : "white" }]}>
+      <Text style={[styles.meet, { color: themeColor }]}>Meet the Drivers</Text>
 
+      <View style={styles.driverContainer}>
+        {userSelectedTeam && teamDrivers[userSelectedTeam] ? (
+          teamDrivers[userSelectedTeam].map((image, index) => (
+            <View key={index} style={[styles.driverCard, { borderColor: themeColor }]}>
+              <Image source={image} style={styles.driverImage} />
+            </View>
+          ))
+        ) : (
+          <Text style={styles.errorText}>No drivers found for {userSelectedTeam}</Text>
+        )}
       </View>
 
-      {/* News Section */}
       <View style={styles.content}>
-        <Text style={[styles.header, isDarkMode ? styles.headerDark : styles.textLight]}>
+        <Text style={[styles.header, { color: themeColor }]}>
           Latest {userSelectedTeam} News
         </Text>
         {loading ? (
-          <ActivityIndicator size="large" color="#F70D1A" />
+          <ActivityIndicator size="large" color={themeColor} />
         ) : (
           <FlatList
             data={news}
             keyExtractor={(item, index) => index.toString()}
             renderItem={renderNewsItem}
-            scrollEnabled={false} // Prevents inner scrolling
+            scrollEnabled={false}
           />
         )}
       </View>
@@ -375,52 +631,32 @@ export default function HomeScreen() {
 
 const styles = StyleSheet.create({
   container: { flex: 1 },
-  light: { backgroundColor: "white" },
-  dark: { backgroundColor: "#121212" },
   textLight: { color: "black" },
   textDark: { color: "white" },
-
-  // Driver Card Styles (Improved Borders)
   driverContainer: {
     flexDirection: "row",
     justifyContent: "center",
     alignItems: "center",
     marginTop: 20,
-    gap: 15, // Adds spacing between the cards
-  },
-  driverCardDark: {
-    width: width * 0.45,
-    backgroundColor: "#00000",
-    borderRadius: 20, // More rounded edges
-    overflow: "hidden",
-    borderWidth: 2, // Subtle border effect
-    borderColor: "#fff200", // Soft gray border for a premium look
-    shadowColor: "#000",
-    shadowOffset: { width: 0, height: 6 },
-    shadowOpacity: 0.25,
-    shadowRadius: 10,
-    elevation: 10, // Stronger shadow for depth
+    gap: 15,
   },
   driverCard: {
-    width: width * 0.45,
+    width: width * 0.45 + 10,
     backgroundColor: "#00000",
-    borderRadius: 20, // More rounded edges
+    borderRadius: 20,
     overflow: "hidden",
-    borderWidth: 2, // Subtle border effect
-    borderColor: "#fff200", // Soft gray border for a premium look
+    borderWidth: 2,
     shadowColor: "#000",
     shadowOffset: { width: 0, height: 6 },
     shadowOpacity: 0.25,
     shadowRadius: 10,
-    elevation: 10, // Stronger shadow for depth
+    elevation: 10,
   },
   driverImage: {
-    width: "100%",
-    height: 220,
+    width: 200,
+    height: 250,
     resizeMode: "cover",
   },
-
-  // News Section
   content: {
     flex: 1,
     paddingHorizontal: 20,
@@ -429,29 +665,15 @@ const styles = StyleSheet.create({
   header: {
     fontSize: 22,
     fontWeight: "bold",
-    color: "#F70D1A",
     marginBottom: 10,
   },
-  headerDark: {
-    fontSize: 22,
+  meet: {
+    fontSize: 17,
     fontWeight: "bold",
-    color: "#ff2800",
-    marginBottom: 10,
-  },
- meet:{      fontSize: 17,
-  fontWeight: "bold",
-  color: "#00000",
-  marginBottom: 0,
-paddingLeft:150,
-paddingTop:10,},
-
-  meetDark:{    fontSize: 17,
-    fontWeight: "bold",
-    color: "#ff2800",
     marginBottom: 0,
-  paddingLeft:150,
-paddingTop:10,},
-  // News Item Styles
+    textAlign: "center",
+    paddingTop: 10,
+  },
   newsItem: {
     marginBottom: 20,
     borderRadius: 10,
@@ -475,5 +697,10 @@ paddingTop:10,},
   },
   newsDescription: {
     fontSize: 14,
+  },
+  errorText: {
+    color: "red",
+    textAlign: "center",
+    marginTop: 20,
   },
 });

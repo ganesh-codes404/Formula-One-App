@@ -1,81 +1,122 @@
-import React, { useState, useEffect, useRef } from "react";
-import { View, Text, Switch, StyleSheet, Animated } from "react-native";
+import React, { useState, useEffect } from "react";
+import { View, Text, Switch, StyleSheet, ImageBackground } from "react-native";
 import AsyncStorage from "@react-native-async-storage/async-storage";
+
+const teamBackgrounds = {
+  Ferrari: require("../assets/Ferrari_BG_Toggle.jpeg"),
+};
 
 export default function SettingsScreen() {
   const [isDarkMode, setIsDarkMode] = useState(false);
-  const fadeAnim = useRef(new Animated.Value(1)).current; // Default to fully visible
+  const [useTeamColor, setUseTeamColor] = useState(false);
+  const [username, setUsername] = useState(null);
 
   useEffect(() => {
-    const loadTheme = async () => {
-      const value = await AsyncStorage.getItem("darkMode");
-      if (value !== null) {
-        setIsDarkMode(JSON.parse(value));
+    const loadSettings = async () => {
+      try {
+        const darkModeValue = await AsyncStorage.getItem("darkMode");
+        const teamColorValue = await AsyncStorage.getItem("useTeamColor");
+        const storedUsername = await AsyncStorage.getItem("username");
+
+        console.log("Fetched from Storage:", { darkModeValue, teamColorValue, storedUsername });
+
+        if (darkModeValue !== null) setIsDarkMode(JSON.parse(darkModeValue));
+        if (teamColorValue !== null) setUseTeamColor(JSON.parse(teamColorValue));
+        if (storedUsername !== null) setUsername(storedUsername);
+      } catch (error) {
+        console.error("Error loading settings:", error);
       }
     };
-    loadTheme();
+    loadSettings();
   }, []);
 
   const toggleTheme = async () => {
-    // Start fade out
-    Animated.timing(fadeAnim, {
-      toValue: 0,
-      duration: 300, // Fade out duration
-      useNativeDriver: false,
-    }).start(() => {
-      // Toggle theme after fade out
-      const newTheme = !isDarkMode;
-      setIsDarkMode(newTheme);
-      AsyncStorage.setItem("darkMode", JSON.stringify(newTheme));
-
-      // Fade back in after updating theme
-      Animated.timing(fadeAnim, {
-        toValue: 1,
-        duration: 300, // Fade in duration
-        useNativeDriver: false,
-      }).start();
-    });
+    const newTheme = !isDarkMode;
+    setIsDarkMode(newTheme);
+    await AsyncStorage.setItem("darkMode", JSON.stringify(newTheme));
   };
 
+  const toggleTeamColor = async () => {
+    const newSetting = !useTeamColor;
+    setUseTeamColor(newSetting);
+    await AsyncStorage.setItem("useTeamColor", JSON.stringify(newSetting));
+  };
+
+  const getBackground = () => {
+    if (isDarkMode) return { type: "color", value: "#121212" };
+    if (useTeamColor && username && teamBackgrounds[username]) {
+      return { type: "image", value: teamBackgrounds[username] };
+    }
+    return { type: "color", value: "#FFFFFF" };
+  };
+
+  const getTextColor = () => {
+    if (isDarkMode) return "white";
+    if (useTeamColor) return "white";
+    return "black"; 
+  };
+
+  const background = getBackground();
+  const textColor = getTextColor();
+
+  console.log("Background Selected:", background);
+  console.log("Text Color Selected:", textColor);
+
   return (
-    <Animated.View
-      style={[
-        styles.container,
-        {
-          backgroundColor: isDarkMode ? fadeAnim.interpolate({
-            inputRange: [0, 1],
-            outputRange: ["#121212", "#121212"],
-          }) : fadeAnim.interpolate({
-            inputRange: [0, 1],
-            outputRange: ["white", "white"],
-          }),
-        },
-      ]}
-    >
-      <View style={styles.row}>
-        <Animated.Text
-          style={[
-            styles.text,
-            {
-              opacity: fadeAnim, // Make text fade in/out
-              color: isDarkMode ? "white" : "black",
-            },
-          ]}
-        >
-          Theme
-        </Animated.Text>
-        <Switch value={isDarkMode} onValueChange={toggleTheme} />
-      </View>
-    </Animated.View>
+    <View style={styles.container}>
+      {background.type === "image" ? (
+        <ImageBackground source={background.value} style={styles.imageBackground} resizeMode="cover">
+          <View style={styles.overlay}>
+            <SettingsContent isDarkMode={isDarkMode} useTeamColor={useTeamColor} toggleTheme={toggleTheme} toggleTeamColor={toggleTeamColor} textColor={textColor} />
+          </View>
+        </ImageBackground>
+      ) : (
+        <View style={[styles.overlay, { backgroundColor: background.value }]}>
+          <SettingsContent isDarkMode={isDarkMode} useTeamColor={useTeamColor} toggleTheme={toggleTheme} toggleTeamColor={toggleTeamColor} textColor={textColor} />
+        </View>
+      )}
+    </View>
   );
 }
 
+const SettingsContent = ({ isDarkMode, useTeamColor, toggleTheme, toggleTeamColor, textColor }) => (
+  <View style={styles.settingsContainer}>
+    <View style={styles.row}>
+      <Text style={[styles.text, { color: textColor }]}>Dark Mode</Text>
+      <Switch value={isDarkMode} onValueChange={toggleTheme} />
+    </View>
+
+    {!isDarkMode && (
+      <View style={styles.row}>
+        <Text style={[styles.text, { color: textColor }]}>Use Team Colors</Text>
+        <Switch value={useTeamColor} onValueChange={toggleTeamColor} />
+      </View>
+    )}
+  </View>
+);
+
 const styles = StyleSheet.create({
-  container: { flex: 1, paddingHorizontal: 20, paddingTop: 60 },
+  container: { flex: 1 },
+  imageBackground: { flex: 1, justifyContent: "center" },
+  overlay: {
+    flex: 1,
+    backgroundColor: "rgba(0, 0, 0, 0.5)",
+    alignItems: "center",
+    justifyContent: "center",
+  },
+  settingsContainer: {
+    width: "90%",
+    maxWidth: 400, 
+    padding: 20,
+    backgroundColor: "rgba(255, 255, 255, 0.2)", 
+    borderRadius: 10,
+  },
   row: {
     flexDirection: "row",
     justifyContent: "space-between",
     alignItems: "center",
+    marginVertical: 10,
+    width: "100%",
   },
-  text: { fontSize: 18, marginBottom: 10, paddingTop: 10 },
+  text: { fontSize: 18, fontWeight: "bold" },
 });
