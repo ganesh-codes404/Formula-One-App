@@ -6,7 +6,7 @@ import { createStackNavigator } from '@react-navigation/stack'; // Stack Navigat
 import HomeScreen from './Screens/Home';
 import SettingsScreen from './Screens/Settings';
 import RegisterScreen from './Screens/RegisterScreen';
-import ProfileScreen from './Screens/ProfileScreen';
+import FantasyBetting from './Screens/Fantasy';
 import StandingsScreen from './Screens/Standings';
 import LoginScreen from './Screens/LoginScreen'; // Import the new Login screen
 import Ionicons from '@expo/vector-icons/Ionicons';
@@ -84,10 +84,10 @@ const DrawerNavigation = () => (
       }}
     />
     <Drawer.Screen
-      name="Profile"
-      component={ProfileScreen}
+      name="Fantasy"
+      component={FantasyBetting}
       options={{
-        title: 'User Account',
+        title: 'Fantasy Betting',
         drawerIcon: ({ focused, size }) => (
           <Ionicons name={focused ? "car-sport" : "car-sport-outline"} size={24} color="black" />
         ),

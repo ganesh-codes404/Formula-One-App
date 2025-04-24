@@ -87,7 +87,7 @@ export default function RegisterScreen({ navigation }) {
                     selectedValue={favTeam}
                     style={styles.picker}
                     onValueChange={(itemValue) => setFavTeam(itemValue)}>
-                    <Picker.Item label="Select a team..." value="" />
+                    <Picker.Item label="Select a team." value="" />
                     <Picker.Item label="Ferrari" value="Ferrari" />
                     <Picker.Item label="Mercedes" value="Mercedes" />
                     <Picker.Item label="Red Bull" value="Red Bull" />
@@ -100,7 +100,16 @@ export default function RegisterScreen({ navigation }) {
                     <Picker.Item label="Kick Sauber" value="Kick Sauber" />
                 </Picker>
                 {favTeam === '' && <Text style={styles.error}>Favorite team is required</Text>}
-                
+                <Picker
+                    selectedValue={favTeam}
+                    style={styles.picker}
+                    onValueChange={(itemValue) => setFavTeam(itemValue)}>
+                    <Picker.Item label="What type of fan" value="" />
+                    <Picker.Item label="Casual" value="Casual" />
+                    <Picker.Item label="Veteran" value="Veteran" />
+                    <Picker.Item label="New" value="New" />
+                    </Picker>
+                {favTeam === '' && <Text style={styles.error}>Required</Text>}
                 <TouchableOpacity style={styles.button} onPress={handleSubmit(onSubmit)} disabled={loading}>
                     <Text style={styles.buttonText}>{loading ? "Registering..." : "Register"}</Text>
                 </TouchableOpacity>

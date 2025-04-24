@@ -1,41 +1,21 @@
-from fastapi import FastAPI
+from flask import Flask, request, jsonify
 import torch
-import uvicorn
-import numpy as np
 
-
-model = torch.jit.load("f1_model.pt")
+# Load your PyTorch model
+model = torch.jit.load("f1_model_scripted.pt")
 model.eval()
 
-app = FastAPI()
+app = Flask(__name__)
 
-@app.get("/")
-def home():
-    return {"message": "F1 Prediction Server is Running!"}
-
-@app.post("/predict")
-def predict(data: dict):
+@app.route('/predict', methods=['POST'])
+def predict():
     try:
-
-        input_data = torch.tensor([data["features"]], dtype=torch.float32)
-
-
-        with torch.no_grad():
-            output = model(input_data)
-
-
-        predictions = output.tolist()[0]
-
-        return {
-            "winner": predictions[0],
-            "safetyCarChance": predictions[1],
-            "weather": predictions[2],
-            "top10": predictions[3],
-            "finalTireStint": predictions[4],
-        }
-    
+        data = request.json
+        input_tensor = torch.tensor([data["features"]], dtype=torch.float32)
+        output = model(input_tensor)
+        return jsonify({"prediction": output.tolist()})
     except Exception as e:
-        return {"error": str(e)}
+        return jsonify({"error": str(e)}), 500
 
-if __name__ == "__main__":
-    uvicorn.run(app, host="0.0.0.0", port=8000)
+if __name__ == '__main__':
+    app.run(host="0.0.0.0", port=5000, debug=True)

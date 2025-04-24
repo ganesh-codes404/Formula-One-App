@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { View, TextInput, StyleSheet, Text, Image, ImageBackground, Animated, TouchableOpacity } from 'react-native';
 import AsyncStorage from '@react-native-async-storage/async-storage';
+import { Picker } from '@react-native-picker/picker';
 
 export default function LoginScreen({ navigation }) {
   const [username, setUsername] = useState('');
@@ -8,6 +9,7 @@ export default function LoginScreen({ navigation }) {
   const fadeAnim = useState(new Animated.Value(0))[0];
   const logoPosition = useState(new Animated.Value(50))[0];
   const [showSplash, setShowSplash] = useState(true);
+  const [favTeam, setFavTeam] = useState('');
 
   useEffect(() => {
     Animated.timing(fadeAnim, {
@@ -51,6 +53,7 @@ export default function LoginScreen({ navigation }) {
     }
   };
 
+
   if (showSplash) {
     return (
       <ImageBackground source={require("../assets/Login_background.jpg")} style={styles.background}>
@@ -84,6 +87,23 @@ export default function LoginScreen({ navigation }) {
           secureTextEntry
           style={styles.input}
         />
+                {/* <Picker
+                    selectedValue={favTeam}
+                    style={styles.picker}
+                    onValueChange={(itemValue) => setFavTeam(itemValue)}>
+                    <Picker.Item label="Select a team..." value="" />
+                    <Picker.Item label="Ferrari" value="Ferrari" />
+                    <Picker.Item label="Mercedes" value="Mercedes" />
+                    <Picker.Item label="Red Bull" value="Red Bull" />
+                    <Picker.Item label="McLaren" value="McLaren" />
+                    <Picker.Item label="Aston Martin" value="Aston Martin" />
+                    <Picker.Item label="Alpine" value="Alpine" />
+                    <Picker.Item label="Williams" value="Williams" />
+                    <Picker.Item label="Haas" value="Haas" />
+                    <Picker.Item label="Racing Bulls" value="Racing Bulls" />
+                    <Picker.Item label="Kick Sauber" value="Kick Sauber" />
+                </Picker>
+                {favTeam === '' && <Text style={styles.error}>Favorite team is required</Text>} */}
         <TouchableOpacity style={styles.button} onPress={handleLogin}>
           <Text style={styles.buttonText}>Login</Text>
         </TouchableOpacity>
@@ -119,8 +139,8 @@ const styles = StyleSheet.create({
     textShadowRadius: 5,
   },
   input: {
-    width: '80%',
-    height: 50,
+    width: 100,
+    height: 60,
     borderColor: 'white',
     borderWidth: 2,
     marginBottom: 15,
@@ -150,6 +170,12 @@ const styles = StyleSheet.create({
     fontFamily: 'Quicksand-Bold',
     fontWeight: 'bold',
   },
+  picker: {
+    width: '100%',
+    backgroundColor: 'rgba(0,0,0, 0.2)',
+    color: 'Green',
+    borderRadius: 25,
+},
   logo: {
     width: 300,
     height: 130,
