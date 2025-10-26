@@ -23,6 +23,31 @@ Formula One app is a react native based app, that has user customizable features
 - Node.js installed.
 - Expo go set up.
 - MongoDB instance running(not required for this repo).
+### Steps
+1. Clone the repository:
+   ```sh
+   git clone [https://github.com/ganesh-codes404/Formula-One-App.git](https://github.com/ganesh-codes404/Formula-One-App.git)
+   cd Formula-One-App
+   ```
+
+2. Install dependencies:
+   ```sh
+   yarn install
+   ```
+
+3. Set up environment variables:
+   - Create a `.env` file in the `server` directory and add the necessary environment variables (e.g., MongoDB URI, LLM API).
+
+5. Start the application(after setting up Expo Go):
+   ```sh
+   npm expo start 
+   ```
+
+## Usage
+- Check for the default user and password. 
+- Login and start the application.
+## Screenshots
+![Gameplay Screenshot](https://drive.google.com/uc?export=view&id=1Tu0O4WpwZvkc8NUllBYs4dHmtABKlJ6Q)
 
 ## Contact
 For any queries, reach out at LinkedIn(check profile page).
