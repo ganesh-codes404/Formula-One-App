@@ -46,9 +46,8 @@ Formula One app is a react native based app, that has user customizable features
 ## Usage
 - Check for the default user and password. 
 - Login and start the application.
-## Screenshots
-[![Gameplay Screenshot](https://drive.google.com/uc?export=view&id=1Tu0O4WpwZvkc8NUllBYs4dHmtABKlJ6Q)](https://drive.google.com/file/d/1Tu0O4WpwZvkc8NUllBYs4dHmtABKlJ6Q/view)
 
+## Feel free to contact if any issue at [LinkendIn](https://www.linkedin.com/in/ganesh-kurapati-06352a294/)
 
 ## Contact
 For any queries, reach out at LinkedIn(check profile page).
