@@ -40,8 +40,20 @@ Formula One app is a react native based app, that has user customizable features
 
 5. Start the application(after setting up Expo Go):
    ```sh
-   npm expo start 
-   ```
+   npm expo start
+## Outputs
+
+<img src="https://github.com/user-attachments/assets/1912daf2-9a15-43b6-ac1b-95d2a1c5cab5"
+     alt="What-IF generator"
+     width="250" />
+
+<img src="https://github.com/user-attachments/assets/c886c388-c082-4458-9375-78c0049b3f7b"
+     alt="Homescreen_darkmode"
+     width="250" />
+
+<img src="https://github.com/user-attachments/assets/d2e282bf-73d5-4e36-99d9-52159ec2a1fd"
+     alt="Fantasy Screen"
+     width="250" />
 
 ## Usage
 - Check for the default user and password. 
